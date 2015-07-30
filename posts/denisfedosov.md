@@ -382,7 +382,7 @@ RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skrimin
 
 .<a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skriming</a> добавляю в избранное на гитхабе и в закладки браузера (<a href="https://twitter.com/LeusMaximus" title="Максим Леонидов">@LeusMaximus</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>)
 
-## Четверг <small>12 твитов</small>
+## Четверг <small>21 твит</small>
 
 RT <a href="https://twitter.com/mikeshukshin" title="Михаил Шукшин">@mikeshukshin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> подскажите какой нить пакет для галпа обрабатывать стили чтобы автоматом подставлять пути в ba…
 
@@ -407,3 +407,21 @@ RT <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a>: <a h
 RT <a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a> display:table иногда практичен и сейчас ))
 
 .<a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a> я под табличной версткой понимаю table &gt; tr &gt; td ... Через стили несчитово! ) <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a>
+
+Близится к концу неделя моего молчаливого ведения твиттера. А мы еще о многом не успели поговорить  )
+
+Расскажите о своих личных проектах. Что верстаете в свободное от верстки время?
+
+RT <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> От задачи зависит, что лучше. Для многих простосайтов в этом нет смысла. <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a>
+
+RT <a href="https://twitter.com/ru_einse" title="Сергей Арсентьев">@ru_einse</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> Я верстаю самоучитель по чувашскому языку: сам пишу короткие статьи и делаю хтмл-страницы (ничего особенного).
+
+.<a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a> Согласен, всегда надо отталкиваться от задачи <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a>
+
+RT <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> Опенсорс, хомячка: <a href="http://t.co/DEzGfbz4ol">sapegin.me</a> :-)
+
+RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> отдельный интерфейс — это же плохо, пользователю надо жар раза учиться и потом постоянно переключать привы…
+
+.<a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> Мобильное типа типа бургер / горизонтальное меню. Два элемента разных интерфейсов. И для обоих сформирована привычка.
+
+.<a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> В глобальном смысле менять интерфейс плохо, да. Но это вынужденная мера, когда речь идет о маленьких экранах.
