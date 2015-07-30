@@ -1,6 +1,6 @@
 # denisfedosov
 
-_29 июля 2015_
+_30 июля 2015_
 
 ## Пятница <small>86 твитов</small>
 
@@ -381,3 +381,29 @@ RT <a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwai
 RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skriming</a>: <a href="https://twitter.com/LeusMaximus" title="Максим Леонидов">@LeusMaximus</a> <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> в связи с этим возник вопрос, а где вы храните ссылки\либы\плагины, что бы потом н…
 
 .<a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skriming</a> добавляю в избранное на гитхабе и в закладки браузера (<a href="https://twitter.com/LeusMaximus" title="Максим Леонидов">@LeusMaximus</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>)
+
+## Четверг <small>12 твитов</small>
+
+RT <a href="https://twitter.com/mikeshukshin" title="Михаил Шукшин">@mikeshukshin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> подскажите какой нить пакет для галпа обрабатывать стили чтобы автоматом подставлять пути в ba…
+
+RT <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> что думаете про табличную вёрстку?
+
+.<a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a> Таблицы для данных. Все остальное — нет. Давно ушли те времена, когда меню делались в табличке )
+
+Пока мы спали <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> сделал нам сайт <a href="https://t.co/ppMcL82LW1">cssunderhood.ru</a> "Славься, Джей! Славься, Джей!" © из к/ф "Люди в черном"
+
+RT <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> не эстетично или не практично? если не практично, то почему?
+
+.<a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a> не практично. Часто требуется адаптация под мобильноые разрешения.
+
+.<a href="https://twitter.com/cakeinpanic" title="Katerina Tort">@cakeinpanic</a> я так понимаю, хочется как в рельсах указал переменную, а по ней тебе урл подставился <a href="https://twitter.com/mikeshukshin" title="Михаил Шукшин">@mikeshukshin</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>
+
+RT <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> раз уж затронули тему.. Мобайл лучше адаптированный десктоп или отельный шаблон?
+
+.<a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a> холиварная тема ) Имхо, лучше отдельный шаблон. Он независим от десктопа и это дает возможность сделать другой интерфейс.
+
+.<a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a> Но адаптивный дешевле в разработке и поддержке. Поэтому большинство делает адаптивный.
+
+RT <a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a> display:table иногда практичен и сейчас ))
+
+.<a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a> я под табличной версткой понимаю table &gt; tr &gt; td ... Через стили несчитово! ) <a href="https://twitter.com/vladimore" title="Waldemar">@vladimore</a>
