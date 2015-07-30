@@ -4,6 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "update": "babel-node update",
+    "stats": "babel-node stats",
+    "final-stats": "babel-node final-stats",
+    "posts": "babel-node posts",
+    "f5": "npm run update && npm run stats && npm run final-stats && npm run posts",
   },
   "repository": {
     "type": "git",
