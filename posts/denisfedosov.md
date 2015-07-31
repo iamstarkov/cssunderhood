@@ -1,6 +1,6 @@
 # denisfedosov
 
-_30 июля 2015_
+_31 июля 2015_
 
 ## Пятница <small>86 твитов</small>
 
@@ -382,7 +382,7 @@ RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skrimin
 
 .<a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skriming</a> добавляю в избранное на гитхабе и в закладки браузера (<a href="https://twitter.com/LeusMaximus" title="Максим Леонидов">@LeusMaximus</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>)
 
-## Четверг <small>21 твит</small>
+## Четверг <small>22 твита</small>
 
 RT <a href="https://twitter.com/mikeshukshin" title="Михаил Шукшин">@mikeshukshin</a>: <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> подскажите какой нить пакет для галпа обрабатывать стили чтобы автоматом подставлять пути в ba…
 
@@ -425,3 +425,53 @@ RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник"
 .<a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> Мобильное типа типа бургер / горизонтальное меню. Два элемента разных интерфейсов. И для обоих сформирована привычка.
 
 .<a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник">@andrey_sitnik</a> В глобальном смысле менять интерфейс плохо, да. Но это вынужденная мера, когда речь идет о маленьких экранах.
+
+Вот еще про таблицы: у citilink.ru обновился сайт. Смотрим код списка товаров (в любом разделе), а там таблицы. Зачем? Неизвестно.
+
+## Пятница <small>23 твита</small>
+
+RT <a href="https://twitter.com/exdeniz" title="exdeniz">@exdeniz</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> А нет ли у кого примера Style Guide передачи дизайнером адаптивной и респонситив сетки верстальщику? А то эти "н…
+
+.<a href="https://twitter.com/exdeniz" title="exdeniz">@exdeniz</a> не понимания размеров и принципа работы? Мне однажды помог созвон, на котором я расшарил экран и показал на примерах что-как.
+
+.<a href="https://twitter.com/exdeniz" title="exdeniz">@exdeniz</a> а вот сборник правил хорошего тона в фотошопе <a href="http://t.co/CNNnmiVFP8">i-love-psd.ru</a>
+
+Мне последнее время все больше начинает нравится панель разработчика в FireFox. Она какая-то более человечная, что ли.
+
+Ещё я периодически устраиваю "день другого браузера", стараясь пользоваться FF / Opera / Safari / Я.Браузер.
+
+Про Safari я сделал для вывод. что это браузер одной вкладки. Как только появляется несколько вкладок, пользоваться им неудобно — теряешься.
+
+RT <a href="https://twitter.com/kohgpat" title="Nikolay Burlov">@kohgpat</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> как впечатления от я.браузера?
+
+.<a href="https://twitter.com/kohgpat" title="Nikolay Burlov">@kohgpat</a> Мне нравится Я.Браузер, как-то все уютно сделано. Кроме иконки )
+
+RT <a href="https://twitter.com/Sigiller" title="S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler">@Sigiller</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> всё больше говорят о том, что сафари - это новый ие8
+
+.<a href="https://twitter.com/Sigiller" title="S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler">@Sigiller</a> полностью согласен с этим высказыванием.
+
+RT <a href="https://twitter.com/dmitryshimkin" title="Dmitry Shimkin">@dmitryshimkin</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> зато в нем есть крутая прокрутка табов, если их очень много.
+
+.<a href="https://twitter.com/dmitryshimkin" title="Dmitry Shimkin">@dmitryshimkin</a> Там нет фавиконок. Это очень затрудняет поиск нужной вкладки.
+
+RT <a href="https://twitter.com/voischev" title="Ваня Воищев">@voischev</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> просто хром научил плохому. Постоянно в хроме вижу у других 100500 открытых вкладок :) например в твоей IDE так…
+
+.<a href="https://twitter.com/voischev" title="Ваня Воищев">@voischev</a> я приучил себя держать открытыми около 5-10 вкладок. Если нельзя прочитать названия вкладок — пора закрыть половину из них )
+
+RT <a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> надо б попробовать ) а то я мигрировал, когда ещё фаербаг был )) а в чём соль?
+
+.<a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a> В мелочах ) Можно взять и зафиксировать выделение элемента, удобнее править DOM. Попробуй, со времен firebug FF далеко шагнул )
+
+RT <a href="https://twitter.com/voischev" title="Ваня Воищев">@voischev</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> если так то кажется что в пяти вкладках сложно запутаться даже без фавиконок ;)
+
+.<a href="https://twitter.com/voischev" title="Ваня Воищев">@voischev</a> а если я сорвался и открыл 10? ) На самом деле, просто скучно без фавиконок. Для пары вкладок браузер-то хороший :)
+
+RT <a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a>: <a href="https://twitter.com/Sigiller" title="S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler">@Sigiller</a> <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> вот, может пригодится <a href="http://t.co/R52dUag4kB">devtoolstips.com</a>
+
+RT <a href="https://twitter.com/voischev" title="Ваня Воищев">@voischev</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> пф! Вот 10 ) Запутаться не реально. :) Так же как и в IDE полет нормальный <a href="http://t.co/BF7IbrTY8m">pic.twitter.com/BF7IbrTY8m</a>
+
+.<a href="https://twitter.com/voischev" title="Ваня Воищев">@voischev</a> ахаха, проверил — сворачивает табы только на 12-ти ) Но все равно, не мой это браузер. Вот прям не лежит душа к нему )
+
+RT <a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> а как же Vivaldi ?)
+
+.<a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a> не дошли у меня руки до него. Пробовал? Как он?
