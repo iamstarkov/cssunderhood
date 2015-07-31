@@ -237,7 +237,7 @@ RT <a href="https://twitter.com/press_dislike" title="Рома">@press_dislike</
 
 RT <a href="https://twitter.com/int16h" title="KØLIBABCHUK">@int16h</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> вопросы юного падавана: похвастайся своим параллаксом. что посоветуешь прочесть? бест практис, любимые плюшки с к…
 
-.<a href="https://twitter.com/int16h" title="⠀KØLIBABCHUK">@int16h</a> Покидаю несколько ссылок, которые постоянно держу под рукой. Они стары, но актуальны.
+.<a href="https://twitter.com/int16h" title="KØLIBABCHUK">@int16h</a> Покидаю несколько ссылок, которые постоянно держу под рукой. Они стары, но актуальны.
 
 Чек-лист верстки <a href="http://t.co/yq9ucpQbeE">habrahabr.ru/post/114256/</a>
 
@@ -428,7 +428,7 @@ RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник"
 
 Вот еще про таблицы: у citilink.ru обновился сайт. Смотрим код списка товаров (в любом разделе), а там таблицы. Зачем? Неизвестно.
 
-## Пятница <small>23 твита</small>
+## Пятница <small>32 твита</small>
 
 RT <a href="https://twitter.com/exdeniz" title="exdeniz">@exdeniz</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> А нет ли у кого примера Style Guide передачи дизайнером адаптивной и респонситив сетки верстальщику? А то эти "н…
 
@@ -475,3 +475,22 @@ RT <a href="https://twitter.com/voischev" title="Ваня Воищев">@voische
 RT <a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> а как же Vivaldi ?)
 
 .<a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a> не дошли у меня руки до него. Пробовал? Как он?
+
+RT <a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a>: Подскажите как выучить английский?  Маст рид книги, курсы и т. д.  Как учили его вы? 
+<a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a>
+
+.<a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a> <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> я вот по этим книгам занимаюсь. + чтение и перевод статей и фильмы на англ. с англ.субтитрами <a href="http://t.co/SGtQaOdj9n">pic.twitter.com/SGtQaOdj9n</a>
+
+RT <a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> это именно по грамматике книги? А видеокурсы какие-нибудь проходил? Их сейчас тьма тьмущая просто)
+
+.<a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a> Ага, грамматика. Я пробовал ЛингвоЛео, но у меня не покатило. А вот <a href="https://twitter.com/footballfrost" title="footballfrost">@footballfrost</a> в восторге от него.
+
+В рамках пятницы и фана: у меня есть домен <a href="http://t.co/B1F4JfvG5u">stopfridaydeploy.com</a> (и .ru) И есть идея собрать отзывов о том, почему лучше этого не делать.
+
+Особого смысла нет, просто ради фана. Что думаете, может есть идеи получше? )
+
+Наступает вечер пятницы и нам пора прощаться. Спасибо всем в этом чате, мне было очень приятно с вами общаться. Вы интересные собеседники.
+
+Отдельное спасибо <a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a> за возможность открыть коллективный твиттер и <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> за сайт <a href="http://t.co/6KH1G0QQ1q">cssunderhood.ru</a>
+
+С вами был Денис Федосов-Ледовских <a href="https://twitter.com/denisfedosov" title="Denis FL">@denisfedosov</a>. Буду рад продолжить общение за рамками <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a>
