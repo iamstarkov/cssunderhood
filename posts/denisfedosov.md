@@ -428,7 +428,7 @@ RT <a href="https://twitter.com/andrey_sitnik" title="Андрей Ситник"
 
 Вот еще про таблицы: у citilink.ru обновился сайт. Смотрим код списка товаров (в любом разделе), а там таблицы. Зачем? Неизвестно.
 
-## Пятница <small>32 твита</small>
+## Пятница <small>33 твита</small>
 
 RT <a href="https://twitter.com/exdeniz" title="exdeniz">@exdeniz</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> А нет ли у кого примера Style Guide передачи дизайнером адаптивной и респонситив сетки верстальщику? А то эти "н…
 
@@ -494,3 +494,5 @@ RT <a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatu
 Отдельное спасибо <a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwain</a> за возможность открыть коллективный твиттер и <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> за сайт <a href="http://t.co/6KH1G0QQ1q">cssunderhood.ru</a>
 
 С вами был Денис Федосов-Ледовских <a href="https://twitter.com/denisfedosov" title="Denis FL">@denisfedosov</a>. Буду рад продолжить общение за рамками <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a>
+
+Ну что, как вам эта неделя? Небольшой орг. момент: для пущего порядка следующий автор начнёт с понедельника, и так будет впредь.
