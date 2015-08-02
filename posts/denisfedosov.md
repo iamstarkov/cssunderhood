@@ -94,7 +94,7 @@ RT <a href="https://twitter.com/SelenIT2" title="SelenIT">@SelenIT2</a>: <a href
 
 .<a href="https://twitter.com/SelenIT2" title="SelenIT">@SelenIT2</a> Мы стараемся наобщаться в одно время. Помитинговали, обсудили вместе работу. Если недостаточно — разошлись говорить по приватикам
 
-RT <a href="https://twitter.com/LeusMaximus" title="Maksym Leonidov">@LeusMaximus</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> Плагин для синхронизации настроек  <a href="https://t.co/oGCwZ4qsFC">packagecontrol.io/packages/Packa…</a>
+RT <a href="https://twitter.com/LeusMaximus" title="Максим Леонидов">@LeusMaximus</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> Плагин для синхронизации настроек  <a href="https://t.co/oGCwZ4qsFC">packagecontrol.io/packages/Packa…</a>
 Просто сохраняет/считывает настройки в облако (dr…
 
 RT <a href="https://twitter.com/dshster" title="Дмитрий Швалёв">@dshster</a>: <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a> вот что скажите профессиональные html программисты, в html5 комильфо вкладывать тег div в а или span? <a href="https://twitter.com/search?q=%23html">#html</a>
