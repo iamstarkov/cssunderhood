@@ -1,0 +1,594 @@
+{
+  "username": "vdv73rus",
+  "start": "03 Aug 2015",
+  "first": "628084678298349569",
+  "post": false,
+  "tweets": [
+    {
+      "created_at": "Mon Aug 03 06:49:35 +0000 2015",
+      "id": 628095347928232000,
+      "id_str": "628095347928231936",
+      "text": ".@juwain @pvpshoot Инструмент сильно зависит от задачи: SPA || React —webpack, статика на gulp, для RubyOnRails сразу интеграция в проект.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628094765473615900,
+      "in_reply_to_status_id_str": "628094765473615872",
+      "in_reply_to_user_id": 18213700,
+      "in_reply_to_user_id_str": "18213700",
+      "in_reply_to_screen_name": "juwain",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "juwain",
+            "name": "Зюзин Виталий",
+            "id": 18213700,
+            "id_str": "18213700",
+            "indices": [
+              1,
+              8
+            ]
+          },
+          {
+            "screen_name": "pvpshoot",
+            "name": "Михаил Синяков",
+            "id": 288648932,
+            "id_str": "288648932",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:47:40 +0000 2015",
+      "id": 628094868108222500,
+      "id_str": "628094868108222465",
+      "text": "RT @juwain: @cssunderhood @pvpshoot расскажи про свой воркфлоу в вёрстке )",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 06:47:16 +0000 2015",
+        "id": 628094765473615900,
+        "id_str": "628094765473615872",
+        "text": "@cssunderhood @pvpshoot расскажи про свой воркфлоу в вёрстке )",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628093968757190700,
+        "in_reply_to_status_id_str": "628093968757190656",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 18213700,
+          "id_str": "18213700"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "pvpshoot",
+              "name": "Михаил Синяков",
+              "id": 288648932,
+              "id_str": "288648932",
+              "indices": [
+                14,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "juwain",
+            "name": "Зюзин Виталий",
+            "id": 18213700,
+            "id_str": "18213700",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              12,
+              25
+            ]
+          },
+          {
+            "screen_name": "pvpshoot",
+            "name": "Михаил Синяков",
+            "id": 288648932,
+            "id_str": "288648932",
+            "indices": [
+              26,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:45:39 +0000 2015",
+      "id": 628094360219975700,
+      "id_str": "628094360219975680",
+      "text": "@cssunderhood но только сейчас поймал баг: #666666 и #6c6c6c назвал мне одним именем. Козявка!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628094208268759000,
+      "in_reply_to_status_id_str": "628094208268759041",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "6c6c6c",
+            "indices": [
+              53,
+              60
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:45:03 +0000 2015",
+      "id": 628094208268759000,
+      "id_str": "628094208268759041",
+      "text": "У кого бывает проблема сочинения названий цветов для препроцессоров? Я использую этот сервис http://t.co/BNbCyamrtN",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/BNbCyamrtN",
+            "expanded_url": "http://chir.ag/projects/name-that-color/",
+            "display_url": "chir.ag/projects/name-…",
+            "indices": [
+              93,
+              115
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:44:06 +0000 2015",
+      "id": 628093968757190700,
+      "id_str": "628093968757190656",
+      "text": ".@pvpshoot разные реакто-штуки (да-да, стильно-модно-молодёжно), но наш аккаунт не про это ;)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628092348141019100,
+      "in_reply_to_status_id_str": "628092348141019136",
+      "in_reply_to_user_id": 288648932,
+      "in_reply_to_user_id_str": "288648932",
+      "in_reply_to_screen_name": "pvpshoot",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pvpshoot",
+            "name": "Михаил Синяков",
+            "id": 288648932,
+            "id_str": "288648932",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:43:02 +0000 2015",
+      "id": 628093702687359000,
+      "id_str": "628093702687358976",
+      "text": "RT @pvpshoot: @cssunderhood над чем сейчас интересным работаешь?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 06:37:39 +0000 2015",
+        "id": 628092348141019100,
+        "id_str": "628092348141019136",
+        "text": "@cssunderhood над чем сейчас интересным работаешь?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 288648932,
+          "id_str": "288648932"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pvpshoot",
+            "name": "Михаил Синяков",
+            "id": 288648932,
+            "id_str": "288648932",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:42:57 +0000 2015",
+      "id": 628093682202353700,
+      "id_str": "628093682202353664",
+      "text": "@juwain курсы конечно же!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628093471191101400,
+      "in_reply_to_status_id_str": "628093471191101441",
+      "in_reply_to_user_id": 18213700,
+      "in_reply_to_user_id_str": "18213700",
+      "in_reply_to_screen_name": "juwain",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "juwain",
+            "name": "Зюзин Виталий",
+            "id": 18213700,
+            "id_str": "18213700",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:13:47 +0000 2015",
+      "id": 628086339238527000,
+      "id_str": "628086339238526976",
+      "text": ".@talgautb и все-все-все, вещание будет из UTC +3",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628085619034447900,
+      "in_reply_to_status_id_str": "628085619034447872",
+      "in_reply_to_user_id": 257851355,
+      "in_reply_to_user_id_str": "257851355",
+      "in_reply_to_screen_name": "talgautb",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "talgautb",
+            "name": "Талга УтБ",
+            "id": 257851355,
+            "id_str": "257851355",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:08:40 +0000 2015",
+      "id": 628085052048572400,
+      "id_str": "628085052048572416",
+      "text": "Верстаю разное уже 7 лет. Прошёл через продуктовые компании, веб-студии, Битрикс и IE6. Сейчас работаю удалённо в http://t.co/tW52IyEiw8",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628084678298349600,
+      "in_reply_to_status_id_str": "628084678298349569",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/tW52IyEiw8",
+            "expanded_url": "http://hexlet-source.com",
+            "display_url": "hexlet-source.com",
+            "indices": [
+              114,
+              136
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 06:07:11 +0000 2015",
+      "id": 628084678298349600,
+      "id_str": "628084678298349569",
+      "text": "Всем привет! Эту неделю по ту сторону аккаунта я, Дима Вислов aka @vdv73rus Просыпайтесь )",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vdv73rus",
+            "name": "Vislov Dmitry",
+            "id": 49577583,
+            "id_str": "49577583",
+            "indices": [
+              66,
+              75
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
