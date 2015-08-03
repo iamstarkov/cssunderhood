@@ -46,64 +46,25 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 283,
+  "statuses_count": 284,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 03 07:58:51 +0000 2015",
-    "id": 628112783431835600,
-    "id_str": "628112783431835650",
-    "text": "RT @life_maniac: @cssunderhood я немножко расстроился. Оказывается, поиск в пигментах работает только в препроцессорных файлах, а в обычных…",
+    "created_at": "Mon Aug 03 08:00:37 +0000 2015",
+    "id": 628113226048401400,
+    "id_str": "628113226048401408",
+    "text": "@life_maniac мопед не мой ©",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 628112981608542200,
+    "in_reply_to_status_id_str": "628112981608542208",
+    "in_reply_to_user_id": 3044632342,
+    "in_reply_to_user_id_str": "3044632342",
+    "in_reply_to_screen_name": "life_maniac",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Aug 03 07:58:11 +0000 2015",
-      "id": 628112612971159600,
-      "id_str": "628112612971159552",
-      "text": "@cssunderhood я немножко расстроился. Оказывается, поиск в пигментах работает только в препроцессорных файлах, а в обычных css - нет.",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 628101860482764800,
-      "in_reply_to_status_id_str": "628101860482764800",
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -115,18 +76,8 @@
           "id": 3044632342,
           "id_str": "3044632342",
           "indices": [
-            3,
-            15
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            17,
-            30
+            0,
+            12
           ]
         }
       ],
