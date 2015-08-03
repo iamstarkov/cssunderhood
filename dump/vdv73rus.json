@@ -5,6 +5,1707 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 03 07:58:51 +0000 2015",
+      "id": 628112783431835600,
+      "id_str": "628112783431835650",
+      "text": "RT @life_maniac: @cssunderhood я немножко расстроился. Оказывается, поиск в пигментах работает только в препроцессорных файлах, а в обычных…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 07:58:11 +0000 2015",
+        "id": 628112612971159600,
+        "id_str": "628112612971159552",
+        "text": "@cssunderhood я немножко расстроился. Оказывается, поиск в пигментах работает только в препроцессорных файлах, а в обычных css - нет.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628101860482764800,
+        "in_reply_to_status_id_str": "628101860482764800",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 3044632342,
+          "id_str": "3044632342"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "life_maniac",
+            "name": "Dude Lebowski",
+            "id": 3044632342,
+            "id_str": "3044632342",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:58:15 +0000 2015",
+      "id": 628112632214618100,
+      "id_str": "628112632214618112",
+      "text": ".@iamstarkov @usernamus в некоторых компаниях есть StyleGuides где чётко прописано о маленьких буквах в цветах.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628112127207833600,
+      "in_reply_to_status_id_str": "628112127207833600",
+      "in_reply_to_user_id": 98084311,
+      "in_reply_to_user_id_str": "98084311",
+      "in_reply_to_screen_name": "iamstarkov",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              1,
+              12
+            ]
+          },
+          {
+            "screen_name": "usernamus",
+            "name": "Sergey Gornostaev",
+            "id": 539880659,
+            "id_str": "539880659",
+            "indices": [
+              13,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:57:20 +0000 2015",
+      "id": 628112401741795300,
+      "id_str": "628112401741795328",
+      "text": "RT @AndrewGurylev: @cssunderhood Юзаю #pigments для @AtomEditor. ColorHighlighter для саблайма сильно его вешал, а тут всё чётко. http://t.…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 07:50:07 +0000 2015",
+        "id": 628110585230688300,
+        "id_str": "628110585230688256",
+        "text": "@cssunderhood Юзаю #pigments для @AtomEditor. ColorHighlighter для саблайма сильно его вешал, а тут всё чётко. http://t.co/xetmFuhYc8",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628101320143163400,
+        "in_reply_to_status_id_str": "628101320143163392",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 2196774415,
+          "id_str": "2196774415"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "pigments",
+              "indices": [
+                19,
+                28
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "AtomEditor",
+              "name": "Atom Editor",
+              "id": 2339397540,
+              "id_str": "2339397540",
+              "indices": [
+                33,
+                44
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 628110582357463000,
+              "id_str": "628110582357463040",
+              "indices": [
+                111,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/CLd_Py0UkAA3Z-P.png",
+              "media_url_https": "https://pbs.twimg.com/media/CLd_Py0UkAA3Z-P.png",
+              "url": "http://t.co/xetmFuhYc8",
+              "display_url": "pic.twitter.com/xetmFuhYc8",
+              "expanded_url": "http://twitter.com/AndrewGurylev/status/628110585230688256/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 68,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 42,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 539,
+                  "h": 68,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 539,
+                  "h": 68,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 628110582357463000,
+              "id_str": "628110582357463040",
+              "indices": [
+                111,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/CLd_Py0UkAA3Z-P.png",
+              "media_url_https": "https://pbs.twimg.com/media/CLd_Py0UkAA3Z-P.png",
+              "url": "http://t.co/xetmFuhYc8",
+              "display_url": "pic.twitter.com/xetmFuhYc8",
+              "expanded_url": "http://twitter.com/AndrewGurylev/status/628110585230688256/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 68,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 42,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 539,
+                  "h": 68,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 539,
+                  "h": 68,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "pigments",
+            "indices": [
+              38,
+              47
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndrewGurylev",
+            "name": "Andrew Gurylev",
+            "id": 2196774415,
+            "id_str": "2196774415",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              19,
+              32
+            ]
+          },
+          {
+            "screen_name": "AtomEditor",
+            "name": "Atom Editor",
+            "id": 2339397540,
+            "id_str": "2339397540",
+            "indices": [
+              52,
+              63
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 628110582357463000,
+            "id_str": "628110582357463040",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLd_Py0UkAA3Z-P.png",
+            "media_url_https": "https://pbs.twimg.com/media/CLd_Py0UkAA3Z-P.png",
+            "url": "http://t.co/xetmFuhYc8",
+            "display_url": "pic.twitter.com/xetmFuhYc8",
+            "expanded_url": "http://twitter.com/AndrewGurylev/status/628110585230688256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 68,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 42,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 539,
+                "h": 68,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 539,
+                "h": 68,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 628110585230688300,
+            "source_status_id_str": "628110585230688256",
+            "source_user_id": 2196774415,
+            "source_user_id_str": "2196774415"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 628110582357463000,
+            "id_str": "628110582357463040",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLd_Py0UkAA3Z-P.png",
+            "media_url_https": "https://pbs.twimg.com/media/CLd_Py0UkAA3Z-P.png",
+            "url": "http://t.co/xetmFuhYc8",
+            "display_url": "pic.twitter.com/xetmFuhYc8",
+            "expanded_url": "http://twitter.com/AndrewGurylev/status/628110585230688256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 68,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 42,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 539,
+                "h": 68,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 539,
+                "h": 68,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 628110585230688300,
+            "source_status_id_str": "628110585230688256",
+            "source_user_id": 2196774415,
+            "source_user_id_str": "2196774415"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:46:38 +0000 2015",
+      "id": 628109707056672800,
+      "id_str": "628109707056672768",
+      "text": "@usernamus а вообще спасибо, поправили )",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628104496191799300,
+      "in_reply_to_status_id_str": "628104496191799296",
+      "in_reply_to_user_id": 539880659,
+      "in_reply_to_user_id_str": "539880659",
+      "in_reply_to_screen_name": "usernamus",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "usernamus",
+            "name": "Sergey Gornostaev",
+            "id": 539880659,
+            "id_str": "539880659",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:42:49 +0000 2015",
+      "id": 628108746338779100,
+      "id_str": "628108746338779136",
+      "text": "RT @ru_rodweb: @cssunderhood @life_maniac Atom 1:0 Sublime :-(",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 07:42:32 +0000 2015",
+        "id": 628108676658790400,
+        "id_str": "628108676658790400",
+        "text": "@cssunderhood @life_maniac Atom 1:0 Sublime :-(",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628108425117978600,
+        "in_reply_to_status_id_str": "628108425117978624",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 339939044,
+          "id_str": "339939044"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "life_maniac",
+              "name": "Dude Lebowski",
+              "id": 3044632342,
+              "id_str": "3044632342",
+              "indices": [
+                14,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ru_rodweb",
+            "name": "Igor Deryabin",
+            "id": 339939044,
+            "id_str": "339939044",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "life_maniac",
+            "name": "Dude Lebowski",
+            "id": 3044632342,
+            "id_str": "3044632342",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Mon Aug 03 07:41:32 +0000 2015",
+      "id": 628108425117978600,
+      "id_str": "628108425117978624",
+      "text": "@ru_rodweb @life_maniac Ага, https://t.co/FapTthEZEW",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628108032661188600,
+      "in_reply_to_status_id_str": "628108032661188608",
+      "in_reply_to_user_id": 339939044,
+      "in_reply_to_user_id_str": "339939044",
+      "in_reply_to_screen_name": "ru_rodweb",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 628103138973757400,
+      "quoted_status_id_str": "628103138973757440",
+      "quoted_status": {
+        "created_at": "Mon Aug 03 07:20:32 +0000 2015",
+        "id": 628103138973757400,
+        "id_str": "628103138973757440",
+        "text": "@cssunderhood цвета пробрасываются сквозь переменные и файлы, и это мне нравится. http://t.co/LFY6gzVlOP",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628101320143163400,
+        "in_reply_to_status_id_str": "628101320143163392",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 3376999971,
+          "id_str": "3376999971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 628103137899868200,
+              "id_str": "628103137899868162",
+              "indices": [
+                82,
+                104
+              ],
+              "media_url": "http://pbs.twimg.com/media/CLd4eeDUcAI1y6Q.png",
+              "media_url_https": "https://pbs.twimg.com/media/CLd4eeDUcAI1y6Q.png",
+              "url": "http://t.co/LFY6gzVlOP",
+              "display_url": "pic.twitter.com/LFY6gzVlOP",
+              "expanded_url": "http://twitter.com/cssunderhood/status/628103138973757440/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 143,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 253,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 810,
+                  "h": 342,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 628103137899868200,
+              "id_str": "628103137899868162",
+              "indices": [
+                82,
+                104
+              ],
+              "media_url": "http://pbs.twimg.com/media/CLd4eeDUcAI1y6Q.png",
+              "media_url_https": "https://pbs.twimg.com/media/CLd4eeDUcAI1y6Q.png",
+              "url": "http://t.co/LFY6gzVlOP",
+              "display_url": "pic.twitter.com/LFY6gzVlOP",
+              "expanded_url": "http://twitter.com/cssunderhood/status/628103138973757440/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 143,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 253,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 810,
+                  "h": 342,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ru_rodweb",
+            "name": "Igor Deryabin",
+            "id": 339939044,
+            "id_str": "339939044",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "life_maniac",
+            "name": "Dude Lebowski",
+            "id": 3044632342,
+            "id_str": "3044632342",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FapTthEZEW",
+            "expanded_url": "https://twitter.com/cssunderhood/status/628103138973757440",
+            "display_url": "twitter.com/cssunderhood/s…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:36:47 +0000 2015",
+      "id": 628107229007343600,
+      "id_str": "628107229007343616",
+      "text": ".@ru_rodweb @life_maniac в TODO однако ж там \"Add support for SASS/LESS variables\" и \"Support for CSS gradients and named colors\"",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628106506370723800,
+      "in_reply_to_status_id_str": "628106506370723840",
+      "in_reply_to_user_id": 339939044,
+      "in_reply_to_user_id_str": "339939044",
+      "in_reply_to_screen_name": "ru_rodweb",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ru_rodweb",
+            "name": "Igor Deryabin",
+            "id": 339939044,
+            "id_str": "339939044",
+            "indices": [
+              1,
+              11
+            ]
+          },
+          {
+            "screen_name": "life_maniac",
+            "name": "Dude Lebowski",
+            "id": 3044632342,
+            "id_str": "3044632342",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "sl"
+    },
+    {
+      "created_at": "Mon Aug 03 07:35:06 +0000 2015",
+      "id": 628106802861838300,
+      "id_str": "628106802861838336",
+      "text": "RT @ru_rodweb: @life_maniac @cssunderhood есть https://t.co/Otcl2iH4yT",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 07:33:55 +0000 2015",
+        "id": 628106506370723800,
+        "id_str": "628106506370723840",
+        "text": "@life_maniac @cssunderhood есть https://t.co/Otcl2iH4yT",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628103348668006400,
+        "in_reply_to_status_id_str": "628103348668006400",
+        "in_reply_to_user_id": 3044632342,
+        "in_reply_to_user_id_str": "3044632342",
+        "in_reply_to_screen_name": "life_maniac",
+        "user": {
+          "id": 339939044,
+          "id_str": "339939044"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "life_maniac",
+              "name": "Dude Lebowski",
+              "id": 3044632342,
+              "id_str": "3044632342",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                13,
+                26
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Otcl2iH4yT",
+              "expanded_url": "https://packagecontrol.io/packages/Gutter%20Color",
+              "display_url": "packagecontrol.io/packages/Gutte…",
+              "indices": [
+                32,
+                55
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ru_rodweb",
+            "name": "Igor Deryabin",
+            "id": 339939044,
+            "id_str": "339939044",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "life_maniac",
+            "name": "Dude Lebowski",
+            "id": 3044632342,
+            "id_str": "3044632342",
+            "indices": [
+              15,
+              27
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              28,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Otcl2iH4yT",
+            "expanded_url": "https://packagecontrol.io/packages/Gutter%20Color",
+            "display_url": "packagecontrol.io/packages/Gutte…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:28:35 +0000 2015",
+      "id": 628105162511523800,
+      "id_str": "628105162511523840",
+      "text": ".@usernamus На скриншоте одна из цветовых тем проекта, её могут кастомить сторонние разработчики со своим взглядом на КАПС букв в цветах )",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628104496191799300,
+      "in_reply_to_status_id_str": "628104496191799296",
+      "in_reply_to_user_id": 539880659,
+      "in_reply_to_user_id_str": "539880659",
+      "in_reply_to_screen_name": "usernamus",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "usernamus",
+            "name": "Sergey Gornostaev",
+            "id": 539880659,
+            "id_str": "539880659",
+            "indices": [
+              1,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:25:26 +0000 2015",
+      "id": 628104373730713600,
+      "id_str": "628104373730713600",
+      "text": "RT @sapegin: @cssunderhood А вот, похоже, определялка названий цветов для мака: https://t.co/F6rgYKBkq2",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 07:24:19 +0000 2015",
+        "id": 628104089495294000,
+        "id_str": "628104089495293952",
+        "text": "@cssunderhood А вот, похоже, определялка названий цветов для мака: https://t.co/F6rgYKBkq2",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628094208268759000,
+        "in_reply_to_status_id_str": "628094208268759041",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 31656594,
+          "id_str": "31656594"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/F6rgYKBkq2",
+              "expanded_url": "https://itunes.apple.com/ru/app/color-name-detector/id976799868?l=en&mt=12",
+              "display_url": "itunes.apple.com/ru/app/color-n…",
+              "indices": [
+                67,
+                90
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/F6rgYKBkq2",
+            "expanded_url": "https://itunes.apple.com/ru/app/color-name-detector/id976799868?l=en&mt=12",
+            "display_url": "itunes.apple.com/ru/app/color-n…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:24:55 +0000 2015",
+      "id": 628104242864226300,
+      "id_str": "628104242864226304",
+      "text": "@juwain Какие провокационные вопросы ;)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628103689123835900,
+      "in_reply_to_status_id_str": "628103689123835904",
+      "in_reply_to_user_id": 18213700,
+      "in_reply_to_user_id_str": "18213700",
+      "in_reply_to_screen_name": "juwain",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "juwain",
+            "name": "Зюзин Виталий",
+            "id": 18213700,
+            "id_str": "18213700",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:24:29 +0000 2015",
+      "id": 628104133443194900,
+      "id_str": "628104133443194880",
+      "text": "RT @life_maniac: @cssunderhood а для sublime 3 'горошка' нет?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 07:21:22 +0000 2015",
+        "id": 628103348668006400,
+        "id_str": "628103348668006400",
+        "text": "@cssunderhood а для sublime 3 'горошка' нет?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628101860482764800,
+        "in_reply_to_status_id_str": "628101860482764800",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 3044632342,
+          "id_str": "3044632342"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "life_maniac",
+            "name": "Dude Lebowski",
+            "id": 3044632342,
+            "id_str": "3044632342",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:20:32 +0000 2015",
+      "id": 628103138973757400,
+      "id_str": "628103138973757440",
+      "text": "@cssunderhood цвета пробрасываются сквозь переменные и файлы, и это мне нравится. http://t.co/LFY6gzVlOP",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628101320143163400,
+      "in_reply_to_status_id_str": "628101320143163392",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 628103137899868200,
+            "id_str": "628103137899868162",
+            "indices": [
+              82,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLd4eeDUcAI1y6Q.png",
+            "media_url_https": "https://pbs.twimg.com/media/CLd4eeDUcAI1y6Q.png",
+            "url": "http://t.co/LFY6gzVlOP",
+            "display_url": "pic.twitter.com/LFY6gzVlOP",
+            "expanded_url": "http://twitter.com/cssunderhood/status/628103138973757440/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 143,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 253,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 810,
+                "h": 342,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 628103137899868200,
+            "id_str": "628103137899868162",
+            "indices": [
+              82,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLd4eeDUcAI1y6Q.png",
+            "media_url_https": "https://pbs.twimg.com/media/CLd4eeDUcAI1y6Q.png",
+            "url": "http://t.co/LFY6gzVlOP",
+            "display_url": "pic.twitter.com/LFY6gzVlOP",
+            "expanded_url": "http://twitter.com/cssunderhood/status/628103138973757440/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 143,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 253,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 810,
+                "h": 342,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:18:45 +0000 2015",
+      "id": 628102689755394000,
+      "id_str": "628102689755394048",
+      "text": "RT @juwain: @cssunderhood целиком цвет подсвечивать смотрится громоздко, а кружочки кайфово!)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 03 07:18:13 +0000 2015",
+        "id": 628102554941964300,
+        "id_str": "628102554941964288",
+        "text": "@cssunderhood целиком цвет подсвечивать смотрится громоздко, а кружочки кайфово!)",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628101860482764800,
+        "in_reply_to_status_id_str": "628101860482764800",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 18213700,
+          "id_str": "18213700"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "juwain",
+            "name": "Зюзин Виталий",
+            "id": 18213700,
+            "id_str": "18213700",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:15:27 +0000 2015",
+      "id": 628101860482764800,
+      "id_str": "628101860482764800",
+      "text": "@cssunderhood мне нравится горошек ^_^ http://t.co/pUgxLr00X0",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628101320143163400,
+      "in_reply_to_status_id_str": "628101320143163392",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 628101859379523600,
+            "id_str": "628101859379523584",
+            "indices": [
+              39,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLd3UDMUMAAI00a.png",
+            "media_url_https": "https://pbs.twimg.com/media/CLd3UDMUMAAI00a.png",
+            "url": "http://t.co/pUgxLr00X0",
+            "display_url": "pic.twitter.com/pUgxLr00X0",
+            "expanded_url": "http://twitter.com/cssunderhood/status/628101860482764800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 391,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 446,
+                "h": 514,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 446,
+                "h": 514,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 628101859379523600,
+            "id_str": "628101859379523584",
+            "indices": [
+              39,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLd3UDMUMAAI00a.png",
+            "media_url_https": "https://pbs.twimg.com/media/CLd3UDMUMAAI00a.png",
+            "url": "http://t.co/pUgxLr00X0",
+            "display_url": "pic.twitter.com/pUgxLr00X0",
+            "expanded_url": "http://twitter.com/cssunderhood/status/628101860482764800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 391,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 446,
+                "h": 514,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 446,
+                "h": 514,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 03 07:13:18 +0000 2015",
+      "id": 628101320143163400,
+      "id_str": "628101320143163392",
+      "text": "Вдогонку к цветам: используете ли плагины подсветки цветов в стилях вроде https://t.co/hMM51z80FM или https://t.co/Z2v93N9Rwh ?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hMM51z80FM",
+            "expanded_url": "https://atom.io/packages/pigments",
+            "display_url": "atom.io/packages/pigme…",
+            "indices": [
+              74,
+              97
+            ]
+          },
+          {
+            "url": "https://t.co/Z2v93N9Rwh",
+            "expanded_url": "https://github.com/Monnoroch/ColorHighlighter",
+            "display_url": "github.com/Monnoroch/Colo…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 03 06:52:45 +0000 2015",
       "id": 628096145848422400,
       "id_str": "628096145848422400",
@@ -357,8 +2058,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
+      "retweet_count": 4,
+      "favorite_count": 7,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -675,7 +2376,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 3,
+      "retweet_count": 4,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
