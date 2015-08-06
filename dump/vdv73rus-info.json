@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 496,
+  "followers_count": 503,
   "friends_count": 9,
   "listed_count": 9,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 569,
+  "statuses_count": 570,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 06 12:40:02 +0000 2015",
-    "id": 629270707558608900,
-    "id_str": "629270707558608896",
-    "text": "RT @AndrewGurylev: @cssunderhood По кол-ву правок, которые он делает после того, как он уже сделал и сдал задачу.",
+    "created_at": "Thu Aug 06 14:54:24 +0000 2015",
+    "id": 629304519495651300,
+    "id_str": "629304519495651328",
+    "text": "В последнее время центрирую любые элементы только через flexbox или через transform-translate.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,72 +64,12 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Aug 06 12:34:58 +0000 2015",
-      "id": 629269433735843800,
-      "id_str": "629269433735843840",
-      "text": "@cssunderhood По кол-ву правок, которые он делает после того, как он уже сделал и сдал задачу.",
-      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 628851952424763400,
-      "in_reply_to_status_id_str": "628851952424763392",
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 5,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "AndrewGurylev",
-          "name": "Andrew Gurylev",
-          "id": 2196774415,
-          "id_str": "2196774415",
-          "indices": [
-            3,
-            17
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            19,
-            32
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
