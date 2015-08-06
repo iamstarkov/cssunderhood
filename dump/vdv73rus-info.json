@@ -46,13 +46,13 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 542,
+  "statuses_count": 543,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 06 06:58:09 +0000 2015",
-    "id": 629184669012127700,
-    "id_str": "629184669012127744",
-    "text": "RT @sapegin: @Sigiller А если собеседование на английском, то полезно ещё и потренироваться перед зеркалом (но я это не сразу понял :-) @cs…",
+    "created_at": "Thu Aug 06 06:58:49 +0000 2015",
+    "id": 629184838344515600,
+    "id_str": "629184838344515584",
+    "text": "RT @Sigiller: @sapegin @cssunderhood это кстати да, пока не начинаешь разговаривать вслух, всё кажется гораздо проще, а потом слова все куд…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,35 +65,35 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu Aug 06 06:57:56 +0000 2015",
-      "id": 629184613873786900,
-      "id_str": "629184613873786880",
-      "text": "@Sigiller А если собеседование на английском, то полезно ещё и потренироваться перед зеркалом (но я это не сразу понял :-) @cssunderhood",
-      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "created_at": "Thu Aug 06 06:58:39 +0000 2015",
+      "id": 629184796628021200,
+      "id_str": "629184796628021248",
+      "text": "@sapegin @cssunderhood это кстати да, пока не начинаешь разговаривать вслух, всё кажется гораздо проще, а потом слова все куда-то пропадают",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 629184057180598300,
-      "in_reply_to_status_id_str": "629184057180598272",
-      "in_reply_to_user_id": 74059237,
-      "in_reply_to_user_id_str": "74059237",
-      "in_reply_to_screen_name": "Sigiller",
+      "in_reply_to_status_id": 629184613873786900,
+      "in_reply_to_status_id_str": "629184613873786880",
+      "in_reply_to_user_id": 31656594,
+      "in_reply_to_user_id_str": "31656594",
+      "in_reply_to_screen_name": "sapegin",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "Sigiller",
-            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
-            "id": 74059237,
-            "id_str": "74059237",
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
             "indices": [
               0,
-              9
+              8
             ]
           },
           {
@@ -102,8 +102,8 @@
             "id": 3376999971,
             "id_str": "3376999971",
             "indices": [
-              123,
-              136
+              9,
+              22
             ]
           }
         ],
@@ -120,22 +120,22 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "sapegin",
-          "name": "Artem Sapegin",
-          "id": 31656594,
-          "id_str": "31656594",
-          "indices": [
-            3,
-            11
-          ]
-        },
-        {
           "screen_name": "Sigiller",
           "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
           "id": 74059237,
           "id_str": "74059237",
           "indices": [
-            13,
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "sapegin",
+          "name": "Artem Sapegin",
+          "id": 31656594,
+          "id_str": "31656594",
+          "indices": [
+            14,
             22
           ]
         },
@@ -145,8 +145,8 @@
           "id": 3376999971,
           "id_str": "3376999971",
           "indices": [
-            136,
-            140
+            23,
+            36
           ]
         }
       ],
