@@ -46,20 +46,20 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 637,
+  "statuses_count": 638,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 10 11:03:44 +0000 2015",
-    "id": 630696025825615900,
-    "id_str": "630696025825615872",
-    "text": "@life_maniac чего не хватает? хорошо смотрели каталог Atom Packages?",
+    "created_at": "Mon Aug 10 11:05:46 +0000 2015",
+    "id": 630696537010663400,
+    "id_str": "630696537010663424",
+    "text": "Очень часто встречаюсь с вопросами: \"А чем Atom от Sublime отличается? На вид одно и то же.\" Хочется объяснить разницу.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 630695280392962000,
-    "in_reply_to_status_id_str": "630695280392962048",
-    "in_reply_to_user_id": 3044632342,
-    "in_reply_to_user_id_str": "3044632342",
-    "in_reply_to_screen_name": "life_maniac",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,18 +69,7 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "life_maniac",
-          "name": "Опасный сыч",
-          "id": 3044632342,
-          "id_str": "3044632342",
-          "indices": [
-            0,
-            12
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
