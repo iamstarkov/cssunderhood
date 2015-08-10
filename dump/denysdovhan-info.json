@@ -3,19 +3,8 @@
   "id_str": "3376999971",
   "name": "Верстальщик",
   "screen_name": "cssunderhood",
-  "location": "Ukraine",
-  "profile_location": {
-    "id": "084d0d0155787e9d",
-    "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
-    "place_type": "unknown",
-    "name": "Ukraine",
-    "full_name": "Ukraine",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "location": "Ukraine, Chernivtsi ",
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для верстальщиков, веб-дизайнеров и сочувствующих с новым автором каждую неделю. Эту неделю с вами @denysdovhan",
   "url": "https://t.co/Kem9C6tf3p",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 526,
+  "followers_count": 539,
   "friends_count": 9,
   "listed_count": 13,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -46,20 +35,20 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 638,
+  "statuses_count": 701,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 10 11:05:46 +0000 2015",
-    "id": 630696537010663400,
-    "id_str": "630696537010663424",
-    "text": "Очень часто встречаюсь с вопросами: \"А чем Atom от Sublime отличается? На вид одно и то же.\" Хочется объяснить разницу.",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Mon Aug 10 15:48:58 +0000 2015",
+    "id": 630767805311418400,
+    "id_str": "630767805311418368",
+    "text": "@LeusMaximus к сожалению да.",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 630765009421889500,
+    "in_reply_to_status_id_str": "630765009421889536",
+    "in_reply_to_user_id": 3297191720,
+    "in_reply_to_user_id_str": "3297191720",
+    "in_reply_to_screen_name": "LeusMaximus",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,7 +58,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "LeusMaximus",
+          "name": "Максим Леонидов",
+          "id": 3297191720,
+          "id_str": "3297191720",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
