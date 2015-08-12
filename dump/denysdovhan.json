@@ -5,6 +5,779 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Aug 11 21:54:17 +0000 2015",
+      "id": 631222126264086500,
+      "id_str": "631222126264086528",
+      "text": "@smithua возьму на заметку.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 631219537720004600,
+      "in_reply_to_status_id_str": "631219537720004608",
+      "in_reply_to_user_id": 185156694,
+      "in_reply_to_user_id_str": "185156694",
+      "in_reply_to_screen_name": "smithua",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smithua",
+            "name": "Alexandr Fesenko",
+            "id": 185156694,
+            "id_str": "185156694",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 21:11:37 +0000 2015",
+      "id": 631211390741692400,
+      "id_str": "631211390741692417",
+      "text": "RT @LeusMaximus: @cssunderhood Есть перевод http://t.co/FW4KtrO0h7",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 11 21:06:12 +0000 2015",
+        "id": 631210028695965700,
+        "id_str": "631210028695965696",
+        "text": "@cssunderhood Есть перевод http://t.co/FW4KtrO0h7",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 631192515543199700,
+        "in_reply_to_status_id_str": "631192515543199744",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 3297191720,
+          "id_str": "3297191720"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/FW4KtrO0h7",
+              "expanded_url": "http://habrahabr.ru/post/262127/",
+              "display_url": "habrahabr.ru/post/262127/",
+              "indices": [
+                27,
+                49
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LeusMaximus",
+            "name": "Максим Леонидов",
+            "id": 3297191720,
+            "id_str": "3297191720",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/FW4KtrO0h7",
+            "expanded_url": "http://habrahabr.ru/post/262127/",
+            "display_url": "habrahabr.ru/post/262127/",
+            "indices": [
+              44,
+              66
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 20:57:04 +0000 2015",
+      "id": 631207730313830400,
+      "id_str": "631207730313830404",
+      "text": "Да, у обоих есть плюсы и минусы, но они крутые. @xwoody @7rulnik",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 631207225101525000,
+      "in_reply_to_status_id_str": "631207225101524992",
+      "in_reply_to_user_id": 8035442,
+      "in_reply_to_user_id_str": "8035442",
+      "in_reply_to_screen_name": "xwoody",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xwoody",
+            "name": "Aleks Hudochenkov",
+            "id": 8035442,
+            "id_str": "8035442",
+            "indices": [
+              48,
+              55
+            ]
+          },
+          {
+            "screen_name": "7rulnik",
+            "name": "Valentin Semirulnik",
+            "id": 449464925,
+            "id_str": "449464925",
+            "indices": [
+              56,
+              64
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 20:55:35 +0000 2015",
+      "id": 631207356186120200,
+      "id_str": "631207356186120192",
+      "text": "RT @xwoody: @cssunderhood @7rulnik думаю, что оба сборщика хороши и если все устраивает нет смысла менять :) Для разнообразия нужно будет п…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 11 20:55:04 +0000 2015",
+        "id": 631207225101525000,
+        "id_str": "631207225101524992",
+        "text": "@cssunderhood @7rulnik думаю, что оба сборщика хороши и если все устраивает нет смысла менять :) Для разнообразия нужно будет попробовать.",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 631180436203569200,
+        "in_reply_to_status_id_str": "631180436203569152",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 8035442,
+          "id_str": "8035442"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "7rulnik",
+              "name": "Valentin Semirulnik",
+              "id": 449464925,
+              "id_str": "449464925",
+              "indices": [
+                14,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xwoody",
+            "name": "Aleks Hudochenkov",
+            "id": 8035442,
+            "id_str": "8035442",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              12,
+              25
+            ]
+          },
+          {
+            "screen_name": "7rulnik",
+            "name": "Valentin Semirulnik",
+            "id": 449464925,
+            "id_str": "449464925",
+            "indices": [
+              26,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 20:07:21 +0000 2015",
+      "id": 631195215626432500,
+      "id_str": "631195215626432512",
+      "text": "@GrawlCore да, я стараюсь, но с таким потоком твитов это довольно сложно.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 631194938399674400,
+      "in_reply_to_status_id_str": "631194938399674369",
+      "in_reply_to_user_id": 16737157,
+      "in_reply_to_user_id_str": "16737157",
+      "in_reply_to_screen_name": "GrawlCore",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GrawlCore",
+            "name": "Даниил",
+            "id": 16737157,
+            "id_str": "16737157",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 20:00:44 +0000 2015",
+      "id": 631193551066558500,
+      "id_str": "631193551066558465",
+      "text": "Думаю выдавать вот так каждый вечер по несколько полезностей было бы лучше, чем все одним валом.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 19:57:57 +0000 2015",
+      "id": 631192851603423200,
+      "id_str": "631192851603423232",
+      "text": "https://t.co/co9SlEJcuh - репозиторий с полезностями по ES2015.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/co9SlEJcuh",
+            "expanded_url": "https://github.com/ericdouglas/ES6-Learning",
+            "display_url": "github.com/ericdouglas/ES…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 19:56:37 +0000 2015",
+      "id": 631192515543199700,
+      "id_str": "631192515543199744",
+      "text": "https://t.co/ugnCjc4Vt0 - очень крутая handbook о командной строке.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 17,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ugnCjc4Vt0",
+            "expanded_url": "https://github.com/jlevy/the-art-of-command-line",
+            "display_url": "github.com/jlevy/the-art-…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 19:54:43 +0000 2015",
+      "id": 631192039712014300,
+      "id_str": "631192039712014337",
+      "text": "https://t.co/L51BrLIjAv - стайлгайд по работе с git. Вот еще мой перевод на украинский: https://t.co/wDVd2P5k8K",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 15,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/L51BrLIjAv",
+            "expanded_url": "https://github.com/agis-/git-style-guide",
+            "display_url": "github.com/agis-/git-styl…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/wDVd2P5k8K",
+            "expanded_url": "https://github.com/denysdovhan/git-style-guide",
+            "display_url": "github.com/denysdovhan/gi…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 19:53:21 +0000 2015",
+      "id": 631191694185267200,
+      "id_str": "631191694185267200",
+      "text": "https://t.co/8XSzfQFTeK - список must have пагинов для Grunt.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8XSzfQFTeK",
+            "expanded_url": "https://github.com/Pestov/essential-grunt-plugins",
+            "display_url": "github.com/Pestov/essenti…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Aug 11 19:51:48 +0000 2015",
+      "id": 631191305113235500,
+      "id_str": "631191305113235456",
+      "text": "https://t.co/EnWxnHJvwF - если вам приходиться работать с XAMPP сервером, то это скрипт для его управления из терминала.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EnWxnHJvwF",
+            "expanded_url": "https://github.com/ziyaddin/xampp-cli",
+            "display_url": "github.com/ziyaddin/xampp…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 19:47:01 +0000 2015",
+      "id": 631190101570244600,
+      "id_str": "631190101570244608",
+      "text": "Приготовьтесь получать полезности.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 19:08:37 +0000 2015",
+      "id": 631180436203569200,
+      "id_str": "631180436203569152",
+      "text": "@xwoody субъективно, pipelines выглядят каскадно и вполне логично. Я так тоже думал, пока не попробовал. @7rulnik",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 631160272691032000,
+      "in_reply_to_status_id_str": "631160272691032064",
+      "in_reply_to_user_id": 8035442,
+      "in_reply_to_user_id_str": "8035442",
+      "in_reply_to_screen_name": "xwoody",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xwoody",
+            "name": "Aleks Hudochenkov",
+            "id": 8035442,
+            "id_str": "8035442",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "7rulnik",
+            "name": "Valentin Semirulnik",
+            "id": 449464925,
+            "id_str": "449464925",
+            "indices": [
+              105,
+              113
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 17:29:19 +0000 2015",
+      "id": 631155445915385900,
+      "id_str": "631155445915385856",
+      "text": "@xwoody чем такой страшный? Мне больше в галпе крнфиги нравятся.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 631137725631070200,
+      "in_reply_to_status_id_str": "631137725631070208",
+      "in_reply_to_user_id": 8035442,
+      "in_reply_to_user_id_str": "8035442",
+      "in_reply_to_screen_name": "xwoody",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xwoody",
+            "name": "Aleks Hudochenkov",
+            "id": 8035442,
+            "id_str": "8035442",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Aug 11 16:09:09 +0000 2015",
       "id": 631135271942275100,
       "id_str": "631135271942275072",
@@ -201,7 +974,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -485,7 +1258,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -845,7 +1618,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -941,7 +1714,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1397,7 +2170,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2332,7 +3105,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -2978,7 +3751,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3436,7 +4209,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3767,7 +4540,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4562,7 +5335,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 3,
-        "favorite_count": 11,
+        "favorite_count": 12,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -6616,7 +7389,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 10,
+      "favorite_count": 12,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7733,7 +8506,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 17,
+      "favorite_count": 19,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7777,7 +8550,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 15,
+      "favorite_count": 17,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7821,7 +8594,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 20,
+      "favorite_count": 22,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7865,7 +8638,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 15,
+      "favorite_count": 16,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7909,7 +8682,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 13,
+      "favorite_count": 15,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8030,7 +8803,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 21,
+      "favorite_count": 22,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8074,7 +8847,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 14,
+      "favorite_count": 16,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8129,7 +8902,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 13,
+      "favorite_count": 14,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8184,7 +8957,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 13,
+      "favorite_count": 14,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -9756,7 +10529,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 5,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -9953,7 +10726,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
