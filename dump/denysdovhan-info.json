@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 603,
+  "followers_count": 618,
   "friends_count": 9,
-  "listed_count": 20,
+  "listed_count": 21,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
   "favourites_count": 0,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1030,
+  "statuses_count": 1081,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Aug 14 07:52:37 +0000 2015",
-    "id": 632097480998551600,
-    "id_str": "632097480998551552",
-    "text": "Друзья, у нас небольшой гет в 600 фолловеров!",
+    "created_at": "Fri Aug 14 17:34:13 +0000 2015",
+    "id": 632243845086998500,
+    "id_str": "632243845086998528",
+    "text": "Спасибо! Скорее всего сделаем форк и адаптируем под особенности украинского языка. Роботы теперь меньше. @iamstarkov @gladkih_m",
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 632242300421148700,
+    "in_reply_to_status_id_str": "632242300421148672",
+    "in_reply_to_user_id": 98084311,
+    "in_reply_to_user_id_str": "98084311",
+    "in_reply_to_screen_name": "iamstarkov",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,7 +58,28 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "iamstarkov",
+          "name": "Vladimir Starkov",
+          "id": 98084311,
+          "id_str": "98084311",
+          "indices": [
+            105,
+            116
+          ]
+        },
+        {
+          "screen_name": "gladkih_m",
+          "name": "Maxim Gladkih",
+          "id": 16400433,
+          "id_str": "16400433",
+          "indices": [
+            117,
+            127
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
