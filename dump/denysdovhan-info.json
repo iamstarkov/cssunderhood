@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 593,
+  "followers_count": 603,
   "friends_count": 9,
   "listed_count": 20,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1028,
+  "statuses_count": 1030,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 13 18:08:18 +0000 2015",
-    "id": 631890031955865600,
-    "id_str": "631890031955865600",
-    "text": "RT @iamstarkov: @lancedikson @andrey_sitnik @cssunderhood тебе нравится писать ;(function(windows, $, undefined) {…})(windows, jquery)?",
+    "created_at": "Fri Aug 14 07:52:37 +0000 2015",
+    "id": 632097480998551600,
+    "id_str": "632097480998551552",
+    "text": "Друзья, у нас небольшой гет в 600 фолловеров!",
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,112 +53,12 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Aug 13 17:54:48 +0000 2015",
-      "id": 631886637220397000,
-      "id_str": "631886637220397056",
-      "text": "@lancedikson @andrey_sitnik @cssunderhood тебе нравится писать ;(function(windows, $, undefined) {…})(windows, jquery)?",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 631886577040552000,
-      "in_reply_to_status_id_str": "631886577040551936",
-      "in_reply_to_user_id": 98084311,
-      "in_reply_to_user_id_str": "98084311",
-      "in_reply_to_screen_name": "iamstarkov",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "lancedikson",
-            "name": "Denis Demchenko",
-            "id": 305808776,
-            "id_str": "305808776",
-            "indices": [
-              0,
-              12
-            ]
-          },
-          {
-            "screen_name": "andrey_sitnik",
-            "name": "Андрей Ситник",
-            "id": 62229769,
-            "id_str": "62229769",
-            "indices": [
-              13,
-              27
-            ]
-          },
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              28,
-              41
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "iamstarkov",
-          "name": "Vladimir Starkov",
-          "id": 98084311,
-          "id_str": "98084311",
-          "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "lancedikson",
-          "name": "Denis Demchenko",
-          "id": 305808776,
-          "id_str": "305808776",
-          "indices": [
-            16,
-            28
-          ]
-        },
-        {
-          "screen_name": "andrey_sitnik",
-          "name": "Андрей Ситник",
-          "id": 62229769,
-          "id_str": "62229769",
-          "indices": [
-            29,
-            43
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            44,
-            57
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
