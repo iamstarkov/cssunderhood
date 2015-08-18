@@ -496,3 +496,42 @@ RT <a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatu
 С вами был Денис Федосов-Ледовских <a href="https://twitter.com/denisfedosov" title="Denis FL">@denisfedosov</a>. Буду рад продолжить общение за рамками <a href="https://twitter.com/cssunderhood" title="HTML, CSS, BDSM">@cssunderhood</a>
 
 Ну что, как вам эта неделя? Небольшой орг. момент: для пущего порядка следующий автор начнёт с понедельника, и так будет впредь.
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/sapegin/dotfiles/blob/master/sublime/User/Package%20Control.sublime-settings" target="_blank">https://github.com/sapegin/dotfiles/blob/master/sublime/User/Package%20Control.sublime-settings</a>  
+<a href="https://github.com/Nitrino/nil-ui" target="_blank">https://github.com/Nitrino/nil-ui</a>  
+<a href="https://github.com/css-modules/css-modules" target="_blank">https://github.com/css-modules/css-modules</a>  
+<a href="https://github.com/denisfl/thane/" target="_blank">https://github.com/denisfl/thane/</a>  
+<a href="https://github.com/sindresorhus/awesome" target="_blank">https://github.com/sindresorhus/awesome</a>  
+<a href="https://github.com/miripiruni/frontdesk" target="_blank">https://github.com/miripiruni/frontdesk</a>
+
+### Другие
+
+<a href="https://packagecontrol.io/packages/Package%20Syncing" target="_blank">https://packagecontrol.io/packages/Package%20Syncing</a>  
+<a href="http://html5doctor.com/block-level-links-in-html-5/" target="_blank">http://html5doctor.com/block-level-links-in-html-5/</a>  
+<a href="http://codepen.io/denisfl/pen/BNqLMy" target="_blank">http://codepen.io/denisfl/pen/BNqLMy</a>  
+<a href="http://codepen.io/yusufbkr/pen/JdBxpj" target="_blank">http://codepen.io/yusufbkr/pen/JdBxpj</a>  
+<a href="http://kizu.ru/fun/nested-links/" target="_blank">http://kizu.ru/fun/nested-links/</a>  
+<a href="https://learn.javascript.ru/courses" target="_blank">https://learn.javascript.ru/courses</a>  
+<a href="http://cssdevices.io/" target="_blank">http://cssdevices.io/</a>  
+<a href="http://devinhunt.github.io/typebase.css/" target="_blank">http://devinhunt.github.io/typebase.css/</a>  
+<a href="http://www.isev.co.uk/blog/using-css4s-validity-pseudo-classes-to-make-forms-epic/" target="_blank">http://www.isev.co.uk/blog/using-css4s-validity-pseudo-classes-to-make-forms-epic/</a>  
+<a href="https://youtu.be/xPPCzryZK44?t=1885" target="_blank">https://youtu.be/xPPCzryZK44?t=1885</a>  
+<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%B8%D0%B4%D0%BE%D1%80_(%D0%BC%D0%B5%D1%82%D0%BE%D0%B4)" target="_blank">https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%B8%D0%B4%D0%BE%D1%80_(%D0%BC%D0%B5%D1%82%D0%BE%D0%B4)</a>  
+<a href="http://habrahabr.ru/post/114256/" target="_blank">http://habrahabr.ru/post/114256/</a>  
+<a href="https://www.google.com/design/tool/devices/" target="_blank">https://www.google.com/design/tool/devices/</a>  
+<a href="http://philipwalton.github.io/solved-by-flexbox/" target="_blank">http://philipwalton.github.io/solved-by-flexbox/</a>  
+<a href="https://middlemanapp.com/" target="_blank">https://middlemanapp.com/</a>  
+<a href="https://slack.com/integrations" target="_blank">https://slack.com/integrations</a>  
+<a href="https://cloudup.com/cphJc1ms1D4" target="_blank">https://cloudup.com/cphJc1ms1D4</a>  
+<a href="https://addons.mozilla.org/ru/firefox/addon/pixel-perfect/" target="_blank">https://addons.mozilla.org/ru/firefox/addon/pixel-perfect/</a>  
+<a href="https://www.mixcloud.com/denisfl/playlists/deep-progressive/" target="_blank">https://www.mixcloud.com/denisfl/playlists/deep-progressive/</a>  
+<a href="https://gist.github.com/denisfl/b7b77439c0c0ed4c3208" target="_blank">https://gist.github.com/denisfl/b7b77439c0c0ed4c3208</a>  
+<a href="http://take.ms/2F5Uv" target="_blank">http://take.ms/2F5Uv</a>  
+<a href="http://frontender.info/a-baseline-for-front-end-developers/" target="_blank">http://frontender.info/a-baseline-for-front-end-developers/</a>  
+<a href="http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/" target="_blank">http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/</a>  
+<a href="https://cssunderhood.ru/" target="_blank">https://cssunderhood.ru/</a>  
+<a href="http://i-love-psd.ru/" target="_blank">http://i-love-psd.ru/</a>  
+<a href="http://stopfridaydeploy.com/" target="_blank">http://stopfridaydeploy.com/</a>

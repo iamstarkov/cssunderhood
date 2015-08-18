@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 660,
+  "followers_count": 666,
   "friends_count": 10,
   "listed_count": 22,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,95 +35,97 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1349,
+  "statuses_count": 1371,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Aug 18 10:54:01 +0000 2015",
-    "id": 633592680883310600,
-    "id_str": "633592680883310592",
-    "text": "RT @life_maniac: @cssunderhood кстати, почему ActiveCollab, а не, например, Basecamp?",
+    "created_at": "Tue Aug 18 11:47:12 +0000 2015",
+    "id": 633606065461010400,
+    "id_str": "633606065461010433",
+    "text": "Есть http://t.co/IfCTFDt2qD @sapegin @MonkAlbino @akrekotun @denysbutenko @bayevn",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 633605828898127900,
+    "in_reply_to_status_id_str": "633605828898127872",
+    "in_reply_to_user_id": 31656594,
+    "in_reply_to_user_id_str": "31656594",
+    "in_reply_to_screen_name": "sapegin",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Aug 18 10:51:50 +0000 2015",
-      "id": 633592130372522000,
-      "id_str": "633592130372521984",
-      "text": "@cssunderhood кстати, почему ActiveCollab, а не, например, Basecamp?",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 633563426737008600,
-      "in_reply_to_status_id_str": "633563426737008640",
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "und"
-    },
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "life_maniac",
-          "name": "Опасный сыч",
-          "id": 3044632342,
-          "id_str": "3044632342",
+          "screen_name": "sapegin",
+          "name": "Artem Sapegin",
+          "id": 31656594,
+          "id_str": "31656594",
           "indices": [
-            3,
-            15
+            28,
+            36
           ]
         },
         {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
+          "screen_name": "MonkAlbino",
+          "name": "Michael Danilov",
+          "id": 14756270,
+          "id_str": "14756270",
           "indices": [
-            17,
-            30
+            37,
+            48
+          ]
+        },
+        {
+          "screen_name": "akrekotun",
+          "name": "Alexey Krekotun",
+          "id": 22465090,
+          "id_str": "22465090",
+          "indices": [
+            49,
+            59
+          ]
+        },
+        {
+          "screen_name": "denysbutenko",
+          "name": "Denys Butenko",
+          "id": 111169374,
+          "id_str": "111169374",
+          "indices": [
+            60,
+            73
+          ]
+        },
+        {
+          "screen_name": "bayevn",
+          "name": "Nikita Bayev",
+          "id": 128534452,
+          "id_str": "128534452",
+          "indices": [
+            74,
+            81
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/IfCTFDt2qD",
+          "expanded_url": "http://jobs.dou.ua/salaries/",
+          "display_url": "jobs.dou.ua/salaries/",
+          "indices": [
+            5,
+            27
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "und"
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,

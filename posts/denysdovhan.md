@@ -905,3 +905,86 @@ RT <a href="https://twitter.com/dmitruksergey" title="Serhii Dmytruk">@dmitrukse
 С вами был студент-айтишник Денис Довгань — <a href="https://twitter.com/denysdovhan" title="Denys Dovhan">@denysdovhan</a>!
 
 Логаут.
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/atom/atom/issues/7995" target="_blank">https://github.com/atom/atom/issues/7995</a>  
+<a href="https://github.com/jonschlinkert/sublime-monokai-extended" target="_blank">https://github.com/jonschlinkert/sublime-monokai-extended</a>  
+<a href="https://github.com/atom/one-dark-ui" target="_blank">https://github.com/atom/one-dark-ui</a>  
+<a href="https://github.com/atom/one-dark-syntax" target="_blank">https://github.com/atom/one-dark-syntax</a>  
+<a href="https://github.com/sapegin/grunt-webfont" target="_blank">https://github.com/sapegin/grunt-webfont</a>  
+<a href="https://github.com/denysdovhan/dotfiles" target="_blank">https://github.com/denysdovhan/dotfiles</a>  
+<a href="https://github.com/ai/environment/blob/master/zshrc#L53-L62" target="_blank">https://github.com/ai/environment/blob/master/zshrc#L53-L62</a>  
+<a href="https://github.com/lloeki/ex-mode/" target="_blank">https://github.com/lloeki/ex-mode/</a>  
+<a href="https://github.com/skriming/cssunderhood-awesome" target="_blank">https://github.com/skriming/cssunderhood-awesome</a>  
+<a href="https://github.com/Krekotun/fabium" target="_blank">https://github.com/Krekotun/fabium</a>  
+<a href="https://github.com/tamiadev/tamia/tree/master/tamia" target="_blank">https://github.com/tamiadev/tamia/tree/master/tamia</a>  
+<a href="https://github.com/flyjs/fly" target="_blank">https://github.com/flyjs/fly</a>  
+<a href="https://github.com/npm/npm/releases/tag/v3.0.0" target="_blank">https://github.com/npm/npm/releases/tag/v3.0.0</a>  
+<a href="https://github.com/ziyaddin/xampp-cli" target="_blank">https://github.com/ziyaddin/xampp-cli</a>  
+<a href="https://github.com/Pestov/essential-grunt-plugins" target="_blank">https://github.com/Pestov/essential-grunt-plugins</a>  
+<a href="https://github.com/agis-/git-style-guide" target="_blank">https://github.com/agis-/git-style-guide</a>  
+<a href="https://github.com/denysdovhan/git-style-guide" target="_blank">https://github.com/denysdovhan/git-style-guide</a>  
+<a href="https://github.com/jlevy/the-art-of-command-line" target="_blank">https://github.com/jlevy/the-art-of-command-line</a>  
+<a href="https://github.com/ericdouglas/ES6-Learning" target="_blank">https://github.com/ericdouglas/ES6-Learning</a>  
+<a href="https://github.com/blog/2046-github-desktop-is-now-available" target="_blank">https://github.com/blog/2046-github-desktop-is-now-available</a>  
+<a href="https://github.com/jmoon018/PacVim" target="_blank">https://github.com/jmoon018/PacVim</a>  
+<a href="https://github.com/devinhunt/typebase.css" target="_blank">https://github.com/devinhunt/typebase.css</a>  
+<a href="https://github.com/lukehoban/es6features" target="_blank">https://github.com/lukehoban/es6features</a>  
+<a href="https://github.com/sapegin/grunt-fontoptim" target="_blank">https://github.com/sapegin/grunt-fontoptim</a>  
+<a href="https://github.com/sapegin/fontoptim" target="_blank">https://github.com/sapegin/fontoptim</a>  
+<a href="https://github.com/sapegin/grunt-bower-concat" target="_blank">https://github.com/sapegin/grunt-bower-concat</a>  
+<a href="https://github.com/codeguida/ua-dev-list" target="_blank">https://github.com/codeguida/ua-dev-list</a>  
+<a href="https://github.com/web-standards-ru/dictionary" target="_blank">https://github.com/web-standards-ru/dictionary</a>  
+<a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" target="_blank">https://github.com/h5bp/Front-end-Developer-Interview-Questions</a>  
+<a href="https://github.com/denysdovhan/denysdovhan.github.io" target="_blank">https://github.com/denysdovhan/denysdovhan.github.io</a>  
+<a href="https://github.com/denysdovhan" target="_blank">https://github.com/denysdovhan</a>
+
+### Другие
+
+<a href="https://atom.io/packages" target="_blank">https://atom.io/packages</a>  
+<a href="https://atom.io/docs/v1.0.5/" target="_blank">https://atom.io/docs/v1.0.5/</a>  
+<a href="https://atom.io/packages/selector-to-tag" target="_blank">https://atom.io/packages/selector-to-tag</a>  
+<a href="https://coveloping.com/tools" target="_blank">https://coveloping.com/tools</a>  
+<a href="http://cssstats.com/" target="_blank">http://cssstats.com/</a>  
+<a href="https://searchcode.com/" target="_blank">https://searchcode.com/</a>  
+<a href="http://gridzzly.com/" target="_blank">http://gridzzly.com/</a>  
+<a href="http://js2.coffee/" target="_blank">http://js2.coffee/</a>  
+<a href="http://type-scale.com/" target="_blank">http://type-scale.com/</a>  
+<a href="http://slides.com/" target="_blank">http://slides.com/</a>  
+<a href="http://makerbook.net/" target="_blank">http://makerbook.net/</a>  
+<a href="http://svgporn.com/" target="_blank">http://svgporn.com/</a>  
+<a href="http://devtoolstips.com/" target="_blank">http://devtoolstips.com/</a>  
+<a href="https://vimeo.com/105752439" target="_blank">https://vimeo.com/105752439</a>  
+<a href="https://icomoon.io/app/" target="_blank">https://icomoon.io/app/</a>  
+<a href="http://dotfiles.github.io/" target="_blank">http://dotfiles.github.io/</a>  
+<a href="https://youtu.be/jkmn1T7U3dI?t=3m10s" target="_blank">https://youtu.be/jkmn1T7U3dI?t=3m10s</a>  
+<a href="https://youtu.be/fuS-3HSnpq4" target="_blank">https://youtu.be/fuS-3HSnpq4</a>  
+<a href="https://instagram.com/p/6MaqQNQhqH/" target="_blank">https://instagram.com/p/6MaqQNQhqH/</a>  
+<a href="https://instagram.com/p/4PdeK0whkk/" target="_blank">https://instagram.com/p/4PdeK0whkk/</a>  
+<a href="https://instagram.com/p/2-_k4SjDuM/" target="_blank">https://instagram.com/p/2-_k4SjDuM/</a>  
+<a href="https://www.youtube.com/watch?v=8OJ7ih8EE7s" target="_blank">https://www.youtube.com/watch?v=8OJ7ih8EE7s</a>  
+<a href="http://habrahabr.ru/post/262127/" target="_blank">http://habrahabr.ru/post/262127/</a>  
+<a href="http://www.zachleat.com/web/compatibility/" target="_blank">http://www.zachleat.com/web/compatibility/</a>  
+<a href="https://cssunderhood.ru/about/" target="_blank">https://cssunderhood.ru/about/</a>  
+<a href="https://www.google.com.ua/search?q=chernivtsi+national+university&espv=1&prmd=im&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMI9ciu6tGjxwIVhVsUCh3CnQvb&biw=320&bih=488&dpr=1.5" target="_blank">https://www.google.com.ua/search?q=chernivtsi+national+university&espv=1&prmd=im&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMI9ciu6tGjxwIVhVsUCh3CnQvb&biw=320&bih=488&dpr=1.5</a>  
+<a href="http://vstarkov.ru/autosquash/" target="_blank">http://vstarkov.ru/autosquash/</a>  
+<a href="http://vstarkov.ru/vimtutor/" target="_blank">http://vstarkov.ru/vimtutor/</a>  
+<a href="https://babeljs.io/docs/learn-es2015/" target="_blank">https://babeljs.io/docs/learn-es2015/</a>  
+<a href="http://yeoman.io/generators/" target="_blank">http://yeoman.io/generators/</a>  
+<a href="https://toster.ru/q/238313" target="_blank">https://toster.ru/q/238313</a>  
+<a href="https://gitter.im/codeguida/chat" target="_blank">https://gitter.im/codeguida/chat</a>  
+<a href="https://gitter.im/dev-ua/" target="_blank">https://gitter.im/dev-ua/</a>  
+<a href="http://css-live.ru/" target="_blank">http://css-live.ru/</a>  
+<a href="http://forwebdev.ru/" target="_blank">http://forwebdev.ru/</a>  
+<a href="http://css.yoksel.ru/" target="_blank">http://css.yoksel.ru/</a>  
+<a href="http://headjs.ru/" target="_blank">http://headjs.ru/</a>  
+<a href="http://www.sitepoint.com/" target="_blank">http://www.sitepoint.com/</a>  
+<a href="http://tympanus.net/codrops/" target="_blank">http://tympanus.net/codrops/</a>  
+<a href="http://kck.st/1Wt59xS" target="_blank">http://kck.st/1Wt59xS</a>  
+<a href="http://zencoder.ru/css/adobe-extract/" target="_blank">http://zencoder.ru/css/adobe-extract/</a>  
+<a href="http://zencoder.ru/css/project-parfait/" target="_blank">http://zencoder.ru/css/project-parfait/</a>  
+<a href="http://denysdovhan.com/hello-world/" target="_blank">http://denysdovhan.com/hello-world/</a>  
+<a href="http://nano.sapegin.ru/all/coding-interview" target="_blank">http://nano.sapegin.ru/all/coding-interview</a>  
+<a href="https://raindrop.io/collection/246227" target="_blank">https://raindrop.io/collection/246227</a>

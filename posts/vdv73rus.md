@@ -717,3 +717,47 @@ RT <a href="https://twitter.com/LeusMaximus" title="Максим Леонидо�
 На этом мы завершаем рабочую неделю :) Надеюсь, было полезно и интересно. Всем спасибо, мне понравилось!
 
 С вами был Дима Вислов aka <a href="https://twitter.com/vdv73rus" title="Vislov Dmitry">@vdv73rus</a> Всем пятницы и хороших выходных! Пока!
+
+## Ссылки
+
+### github.com  
+<a href="https://github.com/Monnoroch/ColorHighlighter" target="_blank">https://github.com/Monnoroch/ColorHighlighter</a>  
+<a href="https://github.com/bezoerb/grunt-critical" target="_blank">https://github.com/bezoerb/grunt-critical</a>  
+<a href="https://github.com/Pavliko/postcss-svg" target="_blank">https://github.com/Pavliko/postcss-svg</a>  
+<a href="https://github.com/sapegin/grunt-webfont" target="_blank">https://github.com/sapegin/grunt-webfont</a>  
+<a href="https://github.com/w0rm/gulp-svgstore" target="_blank">https://github.com/w0rm/gulp-svgstore</a>  
+<a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Russian" target="_blank">https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Russian</a>  
+<a href="https://github.com/web-standards-ru/dictionary" target="_blank">https://github.com/web-standards-ru/dictionary</a>  
+<a href="https://github.com/ben-eb/cssnano" target="_blank">https://github.com/ben-eb/cssnano</a>  
+<a href="https://github.com/corysimmons/lost" target="_blank">https://github.com/corysimmons/lost</a>  
+<a href="https://github.com/dev-ua" target="_blank">https://github.com/dev-ua</a>
+
+### Другие
+
+<a href="http://chir.ag/projects/name-that-color/" target="_blank">http://chir.ag/projects/name-that-color/</a>  
+<a href="https://atom.io/packages/pigments" target="_blank">https://atom.io/packages/pigments</a>  
+<a href="https://itunes.apple.com/ru/app/color-name-detector/id976799868?l=en&mt=12" target="_blank">https://itunes.apple.com/ru/app/color-name-detector/id976799868?l=en&mt=12</a>  
+<a href="https://packagecontrol.io/packages/Gutter%20Color" target="_blank">https://packagecontrol.io/packages/Gutter%20Color</a>  
+<a href="http://name-of-color.com/" target="_blank">http://name-of-color.com/</a>  
+<a href="https://www.npmjs.com/package/yaspeller" target="_blank">https://www.npmjs.com/package/yaspeller</a>  
+<a href="http://apple.co/1K0JZO4" target="_blank">http://apple.co/1K0JZO4</a>  
+<a href="http://pepelsbey.net/pres/flexbox-gotcha/" target="_blank">http://pepelsbey.net/pres/flexbox-gotcha/</a>  
+<a href="http://frontender.info/a-guide-to-flexbox/" target="_blank">http://frontender.info/a-guide-to-flexbox/</a>  
+<a href="http://yiiframework.ru/doc/cookbook/ru/js.package" target="_blank">http://yiiframework.ru/doc/cookbook/ru/js.package</a>  
+<a href="http://www.sitepoint.com/avoid-sass-extend/" target="_blank">http://www.sitepoint.com/avoid-sass-extend/</a>  
+<a href="http://codepen.io/denswor/pen/JdxoKY" target="_blank">http://codepen.io/denswor/pen/JdxoKY</a>  
+<a href="https://icomoon.io/app/" target="_blank">https://icomoon.io/app/</a>  
+<a href="https://css-tricks.com/svg-symbol-good-choice-icons/" target="_blank">https://css-tricks.com/svg-symbol-good-choice-icons/</a>  
+<a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8" target="_blank">https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8</a>  
+<a href="http://yellowlab.tools/" target="_blank">http://yellowlab.tools/</a>  
+<a href="https://www.artlebedev.ru/tools/reformator/" target="_blank">https://www.artlebedev.ru/tools/reformator/</a>  
+<a href="http://mdash.ru/demo.html" target="_blank">http://mdash.ru/demo.html</a>  
+<a href="https://csshat.com/" target="_blank">https://csshat.com/</a>  
+<a href="http://pnghat.madebysource.com/" target="_blank">http://pnghat.madebysource.com/</a>  
+<a href="http://cssnano.co/optimisations/" target="_blank">http://cssnano.co/optimisations/</a>  
+<a href="http://art73.ru/" target="_blank">http://art73.ru/</a>  
+<a href="http://placehold.it/" target="_blank">http://placehold.it/</a>  
+<a href="http://lorempixel.com/" target="_blank">http://lorempixel.com/</a>  
+<a href="http://frontenddevelopers.slack.com/" target="_blank">http://frontenddevelopers.slack.com/</a>  
+<a href="https://gist.github.com/listochkin/c81c198a2b7b044a0dc5" target="_blank">https://gist.github.com/listochkin/c81c198a2b7b044a0dc5</a>  
+<a href="http://2014.front-end.su/" target="_blank">http://2014.front-end.su/</a>
