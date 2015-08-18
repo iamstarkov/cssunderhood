@@ -5,6 +5,214 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Aug 18 16:53:19 +0000 2015",
+      "id": 633683101336666100,
+      "id_str": "633683101336666112",
+      "text": "Хэндбук - это руководство для новых сотрудников, где в вольном стиле описано «какие правила работы», «что где находится» и т.д. @ymatuhin",
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 633675372098269200,
+      "in_reply_to_status_id_str": "633675372098269186",
+      "in_reply_to_user_id": 921560971,
+      "in_reply_to_user_id_str": "921560971",
+      "in_reply_to_screen_name": "ymatuhin",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ymatuhin",
+            "name": "Юрий Матюхин",
+            "id": 921560971,
+            "id_str": "921560971",
+            "indices": [
+              128,
+              137
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 16:50:37 +0000 2015",
+      "id": 633682421062475800,
+      "id_str": "633682421062475776",
+      "text": "RT @ymatuhin: @cssunderhood что такое хэндбук?)",
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 18 16:22:36 +0000 2015",
+        "id": 633675372098269200,
+        "id_str": "633675372098269186",
+        "text": "@cssunderhood что такое хэндбук?)",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 633674212524298200,
+        "in_reply_to_status_id_str": "633674212524298241",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 921560971,
+          "id_str": "921560971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ymatuhin",
+            "name": "Юрий Матюхин",
+            "id": 921560971,
+            "id_str": "921560971",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 16:18:00 +0000 2015",
+      "id": 633674212524298200,
+      "id_str": "633674212524298241",
+      "text": "А я написал стартовый Handbook для новых сотрудников. Кстати, у вас в компании есть Handbook?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 16:11:02 +0000 2015",
+      "id": 633672460550991900,
+      "id_str": "633672460550991872",
+      "text": "Новый сотрудник успешно и главное - самостоятельно сделал правки на продакшене, сейчас сдает своему менеджеру задачу.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Aug 18 11:47:12 +0000 2015",
       "id": 633606065461010400,
       "id_str": "633606065461010433",
@@ -1031,7 +1239,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 5,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1625,7 +1833,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 1,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3303,7 +3511,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7075,8 +7283,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 103,
-        "favorite_count": 53,
+        "retweet_count": 104,
+        "favorite_count": 54,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -7088,7 +7296,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 103,
+      "retweet_count": 104,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -7274,7 +7482,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 4,
-        "favorite_count": 2,
+        "favorite_count": 3,
         "entities": {
           "hashtags": [],
           "symbols": [],
