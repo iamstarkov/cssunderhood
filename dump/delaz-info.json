@@ -35,64 +35,25 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1346,
+  "statuses_count": 1347,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Aug 18 10:46:35 +0000 2015",
-    "id": 633590811708510200,
-    "id_str": "633590811708510208",
-    "text": "RT @usernamus: @cssunderhood, слева, это все задачи на день?",
+    "created_at": "Tue Aug 18 10:51:01 +0000 2015",
+    "id": 633591925640175600,
+    "id_str": "633591925640175616",
+    "text": ".@usernamus нет, вот список задач на мой отдел сегодня: http://t.co/VKiFIicwtL",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 633566498565587000,
+    "in_reply_to_status_id_str": "633566498565586945",
+    "in_reply_to_user_id": 539880659,
+    "in_reply_to_user_id_str": "539880659",
+    "in_reply_to_screen_name": "usernamus",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Aug 18 09:09:59 +0000 2015",
-      "id": 633566498565587000,
-      "id_str": "633566498565586945",
-      "text": "@cssunderhood, слева, это все задачи на день?",
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 633563426737008600,
-      "in_reply_to_status_id_str": "633563426737008640",
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -104,25 +65,54 @@
           "id": 539880659,
           "id_str": "539880659",
           "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            15,
-            28
+            1,
+            11
           ]
         }
       ],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 633591923588993000,
+          "id_str": "633591923588993024",
+          "indices": [
+            56,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/CMr4f2IUEAAWfB7.png",
+          "media_url_https": "https://pbs.twimg.com/media/CMr4f2IUEAAWfB7.png",
+          "url": "http://t.co/VKiFIicwtL",
+          "display_url": "pic.twitter.com/VKiFIicwtL",
+          "expanded_url": "http://twitter.com/cssunderhood/status/633591925640175616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 639,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 374,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 212,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
