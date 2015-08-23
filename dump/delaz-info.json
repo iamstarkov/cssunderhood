@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 717,
+  "followers_count": 720,
   "friends_count": 12,
   "listed_count": 26,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,87 +35,38 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1898,
+  "statuses_count": 1964,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Aug 22 13:42:23 +0000 2015",
-    "id": 635084602059673600,
-    "id_str": "635084602059673600",
-    "text": "RT @Pashapush: @cssunderhood Хочу сообщить, что вас читают не только FrontEnd разработчики, но может быть один PM",
+    "created_at": "Sun Aug 23 11:52:52 +0000 2015",
+    "id": 635419431062122500,
+    "id_str": "635419431062122496",
+    "text": ".@webdev_vl а письменный - на новостных порталах типа theinsider.ua,nv.ua - там 2 языка, можно одно и тоже на русском и украинском читать",
     "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 635413491902468100,
+    "in_reply_to_status_id_str": "635413491902468096",
+    "in_reply_to_user_id": 194783934,
+    "in_reply_to_user_id_str": "194783934",
+    "in_reply_to_screen_name": "webdev_vl",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Sat Aug 22 13:02:21 +0000 2015",
-      "id": 635074527358283800,
-      "id_str": "635074527358283777",
-      "text": "@cssunderhood Хочу сообщить, что вас читают не только FrontEnd разработчики, но может быть один PM",
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Pashapush",
-          "name": "P U S H",
-          "id": 97530309,
-          "id_str": "97530309",
+          "screen_name": "webdev_vl",
+          "name": "Soon™",
+          "id": 194783934,
+          "id_str": "194783934",
           "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            15,
-            28
+            1,
+            11
           ]
         }
       ],
