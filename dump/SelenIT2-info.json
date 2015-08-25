@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 728,
+  "followers_count": 760,
   "friends_count": 13,
-  "listed_count": 26,
+  "listed_count": 27,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
   "favourites_count": 0,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2029,
+  "statuses_count": 2084,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 24 06:22:20 +0000 2015",
-    "id": 635698636509323300,
-    "id_str": "635698636509323264",
-    "text": "Приветствую всех! На эту неделю честь вести этот аккаунт выпала мне — Илье Стрельцыну aka @SelenIT2 из Минска.",
+    "created_at": "Tue Aug 25 11:21:36 +0000 2015",
+    "id": 636136339184951300,
+    "id_str": "636136339184951296",
+    "text": "RT @MikitaLisavets: @Bizi @cssunderhood главное помнить что это всего лишь работа, когда не воспринимаешь ее чем-то весомым - проще относиш…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,20 +53,89 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 2,
+    "retweeted_status": {
+      "created_at": "Tue Aug 25 10:59:59 +0000 2015",
+      "id": 636130896672878600,
+      "id_str": "636130896672878593",
+      "text": "@Bizi @cssunderhood главное помнить что это всего лишь работа, когда не воспринимаешь ее чем-то весомым - проще относишься к авралам)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636127558665265200,
+      "in_reply_to_status_id_str": "636127558665265152",
+      "in_reply_to_user_id": 46595567,
+      "in_reply_to_user_id_str": "46595567",
+      "in_reply_to_screen_name": "Bizi",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Bizi",
+            "name": "Александр Бизиков",
+            "id": 46595567,
+            "id_str": "46595567",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              6,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "SelenIT2",
-          "name": "SelenIT",
-          "id": 455700025,
-          "id_str": "455700025",
+          "screen_name": "MikitaLisavets",
+          "name": "Mikita Lisavets",
+          "id": 2557237524,
+          "id_str": "2557237524",
           "indices": [
-            90,
-            99
+            3,
+            18
+          ]
+        },
+        {
+          "screen_name": "Bizi",
+          "name": "Александр Бизиков",
+          "id": 46595567,
+          "id_str": "46595567",
+          "indices": [
+            20,
+            25
+          ]
+        },
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            26,
+            39
           ]
         }
       ],
