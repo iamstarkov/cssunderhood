@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 761,
+  "followers_count": 767,
   "friends_count": 13,
   "listed_count": 27,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2084,
+  "statuses_count": 2094,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Aug 25 11:21:36 +0000 2015",
-    "id": 636136339184951300,
-    "id_str": "636136339184951296",
-    "text": "RT @MikitaLisavets: @Bizi @cssunderhood главное помнить что это всего лишь работа, когда не воспринимаешь ее чем-то весомым - проще относиш…",
+    "created_at": "Wed Aug 26 09:24:44 +0000 2015",
+    "id": 636469314460237800,
+    "id_str": "636469314460237824",
+    "text": "RT @stucssplay: http://t.co/xUAhZpeZ6c\n\nAn update to the previous auto run slideshow to... http://t.co/oiaxJBgb9y",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -54,53 +54,52 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Tue Aug 25 10:59:59 +0000 2015",
-      "id": 636130896672878600,
-      "id_str": "636130896672878593",
-      "text": "@Bizi @cssunderhood главное помнить что это всего лишь работа, когда не воспринимаешь ее чем-то весомым - проще относишься к авралам)",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "created_at": "Wed Aug 26 09:18:42 +0000 2015",
+      "id": 636467795891515400,
+      "id_str": "636467795891515393",
+      "text": "http://t.co/xUAhZpeZ6c\n\nAn update to the previous auto run slideshow to... http://t.co/oiaxJBgb9y",
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
       "truncated": false,
-      "in_reply_to_status_id": 636127558665265200,
-      "in_reply_to_status_id_str": "636127558665265152",
-      "in_reply_to_user_id": 46595567,
-      "in_reply_to_user_id_str": "46595567",
-      "in_reply_to_screen_name": "Bizi",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [
+        "user_mentions": [],
+        "urls": [
           {
-            "screen_name": "Bizi",
-            "name": "Александр Бизиков",
-            "id": 46595567,
-            "id_str": "46595567",
+            "url": "http://t.co/xUAhZpeZ6c",
+            "expanded_url": "http://www.cssplay.co.uk/menu/cssplay-shape-slideshow-v2.html",
+            "display_url": "cssplay.co.uk/menu/cssplay-s…",
             "indices": [
               0,
-              5
+              22
             ]
           },
           {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
+            "url": "http://t.co/oiaxJBgb9y",
+            "expanded_url": "http://fb.me/7pyqh9g4D",
+            "display_url": "fb.me/7pyqh9g4D",
             "indices": [
-              6,
-              19
+              75,
+              97
             ]
           }
-        ],
-        "urls": []
+        ]
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "possibly_sensitive": false,
+      "lang": "en"
     },
     "retweet_count": 1,
     "favorite_count": 0,
@@ -109,41 +108,41 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "MikitaLisavets",
-          "name": "Mikita Lisavets",
-          "id": 2557237524,
-          "id_str": "2557237524",
+          "screen_name": "stucssplay",
+          "name": "CSS play",
+          "id": 174351321,
+          "id_str": "174351321",
           "indices": [
             3,
-            18
-          ]
-        },
-        {
-          "screen_name": "Bizi",
-          "name": "Александр Бизиков",
-          "id": 46595567,
-          "id_str": "46595567",
-          "indices": [
-            20,
-            25
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            26,
-            39
+            14
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/xUAhZpeZ6c",
+          "expanded_url": "http://www.cssplay.co.uk/menu/cssplay-shape-slideshow-v2.html",
+          "display_url": "cssplay.co.uk/menu/cssplay-s…",
+          "indices": [
+            16,
+            38
+          ]
+        },
+        {
+          "url": "http://t.co/oiaxJBgb9y",
+          "expanded_url": "http://fb.me/7pyqh9g4D",
+          "display_url": "fb.me/7pyqh9g4D",
+          "indices": [
+            91,
+            113
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
