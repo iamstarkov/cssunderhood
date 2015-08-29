@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 780,
+  "followers_count": 804,
   "friends_count": 13,
   "listed_count": 29,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,41 +35,38 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2107,
+  "statuses_count": 2108,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Aug 26 16:43:26 +0000 2015",
-    "id": 636579719517995000,
-    "id_str": "636579719517995008",
-    "text": "@smithua так можно сказать практически о любых новинках. Жили же без них раньше — значит, жить можно! :)",
+    "created_at": "Sat Aug 29 07:16:11 +0000 2015",
+    "id": 637524129726496800,
+    "id_str": "637524129726496768",
+    "text": "Сегодня постараюсь компенсировать вынужденное молчание на неделе. Тем более сегодня отличный повод —  #func2015",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 636579330567577600,
-    "in_reply_to_status_id_str": "636579330567577600",
-    "in_reply_to_user_id": 185156694,
-    "in_reply_to_user_id_str": "185156694",
-    "in_reply_to_screen_name": "smithua",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "smithua",
-          "name": "Alexandr Fesenko",
-          "id": 185156694,
-          "id_str": "185156694",
+          "text": "func2015",
           "indices": [
-            0,
-            8
+            102,
+            111
           ]
         }
       ],
+      "symbols": [],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
