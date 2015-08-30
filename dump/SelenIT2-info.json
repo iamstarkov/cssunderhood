@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 804,
+  "followers_count": 817,
   "friends_count": 13,
   "listed_count": 29,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,38 +35,41 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2108,
+  "statuses_count": 2109,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Aug 29 07:16:11 +0000 2015",
-    "id": 637524129726496800,
-    "id_str": "637524129726496768",
-    "text": "Сегодня постараюсь компенсировать вынужденное молчание на неделе. Тем более сегодня отличный повод —  #func2015",
+    "created_at": "Sat Aug 29 07:42:37 +0000 2015",
+    "id": 637530782010056700,
+    "id_str": "637530782010056704",
+    "text": "@juwain на ней :)",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 637530148250759200,
+    "in_reply_to_status_id_str": "637530148250759168",
+    "in_reply_to_user_id": 18213700,
+    "in_reply_to_user_id_str": "18213700",
+    "in_reply_to_screen_name": "juwain",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 2,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "func2015",
+          "screen_name": "juwain",
+          "name": "Зюзин Виталий",
+          "id": 18213700,
+          "id_str": "18213700",
           "indices": [
-            102,
-            111
+            0,
+            7
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
