@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 857,
+  "followers_count": 859,
   "friends_count": 13,
   "listed_count": 30,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,38 +35,41 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2152,
+  "statuses_count": 2154,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 31 08:38:18 +0000 2015",
-    "id": 638269569677828100,
-    "id_str": "638269569677828096",
-    "text": "Как раз был доклад на эту тему \"Прощай, jQuery!\" c #func2015",
+    "created_at": "Mon Aug 31 08:41:40 +0000 2015",
+    "id": 638270418508456000,
+    "id_str": "638270418508455938",
+    "text": "@sigiller а поделись как",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 638268866762813400,
+    "in_reply_to_status_id_str": "638268866762813441",
+    "in_reply_to_user_id": 74059237,
+    "in_reply_to_user_id_str": "74059237",
+    "in_reply_to_screen_name": "Sigiller",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "func2015",
+          "screen_name": "Sigiller",
+          "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+          "id": 74059237,
+          "id_str": "74059237",
           "indices": [
-            51,
-            60
+            0,
+            9
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
