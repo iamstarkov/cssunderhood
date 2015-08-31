@@ -35,38 +35,107 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2159,
+  "statuses_count": 2161,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 31 08:52:40 +0000 2015",
-    "id": 638273183943139300,
-    "id_str": "638273183943139329",
-    "text": "@sigiller благодарю!",
+    "created_at": "Mon Aug 31 08:56:17 +0000 2015",
+    "id": 638274095453487100,
+    "id_str": "638274095453487104",
+    "text": "RT @DimMetal_92: @antonfrolovsky @cssunderhood Он пока и не собирается умирать, третью версию же готовят.",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 638272706933358600,
-    "in_reply_to_status_id_str": "638272706933358596",
-    "in_reply_to_user_id": 74059237,
-    "in_reply_to_user_id_str": "74059237",
-    "in_reply_to_screen_name": "Sigiller",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Aug 31 08:40:51 +0000 2015",
+      "id": 638270212903714800,
+      "id_str": "638270212903714816",
+      "text": "@antonfrolovsky @cssunderhood Он пока и не собирается умирать, третью версию же готовят.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638267755750256600,
+      "in_reply_to_status_id_str": "638267755750256640",
+      "in_reply_to_user_id": 180295173,
+      "in_reply_to_user_id_str": "180295173",
+      "in_reply_to_screen_name": "antonfrolovsky",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "antonfrolovsky",
+            "name": "Frant",
+            "id": 180295173,
+            "id_str": "180295173",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Sigiller",
-          "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
-          "id": 74059237,
-          "id_str": "74059237",
+          "screen_name": "DimMetal_92",
+          "name": "CodeViking",
+          "id": 2823808370,
+          "id_str": "2823808370",
           "indices": [
-            0,
-            9
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "antonfrolovsky",
+          "name": "Frant",
+          "id": 180295173,
+          "id_str": "180295173",
+          "indices": [
+            17,
+            32
+          ]
+        },
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            33,
+            46
           ]
         }
       ],
