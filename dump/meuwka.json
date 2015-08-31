@@ -5,6 +5,104 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 08:36:10 +0000 2015",
+      "id": 638269031347286000,
+      "id_str": "638269031347286016",
+      "text": "RT @antonfrolovsky: @cssunderhood нужен ли jQuery верстаьщику, пора ли выкидывать его?",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 08:31:06 +0000 2015",
+        "id": 638267755750256600,
+        "id_str": "638267755750256640",
+        "text": "@cssunderhood нужен ли jQuery верстаьщику, пора ли выкидывать его?",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 180295173,
+          "id_str": "180295173"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "antonfrolovsky",
+            "name": "Frant",
+            "id": 180295173,
+            "id_str": "180295173",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              20,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 08:34:18 +0000 2015",
       "id": 638268562482810900,
       "id_str": "638268562482810880",
@@ -2576,7 +2674,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
