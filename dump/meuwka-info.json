@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 852,
+  "followers_count": 853,
   "friends_count": 13,
   "listed_count": 30,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,20 +35,20 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2149,
+  "statuses_count": 2150,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 31 08:31:41 +0000 2015",
-    "id": 638267903213707300,
-    "id_str": "638267903213707264",
-    "text": "@gunlinux ох, редакторы сейчас болезненная тема ) Так сказать в поиске. Сейчас Atom или WebStorm. Светлая тема.",
+    "created_at": "Mon Aug 31 08:34:18 +0000 2015",
+    "id": 638268562482810900,
+    "id_str": "638268562482810880",
+    "text": "Кстати, может кто подскажет, можно ли в WebStorm применить sass подсветку синтакса к css файлу?",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 638252316462829600,
-    "in_reply_to_status_id_str": "638252316462829568",
-    "in_reply_to_user_id": 122390357,
-    "in_reply_to_user_id_str": "122390357",
-    "in_reply_to_screen_name": "gunlinux",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,18 +58,7 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "gunlinux",
-          "name": "Vladimir, 13th",
-          "id": 122390357,
-          "id_str": "122390357",
-          "indices": [
-            0,
-            9
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
