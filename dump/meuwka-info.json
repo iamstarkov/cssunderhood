@@ -26,116 +26,47 @@
     }
   },
   "protected": false,
-  "followers_count": 870,
+  "followers_count": 907,
   "friends_count": 13,
-  "listed_count": 31,
+  "listed_count": 32,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 0,
+  "favourites_count": 4,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2167,
+  "statuses_count": 2262,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 31 09:05:44 +0000 2015",
-    "id": 638276471690281000,
-    "id_str": "638276471690280960",
-    "text": "RT @sapegin: @antonfrolovsky Например я спокойно обхожусь без Джейквери в Реакте, но просто сайты делать по-прежнему проще с ним. @cssunder…",
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "created_at": "Mon Aug 31 20:12:32 +0000 2015",
+    "id": 638444280378474500,
+    "id_str": "638444280378474496",
+    "text": "@ros_ivanov а ещё начинаешь видеть дизайн по-другому, замечать все детали. лучше понимаешь процесс и откуда свалка в макете.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 638433649764008000,
+    "in_reply_to_status_id_str": "638433649764007936",
+    "in_reply_to_user_id": 3400648702,
+    "in_reply_to_user_id_str": "3400648702",
+    "in_reply_to_screen_name": "ros_ivanov",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Aug 31 08:55:23 +0000 2015",
-      "id": 638273870680694800,
-      "id_str": "638273870680694784",
-      "text": "@antonfrolovsky Например я спокойно обхожусь без Джейквери в Реакте, но просто сайты делать по-прежнему проще с ним. @cssunderhood",
-      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 638271646139334700,
-      "in_reply_to_status_id_str": "638271646139334656",
-      "in_reply_to_user_id": 180295173,
-      "in_reply_to_user_id_str": "180295173",
-      "in_reply_to_screen_name": "antonfrolovsky",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "antonfrolovsky",
-            "name": "Frant",
-            "id": 180295173,
-            "id_str": "180295173",
-            "indices": [
-              0,
-              15
-            ]
-          },
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              117,
-              130
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "sapegin",
-          "name": "Artem Sapegin",
-          "id": 31656594,
-          "id_str": "31656594",
+          "screen_name": "ros_ivanov",
+          "name": "Ros Ivanov",
+          "id": 3400648702,
+          "id_str": "3400648702",
           "indices": [
-            3,
+            0,
             11
-          ]
-        },
-        {
-          "screen_name": "antonfrolovsky",
-          "name": "Frant",
-          "id": 180295173,
-          "id_str": "180295173",
-          "indices": [
-            13,
-            28
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            130,
-            140
           ]
         }
       ],
