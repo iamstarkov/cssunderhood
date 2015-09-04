@@ -35,20 +35,20 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2653,
+  "statuses_count": 2654,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Sep 04 08:08:01 +0000 2015",
-    "id": 639711500475703300,
-    "id_str": "639711500475703296",
-    "text": "у нас был ангуляр и jade. насколько помню ng-include = лишний элемент и для ng-repeat контроллер https://t.co/rnQdjcy4yk",
+    "created_at": "Fri Sep 04 08:13:16 +0000 2015",
+    "id": 639712821387874300,
+    "id_str": "639712821387874304",
+    "text": "@mista_k а! может быть:\nspan Hello\n| &amp;nbsp;  (тут вроде можно просто пробелы)\nspan world",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 639710188988141600,
+    "in_reply_to_status_id_str": "639710188988141568",
+    "in_reply_to_user_id": 15500045,
+    "in_reply_to_user_id_str": "15500045",
+    "in_reply_to_screen_name": "mista_k",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,22 +58,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/rnQdjcy4yk",
-          "expanded_url": "https://twitter.com/vladimore/status/639708443285176320",
-          "display_url": "twitter.com/vladimore/stat…",
+          "screen_name": "mista_k",
+          "name": "Vladimir Kuznetsov",
+          "id": 15500045,
+          "id_str": "15500045",
           "indices": [
-            97,
-            120
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
