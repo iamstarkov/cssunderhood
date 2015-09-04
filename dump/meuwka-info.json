@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 925,
-  "friends_count": 14,
-  "listed_count": 35,
+  "followers_count": 933,
+  "friends_count": 13,
+  "listed_count": 39,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 5,
+  "favourites_count": 3,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2551,
+  "statuses_count": 2653,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 02 22:07:02 +0000 2015",
-    "id": 639197867857588200,
-    "id_str": "639197867857588228",
-    "text": "@xwoody есть там какие-то особые условия, когда можно снять $, например на закупку оборудования, но там нужны какие то бумажки/подтверждения",
+    "created_at": "Fri Sep 04 08:08:01 +0000 2015",
+    "id": 639711500475703300,
+    "id_str": "639711500475703296",
+    "text": "у нас был ангуляр и jade. насколько помню ng-include = лишний элемент и для ng-repeat контроллер https://t.co/rnQdjcy4yk",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 639196287087308800,
-    "in_reply_to_status_id_str": "639196287087308800",
-    "in_reply_to_user_id": 8035442,
-    "in_reply_to_user_id_str": "8035442",
-    "in_reply_to_screen_name": "xwoody",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,22 +58,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "xwoody",
-          "name": "Aleks Hudochenkov",
-          "id": 8035442,
-          "id_str": "8035442",
+          "url": "https://t.co/rnQdjcy4yk",
+          "expanded_url": "https://twitter.com/vladimore/status/639708443285176320",
+          "display_url": "twitter.com/vladimore/stat…",
           "indices": [
-            0,
-            7
+            97,
+            120
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
