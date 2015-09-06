@@ -26,23 +26,23 @@
     }
   },
   "protected": false,
-  "followers_count": 977,
+  "followers_count": 982,
   "friends_count": 13,
   "listed_count": 43,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 4,
+  "favourites_count": 3,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2827,
+  "statuses_count": 2872,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Sep 05 21:27:34 +0000 2015",
-    "id": 640275102647611400,
-    "id_str": "640275102647611392",
-    "text": "Это наверное тот, кто недавно ворвался во фронтенд и ещё мечется туда-сюда. https://t.co/JaPt8MVpjb",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Sun Sep 06 16:23:48 +0000 2015",
+    "id": 640561043098480600,
+    "id_str": "640561043098480640",
+    "text": "С вами была @meuwka",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -54,26 +54,26 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/JaPt8MVpjb",
-          "expanded_url": "https://twitter.com/_nikbelikov/status/640273207807868928",
-          "display_url": "twitter.com/_nikbelikov/st…",
+          "screen_name": "meuwka",
+          "name": "Nataliya Karatkova",
+          "id": 2159314429,
+          "id_str": "2159314429",
           "indices": [
-            76,
-            99
+            12,
+            19
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
