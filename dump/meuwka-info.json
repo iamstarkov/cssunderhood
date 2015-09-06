@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 968,
+  "followers_count": 977,
   "friends_count": 13,
-  "listed_count": 41,
+  "listed_count": 43,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 2,
+  "favourites_count": 4,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2749,
+  "statuses_count": 2827,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Sep 05 10:31:17 +0000 2015",
-    "id": 640109941060186100,
-    "id_str": "640109941060186112",
-    "text": "А вот в воскресение стараюсь что-нибудь поизучать и попрактиковать, настроиться на неделю. Не всегда конечно получается )",
+    "created_at": "Sat Sep 05 21:27:34 +0000 2015",
+    "id": 640275102647611400,
+    "id_str": "640275102647611392",
+    "text": "Это наверное тот, кто недавно ворвался во фронтенд и ещё мечется туда-сюда. https://t.co/JaPt8MVpjb",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -54,15 +54,26 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/JaPt8MVpjb",
+          "expanded_url": "https://twitter.com/_nikbelikov/status/640273207807868928",
+          "display_url": "twitter.com/_nikbelikov/st…",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
