@@ -42,7 +42,7 @@ RT <a href="https://twitter.com/juwain" title="Зюзин Виталий">@juwai
 
 RT <a href="https://twitter.com/gaar4ica" title="Anna Shcherbinina">@gaar4ica</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> а почему ты решила идти своим путём? Не уж то компании зло?
 
-RT <a href="https://twitter.com/life_maniac" title="Евграф Пантелеевич">@life_maniac</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> а я думал, что людей, занимающихся даже преимущественно версткой, уже не осталось.
+RT <a href="https://twitter.com/life_maniac" title="Чувак">@life_maniac</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> а я думал, что людей, занимающихся даже преимущественно версткой, уже не осталось.
 
 RT <a href="https://twitter.com/life_maniac" title="Евграф Пантелеевич">@life_maniac</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> да, сейчас миллион инструментов, которые призваны помочь ускорить верстку. Мне тоже интересно поковыряться в…
 
@@ -68,7 +68,7 @@ RT <a href="https://twitter.com/gunlinux" title="Vladimir, 13th">@gunlinux</a>: 
 
 RT <a href="https://twitter.com/Sigiller" title="S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler">@Sigiller</a>: <a href="https://twitter.com/Bizi" title="Александр Бизиков">@Bizi</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> впрочем, по-моему каждый год пытаются попрощаться с jQuery, но пока всё никак
 
-RT <a href="https://twitter.com/frontend_union" title="Frontend Union Conf">@frontend_union</a>: <a href="https://twitter.com/life_maniac" title="Евграф Пантелеевич">@life_maniac</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> видео с выступлений будут в течение пары недель :)
+RT <a href="https://twitter.com/frontend_union" title="Frontend Union Conf">@frontend_union</a>: <a href="https://twitter.com/life_maniac" title="Чувак">@life_maniac</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> видео с выступлений будут в течение пары недель :)
 
 RT <a href="https://twitter.com/Sigiller" title="S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler">@Sigiller</a>: <a href="https://twitter.com/life_maniac" title="Евграф Пантелеевич">@life_maniac</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/Bizi" title="Александр Бизиков">@Bizi</a> а ещё если откажешься от jQuery, то первое время будут мучить острые фантомные боли)
 
