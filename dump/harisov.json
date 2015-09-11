@@ -5,6 +5,1633 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Sep 10 12:02:07 +0000 2015",
+      "id": 641944742083883000,
+      "id_str": "641944742083883008",
+      "text": "Про платформу это всё на сегодня. Задавайте вопросы.\n\nЗавтра поговорим о третьей важной части БЭМ — сообществе.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:30:05 +0000 2015",
+      "id": 641936676776976400,
+      "id_str": "641936676776976384",
+      "text": "БЭМ-платформа\n\nBEMJSON\nBEMHTML / BH\ni-bem.js\nbem-core / bem-components\nproject-stub\nenb-bem\n\nВсё интегрированно, можно использовать отдельно",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 10 11:26:35 +0000 2015",
+      "id": 641935798288392200,
+      "id_str": "641935798288392192",
+      "text": "Для быстрого старта проекта сделали\n\nproject-stub\nhttps://t.co/47zV7KzfDu\n\nИ генератор для yeoman, для кастомизации\nhttps://t.co/s4b5XZ4NMb",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/47zV7KzfDu",
+            "expanded_url": "https://ru.bem.info/tutorials/quick-start-static/",
+            "display_url": "ru.bem.info/tutorials/quic…",
+            "indices": [
+              50,
+              73
+            ]
+          },
+          {
+            "url": "https://t.co/s4b5XZ4NMb",
+            "expanded_url": "https://ru.bem.info/tools/bem/bem-stub/",
+            "display_url": "ru.bem.info/tools/bem/bem-…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:22:57 +0000 2015",
+      "id": 641934884450234400,
+      "id_str": "641934884450234368",
+      "text": "Для этого надо написать только CSS, вся остальная логика работы блока используется из базовой реализации.\n\nhttps://t.co/BcYXbNp42L",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641934516915990500,
+      "in_reply_to_status_id_str": "641934516915990529",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641934516915990500,
+      "quoted_status_id_str": "641934516915990529",
+      "quoted_status": {
+        "created_at": "Thu Sep 10 11:21:30 +0000 2015",
+        "id": 641934516915990500,
+        "id_str": "641934516915990529",
+        "text": "Реализовано так, что дизайн лежит отдельным уровнем, его можно не подключать и реализовать свой вместо яндексового.\n\nhttps://t.co/MEdkIAx1zG",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 641934032603906000,
+        "in_reply_to_status_id_str": "641934032603906048",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 3376999971,
+          "id_str": "3376999971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 641934032603906000,
+        "quoted_status_id_str": "641934032603906048",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/MEdkIAx1zG",
+              "expanded_url": "https://twitter.com/cssunderhood/status/641934032603906048",
+              "display_url": "twitter.com/cssunderhood/s…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BcYXbNp42L",
+            "expanded_url": "https://twitter.com/cssunderhood/status/641934516915990529",
+            "display_url": "twitter.com/cssunderhood/s…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:21:30 +0000 2015",
+      "id": 641934516915990500,
+      "id_str": "641934516915990529",
+      "text": "Реализовано так, что дизайн лежит отдельным уровнем, его можно не подключать и реализовать свой вместо яндексового.\n\nhttps://t.co/MEdkIAx1zG",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641934032603906000,
+      "in_reply_to_status_id_str": "641934032603906048",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641934032603906000,
+      "quoted_status_id_str": "641934032603906048",
+      "quoted_status": {
+        "created_at": "Thu Sep 10 11:19:34 +0000 2015",
+        "id": 641934032603906000,
+        "id_str": "641934032603906048",
+        "text": "bem-components\nhttps://t.co/zPIKwrO1G1\n\nВизуальные примитивы, «кирпичи» практически любой страницы.",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 641933477265428500,
+        "in_reply_to_status_id_str": "641933477265428480",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 3376999971,
+          "id_str": "3376999971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/zPIKwrO1G1",
+              "expanded_url": "https://ru.bem.info/libs/bem-components/",
+              "display_url": "ru.bem.info/libs/bem-compo…",
+              "indices": [
+                15,
+                38
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MEdkIAx1zG",
+            "expanded_url": "https://twitter.com/cssunderhood/status/641934032603906048",
+            "display_url": "twitter.com/cssunderhood/s…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:19:34 +0000 2015",
+      "id": 641934032603906000,
+      "id_str": "641934032603906048",
+      "text": "bem-components\nhttps://t.co/zPIKwrO1G1\n\nВизуальные примитивы, «кирпичи» практически любой страницы.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641933477265428500,
+      "in_reply_to_status_id_str": "641933477265428480",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zPIKwrO1G1",
+            "expanded_url": "https://ru.bem.info/libs/bem-components/",
+            "display_url": "ru.bem.info/libs/bem-compo…",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:17:22 +0000 2015",
+      "id": 641933477265428500,
+      "id_str": "641933477265428480",
+      "text": "bem-core\nhttps://t.co/j6j7n5FNdh\n\nБазовый набор блоков, i-bem.js, page.\n\nНичего визуального, только необходимые технологии/хелперы.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641932911697113100,
+      "in_reply_to_status_id_str": "641932911697113092",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/j6j7n5FNdh",
+            "expanded_url": "https://ru.bem.info/libs/bem-core/",
+            "display_url": "ru.bem.info/libs/bem-core/",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:15:07 +0000 2015",
+      "id": 641932911697113100,
+      "id_str": "641932911697113092",
+      "text": "Ну и что бы совсем хорошо было — ко всему этому добавляем библиотеки готовых блоков:\n\nhttps://t.co/j6j7n5FNdh\n\nhttps://t.co/zPIKwrO1G1",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/j6j7n5FNdh",
+            "expanded_url": "https://ru.bem.info/libs/bem-core/",
+            "display_url": "ru.bem.info/libs/bem-core/",
+            "indices": [
+              86,
+              109
+            ]
+          },
+          {
+            "url": "https://t.co/zPIKwrO1G1",
+            "expanded_url": "https://ru.bem.info/libs/bem-components/",
+            "display_url": "ru.bem.info/libs/bem-compo…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:11:33 +0000 2015",
+      "id": 641932014283788300,
+      "id_str": "641932014283788288",
+      "text": "Для этого мы разработали мини-фреймворк i-bem.js\n\nдекларативной стиль — набор состояний\n\nинтегрируется с BEMHTML/BH\n\nhttps://t.co/KhIjjHBkMN",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641930619967144000,
+      "in_reply_to_status_id_str": "641930619967143936",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KhIjjHBkMN",
+            "expanded_url": "https://ru.bem.info/technology/i-bem/",
+            "display_url": "ru.bem.info/technology/i-b…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:06:00 +0000 2015",
+      "id": 641930619967144000,
+      "id_str": "641930619967143936",
+      "text": "После перехода на блочное написание шаблонов (а иногда до), хочется и js писать блочно.\n\nИ иметь возможность доопределять блоки, как в CSS.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 11:02:23 +0000 2015",
+      "id": 641929708561662000,
+      "id_str": "641929708561661952",
+      "text": "Ну как «не очень много», 4 этажа, 57 человек.\n\nПринято рукожаться.\n\nСейчас отношусь к этому «никак».\n\nhttps://t.co/cYQvkUaNZj\n@mista_k",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641923192681046000,
+      "in_reply_to_status_id_str": "641923192681046017",
+      "in_reply_to_user_id": 15500045,
+      "in_reply_to_user_id_str": "15500045",
+      "in_reply_to_screen_name": "mista_k",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641923192681046000,
+      "quoted_status_id_str": "641923192681046017",
+      "quoted_status": {
+        "created_at": "Thu Sep 10 10:36:30 +0000 2015",
+        "id": 641923192681046000,
+        "id_str": "641923192681046017",
+        "text": "@cssunderhood У вас в офисе не слишком много людей работает. Принято-ли среди мужчин обходить всех с рукопожатиями? Как ты сам к этому отн.?",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 15500045,
+          "id_str": "15500045"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            55.17505657,
+            61.39604864
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            61.39604864,
+            55.17505657
+          ]
+        },
+        "place": {
+          "id": "b500b655bf0c515a",
+          "url": "https://api.twitter.com/1.1/geo/id/b500b655bf0c515a.json",
+          "place_type": "city",
+          "name": "Челябинск",
+          "full_name": "Челябинск, Челябинская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  61.143663,
+                  54.9909042
+                ],
+                [
+                  61.5920478,
+                  54.9909042
+                ],
+                [
+                  61.5920478,
+                  55.320894
+                ],
+                [
+                  61.143663,
+                  55.320894
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mista_k",
+            "name": "Vladimir Kuznetsov",
+            "id": 15500045,
+            "id_str": "15500045",
+            "indices": [
+              126,
+              134
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cYQvkUaNZj",
+            "expanded_url": "https://twitter.com/mista_k/status/641923192681046017",
+            "display_url": "twitter.com/mista_k/status…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 09:55:08 +0000 2015",
+      "id": 641912782103949300,
+      "id_str": "641912782103949312",
+      "text": "Прям как emmet нет, есть\n\nbem create -b block\n\nТехнологии создадутся, заданные по умолчанию для уровня.\n\nhttps://t.co/in8hF5RkE3\n@ros_ivanov",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641901200384860200,
+      "in_reply_to_status_id_str": "641901200384860160",
+      "in_reply_to_user_id": 3400648702,
+      "in_reply_to_user_id_str": "3400648702",
+      "in_reply_to_screen_name": "ros_ivanov",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641901200384860200,
+      "quoted_status_id_str": "641901200384860160",
+      "quoted_status": {
+        "created_at": "Thu Sep 10 09:09:06 +0000 2015",
+        "id": 641901200384860200,
+        "id_str": "641901200384860160",
+        "text": "@cssunderhood @meuwka Допустим как emmet только в консольке прописать new block &gt; element1 + element2 и разворачиваются папки 1/1",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 641705145127051300,
+        "in_reply_to_status_id_str": "641705145127051264",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 3400648702,
+          "id_str": "3400648702"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "meuwka",
+              "name": "Nataliya Karatkova",
+              "id": 2159314429,
+              "id_str": "2159314429",
+              "indices": [
+                14,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ros_ivanov",
+            "name": "Ros Ivanov",
+            "id": 3400648702,
+            "id_str": "3400648702",
+            "indices": [
+              129,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/in8hF5RkE3",
+            "expanded_url": "https://twitter.com/ros_ivanov/status/641901200384860160",
+            "display_url": "twitter.com/ros_ivanov/sta…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 07:40:31 +0000 2015",
+      "id": 641878905071226900,
+      "id_str": "641878905071226880",
+      "text": "BEMTREE шаблоны добавляются в папку блока.\n\nБлок знает как построить свой BEMJSON и HTML\n\nblocks/\n  b/\n    b.css\n    b.bemtree\n    b.bemhtml",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641878088897441800,
+      "in_reply_to_status_id_str": "641878088897441792",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 10 07:37:16 +0000 2015",
+      "id": 641878088897441800,
+      "id_str": "641878088897441792",
+      "text": "Один из вариантов преобразования JSON -&gt; BEMJSON — шаблонизатор BEMTREE\n\nhttps://t.co/nMzq8lOm4K\n\nНазван так, потому что создаёт БЭМ-дерево.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nMzq8lOm4K",
+            "expanded_url": "https://ru.bem.info/technology/bemtree/",
+            "display_url": "ru.bem.info/technology/bem…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 07:35:40 +0000 2015",
+      "id": 641877686806253600,
+      "id_str": "641877686806253569",
+      "text": "Слой BEMJSON -&gt; HTML максимально простой, работа с данными и их преобразование на уровне трансформации JSON -&gt; BEMJSON.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 07:34:05 +0000 2015",
+      "id": 641877288095715300,
+      "id_str": "641877288095715328",
+      "text": "Бекенд генерирует JSON (или любой другой формат с данными).\n\nОн преобразуется в BEMJSON (БЭМ-дерево).\n\nИз него получается HTML.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 07:31:28 +0000 2015",
+      "id": 641876627903938600,
+      "id_str": "641876627903938560",
+      "text": "Фактически, генерация HTML может быть отдельным слоем, который получает на вход БЭМ-дерево и отдаёт HTML.\n\nЭтот слой можно унести в браузер.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 07:29:30 +0000 2015",
+      "id": 641876134985105400,
+      "id_str": "641876134985105408",
+      "text": "Шаблоны для каждого блока кладутся в папку блока:\n\nblocks/\n  blo1/\n    blo1.css\n    blo1.png\n    blo1.bh.php\n\nСобираются через enb.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Thu Sep 10 07:27:45 +0000 2015",
+      "id": 641875692913840100,
+      "id_str": "641875692913840128",
+      "text": "BENJSON переводится в HTML шаблонизатором.\n\nbh-php\nhttps://t.co/mySCBgRbW0\n\nBEMHTML\nhttps://t.co/jXapYRXj3F\n\nBH\nhttps://t.co/dBHFojhc2w",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mySCBgRbW0",
+            "expanded_url": "https://github.com/bem/bh-php/",
+            "display_url": "github.com/bem/bh-php/",
+            "indices": [
+              51,
+              74
+            ]
+          },
+          {
+            "url": "https://t.co/jXapYRXj3F",
+            "expanded_url": "https://ru.bem.info/technology/bemhtml/",
+            "display_url": "ru.bem.info/technology/bem…",
+            "indices": [
+              84,
+              107
+            ]
+          },
+          {
+            "url": "https://t.co/dBHFojhc2w",
+            "expanded_url": "https://ru.bem.info/technology/bh/",
+            "display_url": "ru.bem.info/technology/bh/",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 10 06:57:52 +0000 2015",
+      "id": 641868171247513600,
+      "id_str": "641868171247513600",
+      "text": "Формат в XML может быть таким:\n\n&lt;b:search m:type=“suggest”&gt;\n  &lt;e:hint&gt;🔎&lt;/e:hint&gt;\n&lt;/b:search&gt;\n\nhttps://t.co/znaBc9r8yS",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641865191706218500,
+      "quoted_status_id_str": "641865191706218497",
+      "quoted_status": {
+        "created_at": "Thu Sep 10 06:46:01 +0000 2015",
+        "id": 641865191706218500,
+        "id_str": "641865191706218497",
+        "text": "Формат данных блока может быть любым, не обязательно BEMJSON, важно, чтобы там была информация о сущностях и данные.",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3376999971,
+          "id_str": "3376999971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/znaBc9r8yS",
+            "expanded_url": "https://twitter.com/cssunderhood/status/641865191706218497",
+            "display_url": "twitter.com/cssunderhood/s…",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Thu Sep 10 06:54:41 +0000 2015",
+      "id": 641867373130195000,
+      "id_str": "641867373130194948",
+      "text": "BEMJSON:\n\n{\n  block: “search”,\n  mods: { type: “suggest”},\n  content: [\n    { elem: ‘hint’, content: ’🔎′ }\n  ]\n}\n\nhttps://t.co/znaBc9r8yS",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641865191706218500,
+      "quoted_status_id_str": "641865191706218497",
+      "quoted_status": {
+        "created_at": "Thu Sep 10 06:46:01 +0000 2015",
+        "id": 641865191706218500,
+        "id_str": "641865191706218497",
+        "text": "Формат данных блока может быть любым, не обязательно BEMJSON, важно, чтобы там была информация о сущностях и данные.",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3376999971,
+          "id_str": "3376999971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/znaBc9r8yS",
+            "expanded_url": "https://twitter.com/cssunderhood/status/641865191706218497",
+            "display_url": "twitter.com/cssunderhood/s…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Sep 10 06:46:01 +0000 2015",
+      "id": 641865191706218500,
+      "id_str": "641865191706218497",
+      "text": "Формат данных блока может быть любым, не обязательно BEMJSON, важно, чтобы там была информация о сущностях и данные.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 06:44:53 +0000 2015",
+      "id": 641864906703249400,
+      "id_str": "641864906703249409",
+      "text": "Описание БЭМ-дерева делается в промежуточном формате, описывающем блоки/элементы/модификаторы/данные-блока.\n\nЭто позволяет генерировать HTML",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 06:42:17 +0000 2015",
+      "id": 641864250907066400,
+      "id_str": "641864250907066368",
+      "text": "Мы в качестве формата данных блока используем JSON с предопределёнными полями.\n\nНазвали его (сюрприз) BEMJSON:\n\nhttps://t.co/D1w0a1pfBn",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/D1w0a1pfBn",
+            "expanded_url": "https://ru.bem.info/technology/bemjson",
+            "display_url": "ru.bem.info/technology/bem…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 06:39:28 +0000 2015",
+      "id": 641863544129093600,
+      "id_str": "641863544129093632",
+      "text": "А может наоборот её упростить и сделать более плоской.\n\nСмотря с какой стороны смотреть.\n\nhttps://t.co/8RCZyZnlXT\n@teardrop_lisa",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641863287324418000,
+      "in_reply_to_status_id_str": "641863287324418048",
+      "in_reply_to_user_id": 30906994,
+      "in_reply_to_user_id_str": "30906994",
+      "in_reply_to_screen_name": "teardrop_lisa",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641863287324418000,
+      "quoted_status_id_str": "641863287324418048",
+      "quoted_status": {
+        "created_at": "Thu Sep 10 06:38:27 +0000 2015",
+        "id": 641863287324418000,
+        "id_str": "641863287324418048",
+        "text": "@cssunderhood это может усложнить структуру",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 641862718903992300,
+        "in_reply_to_status_id_str": "641862718903992321",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 30906994,
+          "id_str": "30906994"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "teardrop_lisa",
+            "name": "Lisa Katorgina ",
+            "id": 30906994,
+            "id_str": "30906994",
+            "indices": [
+              114,
+              128
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8RCZyZnlXT",
+            "expanded_url": "https://twitter.com/teardrop_lisa/status/641863287324418048",
+            "display_url": "twitter.com/teardrop_lisa/…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 06:36:12 +0000 2015",
+      "id": 641862718903992300,
+      "id_str": "641862718903992321",
+      "text": "Оформить эту картинку (и может быть её окружение) как отдельный блок и использовать его везде.\n\nhttps://t.co/Sql8sD5FhH\n@teardrop_lisa",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641861968442327000,
+      "in_reply_to_status_id_str": "641861968442327040",
+      "in_reply_to_user_id": 30906994,
+      "in_reply_to_user_id_str": "30906994",
+      "in_reply_to_screen_name": "teardrop_lisa",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 641861968442327000,
+      "quoted_status_id_str": "641861968442327040",
+      "quoted_status": {
+        "created_at": "Thu Sep 10 06:33:13 +0000 2015",
+        "id": 641861968442327000,
+        "id_str": "641861968442327040",
+        "text": "@cssunderhood а что делать если в нескольких блоках используется одна и та же картинка? дублировать?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 641860033844748300,
+        "in_reply_to_status_id_str": "641860033844748288",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 30906994,
+          "id_str": "30906994"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "teardrop_lisa",
+            "name": "Lisa Katorgina ",
+            "id": 30906994,
+            "id_str": "30906994",
+            "indices": [
+              120,
+              134
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Sql8sD5FhH",
+            "expanded_url": "https://twitter.com/teardrop_lisa/status/641861968442327040",
+            "display_url": "twitter.com/teardrop_lisa/…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 06:35:00 +0000 2015",
+      "id": 641862419954991100,
+      "id_str": "641862419954991104",
+      "text": "Если CSS ничего особенного не надо, то с шаблонами сложнее.\n\nДля отрисовки блока, нужно передать данные этого блока, всё, что не разметка.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 06:27:50 +0000 2015",
+      "id": 641860613396922400,
+      "id_str": "641860613396922369",
+      "text": "Когда CSS пишется по БЭМ, всё разложено по файлам, есть сборка, хочется, чтобы и HTML блока лежал с CSS.\n\nНачинаем писать шаблоны поблочно.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 10 06:25:31 +0000 2015",
+      "id": 641860033844748300,
+      "id_str": "641860033844748288",
+      "text": "Если освоена сборка — можно картинки блоков класть в папки блоков.\n\nТесты скриншотами для контроля регрессий туда же\nhttps://t.co/F0uf3SNBus",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/F0uf3SNBus",
+            "expanded_url": "https://ru.bem.info/tools/testing/gemini/",
+            "display_url": "ru.bem.info/tools/testing/…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Sep 10 05:49:51 +0000 2015",
       "id": 641851055546986500,
       "id_str": "641851055546986500",
@@ -26,7 +1653,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -870,7 +2497,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1824,8 +3451,8 @@
         "lang": "ru"
       },
       "is_quote_status": true,
-      "retweet_count": 0,
-      "favorite_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2758,7 +4385,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 5,
+        "favorite_count": 8,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3561,7 +5188,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 1,
-      "favorite_count": 5,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4359,7 +5986,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 6,
+        "favorite_count": 9,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -4537,7 +6164,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4638,7 +6265,7 @@
         "quoted_status_id_str": "641681718106320896",
         "is_quote_status": true,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -4787,7 +6414,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5066,7 +6693,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5385,7 +7012,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 11,
+      "favorite_count": 10,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8563,8 +10190,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 19,
-        "favorite_count": 50,
+        "retweet_count": 20,
+        "favorite_count": 49,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -8587,7 +10214,7 @@
         "lang": "en"
       },
       "is_quote_status": false,
-      "retweet_count": 19,
+      "retweet_count": 20,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
