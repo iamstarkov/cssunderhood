@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3330,
+  "statuses_count": 3331,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 14 06:39:45 +0000 2015",
-    "id": 643313164348694500,
-    "id_str": "643313164348694528",
-    "text": "Пишите в реплаях темы\\воросы которые хотите обсудить, будем отвечать и обсуждать :)",
+    "created_at": "Mon Sep 14 06:51:39 +0000 2015",
+    "id": 643316161359290400,
+    "id_str": "643316161359290368",
+    "text": "А тем врменем @delaz  в @jsunderhood обсуждает когда же уже вёрстка умрёт, кому интересно подключайтесь",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -58,7 +58,28 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "delaz",
+          "name": "Igor Zenich",
+          "id": 16865434,
+          "id_str": "16865434",
+          "indices": [
+            14,
+            20
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            24,
+            36
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
