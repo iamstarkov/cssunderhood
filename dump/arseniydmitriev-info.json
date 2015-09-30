@@ -37,96 +37,47 @@
     }
   },
   "protected": false,
-  "followers_count": 1207,
+  "followers_count": 1255,
   "friends_count": 19,
-  "listed_count": 57,
+  "listed_count": 58,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 44,
+  "favourites_count": 45,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4114,
+  "statuses_count": 4179,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 28 19:01:30 +0000 2015",
-    "id": 648573264168665100,
-    "id_str": "648573264168665088",
-    "text": "RT @PollyGlotik: @cssunderhood у меня эта тема сейчас актуальна, летом нужно думать поступать или нет. Хотелось бы узнать, в частности у те…",
+    "created_at": "Tue Sep 29 20:07:39 +0000 2015",
+    "id": 648952299491061800,
+    "id_str": "648952299491061760",
+    "text": "@webholt Может кому пригодиться, рад что Вы используете DevTools",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 648950846307369000,
+    "in_reply_to_status_id_str": "648950846307368961",
+    "in_reply_to_user_id": 97894369,
+    "in_reply_to_user_id_str": "97894369",
+    "in_reply_to_screen_name": "webholt",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Sep 28 18:59:54 +0000 2015",
-      "id": 648572861100240900,
-      "id_str": "648572861100240896",
-      "text": "@cssunderhood у меня эта тема сейчас актуальна, летом нужно думать поступать или нет. Хотелось бы узнать, в частности у тех, кто из Украины.",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 648491772289622000,
-      "in_reply_to_status_id_str": "648491772289622016",
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "PollyGlotik",
-          "name": "PollyGlot",
-          "id": 287165329,
-          "id_str": "287165329",
+          "screen_name": "webholt",
+          "name": "Vlad :: gwer",
+          "id": 97894369,
+          "id_str": "97894369",
           "indices": [
-            3,
-            15
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            17,
-            30
+            0,
+            8
           ]
         }
       ],
