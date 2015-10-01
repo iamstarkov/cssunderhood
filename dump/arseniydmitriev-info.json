@@ -37,47 +37,116 @@
     }
   },
   "protected": false,
-  "followers_count": 1255,
+  "followers_count": 1277,
   "friends_count": 19,
-  "listed_count": 58,
+  "listed_count": 59,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 45,
+  "favourites_count": 47,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4179,
+  "statuses_count": 4258,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 29 20:07:39 +0000 2015",
-    "id": 648952299491061800,
-    "id_str": "648952299491061760",
-    "text": "@webholt Может кому пригодиться, рад что Вы используете DevTools",
+    "created_at": "Thu Oct 01 06:52:51 +0000 2015",
+    "id": 649477055449571300,
+    "id_str": "649477055449571328",
+    "text": "RT @delaz: @gearmobile @cssunderhood через fancybox2 такое делается, js-хук на a.js-fancybox.-type_youtube, в href=ссылка на видео, в js вы…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 648950846307369000,
-    "in_reply_to_status_id_str": "648950846307368961",
-    "in_reply_to_user_id": 97894369,
-    "in_reply_to_user_id_str": "97894369",
-    "in_reply_to_screen_name": "webholt",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Thu Oct 01 06:47:42 +0000 2015",
+      "id": 649475760722477000,
+      "id_str": "649475760722477056",
+      "text": "@gearmobile @cssunderhood через fancybox2 такое делается, js-хук на a.js-fancybox.-type_youtube, в href=ссылка на видео, в js вызов fancybox",
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 649473220970741800,
+      "in_reply_to_status_id_str": "649473220970741760",
+      "in_reply_to_user_id": 85618387,
+      "in_reply_to_user_id_str": "85618387",
+      "in_reply_to_screen_name": "gearmobile",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gearmobile",
+            "name": "Valery Semenencko",
+            "id": 85618387,
+            "id_str": "85618387",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "webholt",
-          "name": "Vlad :: gwer",
-          "id": 97894369,
-          "id_str": "97894369",
+          "screen_name": "delaz",
+          "name": "Igor Zenich",
+          "id": 16865434,
+          "id_str": "16865434",
           "indices": [
-            0,
-            8
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "gearmobile",
+          "name": "Valery Semenencko",
+          "id": 85618387,
+          "id_str": "85618387",
+          "indices": [
+            11,
+            22
+          ]
+        },
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            23,
+            36
           ]
         }
       ],
@@ -85,7 +154,7 @@
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
