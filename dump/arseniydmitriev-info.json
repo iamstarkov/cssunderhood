@@ -46,20 +46,20 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4364,
+  "statuses_count": 4365,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Oct 03 08:29:18 +0000 2015",
-    "id": 650226102812717000,
-    "id_str": "650226102812717056",
-    "text": "@sudilkovsky Вот это я понимаю. ))) Тоже не успел встать, не жравши, бегом, уже со вчерашнего дня внутри свербит потестить bolt.cm",
+    "created_at": "Sat Oct 03 08:31:48 +0000 2015",
+    "id": 650226733669609500,
+    "id_str": "650226733669609473",
+    "text": "Любителям шифтов по душе придутся игры http://t.co/AFEsAFMS54 и http://t.co/A9IjoCdTvQ от товарища @duopixel",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 650219162929922000,
-    "in_reply_to_status_id_str": "650219162929922048",
-    "in_reply_to_user_id": 17791122,
-    "in_reply_to_user_id_str": "17791122",
-    "in_reply_to_screen_name": "sudilkovsky",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -71,20 +71,40 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "sudilkovsky",
-          "name": "Бронешапочка Вязаная",
-          "id": 17791122,
-          "id_str": "17791122",
+          "screen_name": "duopixel",
+          "name": "Mark MacKay",
+          "id": 10503712,
+          "id_str": "10503712",
           "indices": [
-            0,
-            12
+            99,
+            108
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/AFEsAFMS54",
+          "expanded_url": "http://type.method.ac/",
+          "display_url": "type.method.ac",
+          "indices": [
+            39,
+            61
+          ]
+        },
+        {
+          "url": "http://t.co/A9IjoCdTvQ",
+          "expanded_url": "http://shape.method.ac/",
+          "display_url": "shape.method.ac",
+          "indices": [
+            64,
+            86
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
