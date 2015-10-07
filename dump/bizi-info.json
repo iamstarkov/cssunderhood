@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1286,
+  "followers_count": 1291,
   "friends_count": 20,
   "listed_count": 66,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 47,
+  "favourites_count": 48,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4567,
+  "statuses_count": 4765,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 06 04:09:31 +0000 2015",
-    "id": 651247892448038900,
-    "id_str": "651247892448038912",
-    "text": "Сегодня нужно хорошенько поработать, поэтому основная активность начнется после 16 часов по МСК. Всем продуктивного дня!",
+    "created_at": "Wed Oct 07 14:52:32 +0000 2015",
+    "id": 651772099342823400,
+    "id_str": "651772099342823424",
+    "text": "RT @vdv73rus: @cssunderhood аренда помещения с техникой не всегда бесплатная — приходится искать спонсоров среди местных компаний.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,12 +64,72 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Oct 07 14:32:14 +0000 2015",
+      "id": 651766988746944500,
+      "id_str": "651766988746944512",
+      "text": "@cssunderhood аренда помещения с техникой не всегда бесплатная — приходится искать спонсоров среди местных компаний.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 651766772689961000,
+      "in_reply_to_status_id_str": "651766772689960960",
+      "in_reply_to_user_id": 49577583,
+      "in_reply_to_user_id_str": "49577583",
+      "in_reply_to_screen_name": "vdv73rus",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "vdv73rus",
+          "name": "Vislov Dmitry",
+          "id": 49577583,
+          "id_str": "49577583",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            14,
+            27
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
