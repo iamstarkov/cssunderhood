@@ -3,8 +3,19 @@
   "id_str": "3376999971",
   "name": "Верстальщик",
   "screen_name": "cssunderhood",
-  "location": "Украина",
-  "profile_location": null,
+  "location": "Ukraine",
+  "profile_location": {
+    "id": "084d0d0155787e9d",
+    "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+    "place_type": "unknown",
+    "name": "Ukraine",
+    "full_name": "Ukraine",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для верстальщиков, веб-дизайнеров и сочувствующих с новым автором каждую неделю.  Эту неделю с вами @akella",
   "url": "https://t.co/Kem9C6tf3p",
   "entities": {
