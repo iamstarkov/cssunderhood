@@ -37,54 +37,74 @@
     }
   },
   "protected": false,
-  "followers_count": 1422,
+  "followers_count": 1436,
   "friends_count": 21,
-  "listed_count": 67,
+  "listed_count": 68,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 49,
+  "favourites_count": 52,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 5466,
+  "statuses_count": 5485,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Oct 17 21:52:26 +0000 2015",
-    "id": 655501650220724200,
-    "id_str": "655501650220724224",
-    "text": "а это просто забавные css трансформации на которые можно залипнуть http://t.co/Y8EJKvZi3R",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Sun Oct 18 20:19:04 +0000 2015",
+    "id": 655840541226213400,
+    "id_str": "655840541226213376",
+    "text": "@sapegin @AlexLenSpb @MikitaLisavets ну, дело вкуса и подхода) моим программистам нравится пока :-)",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 655836613730304000,
+    "in_reply_to_status_id_str": "655836613730304001",
+    "in_reply_to_user_id": 31656594,
+    "in_reply_to_user_id_str": "31656594",
+    "in_reply_to_screen_name": "sapegin",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 1,
-    "favorite_count": 11,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "http://t.co/Y8EJKvZi3R",
-          "expanded_url": "http://codepen.io/DennisCalvert/pen/ZbaGvN",
-          "display_url": "codepen.io/DennisCalvert/…",
+          "screen_name": "sapegin",
+          "name": "Artem Sapegin",
+          "id": 31656594,
+          "id_str": "31656594",
           "indices": [
-            67,
-            89
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "AlexLenSpb",
+          "name": "Alexey Lenyashin",
+          "id": 432628933,
+          "id_str": "432628933",
+          "indices": [
+            9,
+            20
+          ]
+        },
+        {
+          "screen_name": "MikitaLisavets",
+          "name": "Mikita Lisavets",
+          "id": 2557237524,
+          "id_str": "2557237524",
+          "indices": [
+            21,
+            36
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
