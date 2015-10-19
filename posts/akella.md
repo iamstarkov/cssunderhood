@@ -244,7 +244,7 @@ RT <a href="https://twitter.com/shugich" title="Дима Шишкин">@shugich<
 
 RT <a href="https://twitter.com/mamyashev" title="Marat Mamyashev">@mamyashev</a>: <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> <a href="https://twitter.com/tachisis" title="engel">@tachisis</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> поддерживаю, ALA и webmascon. За счастье было еще и переводить для него.
 
-## Пятница <small>31 твит</small>
+## Пятница <small>34 твита</small>
 
 RT <a href="https://twitter.com/Bidin" title="copylefter">@Bidin</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> а чем делать макеты анимации, перед кодингом? Я вот вчера в ae фигарил, но может есть что-то более распространеное?
 
@@ -258,11 +258,15 @@ RT <a href="https://twitter.com/zigzag_mcquack" title="Pavel Lautsevich">@zigzag
 
 RT <a href="https://twitter.com/TheSunwave" title="Arturio">@TheSunwave</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> 2 дня думаю и прокрастинирую, затем 2 часа делаю... ПРОФИТ! Не знаю как по-другому настроиться.
 
+RT <a href="https://twitter.com/denisfedosov" title="Denis FL">@denisfedosov</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> можно смотреть на это не как на прокрастинацию, а как на подготовку рабочего окружения и планирование архит…
+
 RT <a href="https://twitter.com/borodean" title="Vadym Borodin">@borodean</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> ну бюрошный подход ля меня хорошо работает <a href="http://t.co/e90J7u64gq">ksoftware.livejournal.com/202173.html</a>
 
 RT <a href="https://twitter.com/stewardtz" title="Andriy Petrusha">@stewardtz</a>: <a href="https://twitter.com/TheSunwave" title="Arturio">@TheSunwave</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> самая большая лажа в том, что если бы начал делать сразу - делал бы 2 дня!!!
 
 RT <a href="https://twitter.com/li_rian" title="Linda Rian">@li_rian</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> разбиваю предполагаемый объем работы на этапы - выполнение каждого дает некое чувство удовлетворения :) и стимул…
+
+RT <a href="https://twitter.com/antonfrolovsky" title="Frant">@antonfrolovsky</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Включаешь музыку, посылаешь всех на хў что бы не отвлекали и делаешь. Ах да надо твитер приложение закрыт…
 
 RT <a href="https://twitter.com/Anarion_tw" title="Vitaly">@Anarion_tw</a>: Для <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>  и <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>  в копилку: <a href="https://t.co/u3k3Nrl2ma">github.com/sindresorhus/a…</a>
 
@@ -275,6 +279,8 @@ RT <a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a>: <
 .<a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a> не знаю как вы, а я как-то так провожу время <a href="https://t.co/uTGbdzd2Nq">instagram.com/p/re66VFC6wV/?…</a>  <a href="https://t.co/uYqNgapef6">instagram.com/p/oGUcRWi60s/?…</a>
 
 RT <a href="https://twitter.com/denysbutenko" title="Denys Butenko">@denysbutenko</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Вот эта штука давным-давно в бутстрапе. <a href="http://t.co/c0zjwWRGlw">getbootstrap.com/components/#re…</a>
+
+RT <a href="https://twitter.com/NDenis" title="Denis Nekhoroshev">@NDenis</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> в некоторых проектах использовал решение <a href="http://t.co/fFkIzGUGCS">nicolasgallagher.com/flexible-css-c…</a> Тоже самое, только под стандартные пропорции.
 
 RT <a href="https://twitter.com/kinday" title="Леонард Киндай">@kinday</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>, довести себя этим, приуныть, переосмыслить своё поведение и больше так не делать.
 
@@ -342,7 +348,7 @@ RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepe
 
 RT <a href="https://twitter.com/mamyashev" title="Marat Mamyashev">@mamyashev</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/akella" title="akella">@akella</a> бля я все пропустил.ЧОРТ! Ну ты хоть запостил сто тыщ фоток с голыми телками как обычно?
 
-## Понедельник <small>71 твит</small>
+## Понедельник <small>74 твита</small>
 
 Привет! С вами на этой неделе <a href="https://twitter.com/mishcherin" title="danny">@mishcherin</a>
 
@@ -396,6 +402,8 @@ RT <a href="https://twitter.com/mamyashev" title="Marat Mamyashev">@mamyashev</a
 Это буквально город внутри леса с чистым воздухом, отличной инфраструктурой и прекрасными видами. Одно но – работы там очень мало.
 
 Когда встал выбор – тратить на дорогу до работы по 2 часа в один конец, перебираться внутрь МКАДа или уехать в Петербург, выбрал последнее.
+
+В этом плане с ok.ru повезло – у нас три офиса (Москва, Петербург и Рига), поэтому перевестись из Москвы в Петербург было несложно.
 
 И тут мы плавно подходим в сегодняшней основной теме. После перерыва расскажу про процессы и работу в Одноклассниках, задавайте вопросы. :)
 
@@ -458,6 +466,8 @@ RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepe
 
 <a href="https://t.co/ZsrfBGruHi">github.com/sourcejs</a> <a href="https://t.co/WNkczCDTw8">twitter.com/Lik04ka/status…</a>
 
+Стараемся поддерживать её в актуальном состоянии и потихоньку движемся в сторону полноценного компонентного подхода в UI
+
 БЭМа у нас нет, мы придерживаемся нами же и созданной MCSS <a href="http://t.co/gGIdDg6k8e">operatino.github.io/MCSS/</a>
 
 Почему? Скажем, так исторически сложилось. В своё время эта методология идеально подходила под наши нужды.
@@ -468,6 +478,8 @@ RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepe
 у нас есть свой стайлгайд, видоизменяющийся со временем, команда активно его реиспользует <a href="https://t.co/bEQSxYZmQL">twitter.com/al_ulianov/sta…</a>
 
 Никогда не задумывался о возрасте, средний в команде – как раз мои 26 лет, по компании – в районе 30 с хвостиком. <a href="https://t.co/iEQi9x1Re5">twitter.com/krasivieglaza/…</a>
+
+Да, поток сообщений очень плотный, у многих коллег есть по два скайпа – рабочий и домашний. <a href="https://t.co/MvCSD1E9U9">twitter.com/sapegin/status…</a>
 
 RT <a href="https://twitter.com/from_anywhere" title="Иван Метелёв">@from_anywhere</a>: <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> для этого всем новоприбывшим горячо рекомендуют заводить отдельный рабочий аккаунт
 
@@ -549,6 +561,7 @@ RT <a href="https://twitter.com/from_anywhere" title="Иван Метелёв">@
 <a href="http://ksoftware.livejournal.com/202173.html" target="_blank">http://ksoftware.livejournal.com/202173.html</a>  
 <a href="http://alistapart.com/d/creating-intrinsic-ratios-for-video/example2.html" target="_blank">http://alistapart.com/d/creating-intrinsic-ratios-for-video/example2.html</a>  
 <a href="http://getbootstrap.com/components/#responsive-embed" target="_blank">http://getbootstrap.com/components/#responsive-embed</a>  
+<a href="http://nicolasgallagher.com/flexible-css-cover-images/" target="_blank">http://nicolasgallagher.com/flexible-css-cover-images/</a>  
 <a href="http://pedroduarte.me/wallop/" target="_blank">http://pedroduarte.me/wallop/</a>  
 <a href="http://flickity.metafizzy.co/" target="_blank">http://flickity.metafizzy.co/</a>  
 <a href="http://refreshless.com/nouislider/" target="_blank">http://refreshless.com/nouislider/</a>  
