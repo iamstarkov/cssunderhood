@@ -1,6 +1,6 @@
 # akella
 
-_18 октября 2015_
+_19 октября 2015_
 
 ## Понедельник <small>45 твитов</small>
 
@@ -244,7 +244,7 @@ RT <a href="https://twitter.com/shugich" title="Дима Шишкин">@shugich<
 
 RT <a href="https://twitter.com/mamyashev" title="Marat Mamyashev">@mamyashev</a>: <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> <a href="https://twitter.com/tachisis" title="engel">@tachisis</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> поддерживаю, ALA и webmascon. За счастье было еще и переводить для него.
 
-## Пятница <small>34 твита</small>
+## Пятница <small>31 твит</small>
 
 RT <a href="https://twitter.com/Bidin" title="copylefter">@Bidin</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> а чем делать макеты анимации, перед кодингом? Я вот вчера в ae фигарил, но может есть что-то более распространеное?
 
@@ -258,15 +258,11 @@ RT <a href="https://twitter.com/zigzag_mcquack" title="Pavel Lautsevich">@zigzag
 
 RT <a href="https://twitter.com/TheSunwave" title="Arturio">@TheSunwave</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> 2 дня думаю и прокрастинирую, затем 2 часа делаю... ПРОФИТ! Не знаю как по-другому настроиться.
 
-RT <a href="https://twitter.com/denisfedosov" title="Denis FL">@denisfedosov</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> можно смотреть на это не как на прокрастинацию, а как на подготовку рабочего окружения и планирование архит…
-
 RT <a href="https://twitter.com/borodean" title="Vadym Borodin">@borodean</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> ну бюрошный подход ля меня хорошо работает <a href="http://t.co/e90J7u64gq">ksoftware.livejournal.com/202173.html</a>
 
 RT <a href="https://twitter.com/stewardtz" title="Andriy Petrusha">@stewardtz</a>: <a href="https://twitter.com/TheSunwave" title="Arturio">@TheSunwave</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> самая большая лажа в том, что если бы начал делать сразу - делал бы 2 дня!!!
 
 RT <a href="https://twitter.com/li_rian" title="Linda Rian">@li_rian</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> разбиваю предполагаемый объем работы на этапы - выполнение каждого дает некое чувство удовлетворения :) и стимул…
-
-RT <a href="https://twitter.com/antonfrolovsky" title="Frant">@antonfrolovsky</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Включаешь музыку, посылаешь всех на хў что бы не отвлекали и делаешь. Ах да надо твитер приложение закрыт…
 
 RT <a href="https://twitter.com/Anarion_tw" title="Vitaly">@Anarion_tw</a>: Для <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>  и <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a>  в копилку: <a href="https://t.co/u3k3Nrl2ma">github.com/sindresorhus/a…</a>
 
@@ -279,8 +275,6 @@ RT <a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a>: <
 .<a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a> не знаю как вы, а я как-то так провожу время <a href="https://t.co/uTGbdzd2Nq">instagram.com/p/re66VFC6wV/?…</a>  <a href="https://t.co/uYqNgapef6">instagram.com/p/oGUcRWi60s/?…</a>
 
 RT <a href="https://twitter.com/denysbutenko" title="Denys Butenko">@denysbutenko</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Вот эта штука давным-давно в бутстрапе. <a href="http://t.co/c0zjwWRGlw">getbootstrap.com/components/#re…</a>
-
-RT <a href="https://twitter.com/NDenis" title="Denis Nekhoroshev">@NDenis</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> в некоторых проектах использовал решение <a href="http://t.co/fFkIzGUGCS">nicolasgallagher.com/flexible-css-c…</a> Тоже самое, только под стандартные пропорции.
 
 RT <a href="https://twitter.com/kinday" title="Леонард Киндай">@kinday</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>, довести себя этим, приуныть, переосмыслить своё поведение и больше так не делать.
 
@@ -348,6 +342,155 @@ RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepe
 
 RT <a href="https://twitter.com/mamyashev" title="Marat Mamyashev">@mamyashev</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/akella" title="akella">@akella</a> бля я все пропустил.ЧОРТ! Ну ты хоть запостил сто тыщ фоток с голыми телками как обычно?
 
+## Понедельник <small>71 твит</small>
+
+Привет! С вами на этой неделе <a href="https://twitter.com/mishcherin" title="danny">@mishcherin</a>
+
+Меня зовут Даня, я живу в Санкт-Петербурге и последние полтора года верстаю в Одноклассниках.
+
+Пока вы просыпаетесь, завтракаете и добираетесь до работы, немного расскажу о себе.
+
+Мне 26 лет, в Петербурге я чуть больше года, до этого жил, учился и работал 9 лет в Москве, ну а родился и закончил школу в Курске.
+
+В профессию пришел около четырех лет назад, с тех пор успел сменить три компании. В первых двух около года работал одновременно.
+
+До этого, живя в общаге, работал админом (а заодно и монтажником СКС) в местной локальной сети и эникейщиком в различных госучреждениях.
+
+На первом курсе даже решал задачки по матанализу за деньги. :) Денег давали немного, но и того хватало хотя бы на еду.
+
+Лето 2010го выдалось довольно странным, я долго не мог найти работу и попытался устроиться хотя бы курьером в страховую компанию.
+
+Курьером меня не взяли – слишком неформально выгляжу, сказали, у них там клиенты-деньги-договора, пришлось стать верстальщиком. :)
+
+Я устроился работать в небольшую местную веб-студию помощником SEO-специалиста и контент-менеджером, и к началу 2011 начал немного верстать.
+
+Единственный верстальщик в компании подкидывала мне тестовые задачки, помогала справиться с трудностями, отвечала на мои глупые вопросы.
+
+За это я до сих пор ей очень благодарен, кстати. Настя, привет! :)
+
+Ну а потом я просто читал документацию и много смотрел в DevTools (на тот момент в Firebug, первое время основным рабочим браузером был FF).
+
+Сначала были в основном «тестовые» задачки – две-три колонки, резина, флоаты, вот это вот всё. <a href="https://t.co/efdJ9cLueR">twitter.com/redhead_jules/…</a>
+
+Позже начал делать мелкие задачи по проектам, попутно разбираясь в устройстве CMS. До совсем крупных внутри компании дорос где-то через год.
+
+Попутно иногда брался за небольшой фриланс от нашей же компании, это стимулировало развиваться быстрее и делать больше.
+
+В 2012м сверстал свои первые крупные адаптивные сайты, до сих пор пускаю скупую мужскую слезу, когда вспоминаю их.
+
+Боли в процессе было очень много, радости после запуска – еще больше.
+
+Позже, уже на другой работе, помимо вёрстки, тянул на себе еще и весь дизайн веба и приложений.
+
+Дизайном, если честно, сейчас рука это назвать не поднимется, но опыт был интересный и поучительный.
+
+Это помогло мне немного переосмыслить отношение к работе и посмотреть на него еще и со стороны дизайна и задач, решаемых бизнесом.
+
+С тех пор наиболее комфортно ощущаю себя как раз на стыке дизайна и фронтенда, стараюсь в каждую из областей привносить что-то из второй.
+
+По любви. :) 
+А вообще Москву не очень люблю, хотя последнее время она заметно улучшилась и стала приятнее. <a href="https://t.co/8Ctr4RJ7uy">twitter.com/dmitry_dok/sta…</a>
+
+Я жил не в самой Москве, а в небольшом и прекрасном Зеленограде (он вроде бы тоже часть столицы, но до него 40 минут на автобусе)
+
+Это буквально город внутри леса с чистым воздухом, отличной инфраструктурой и прекрасными видами. Одно но – работы там очень мало.
+
+Когда встал выбор – тратить на дорогу до работы по 2 часа в один конец, перебираться внутрь МКАДа или уехать в Петербург, выбрал последнее.
+
+И тут мы плавно подходим в сегодняшней основной теме. После перерыва расскажу про процессы и работу в Одноклассниках, задавайте вопросы. :)
+
+.<a href="https://twitter.com/dmitry_dok" title="dmitry">@dmitry_dok</a> не мы такие, город такой. :)
+
+.<a href="https://twitter.com/meuwka" title="Nataliya Karatkova">@meuwka</a> <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a> я тоже старался проводить время с пользой и читать что-то или смотреть доклады, но на этом плюсы для меня заканчиваются
+
+RT <a href="https://twitter.com/meuwka" title="Nataliya Karatkova">@meuwka</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> долгий путь на работу это ужас для меня. не понимаю как люди живут с этим. мне обычно не хватает 24ч в сутках
+
+Тему самообразования в целом и подкастов в частности еще обсудим, это вопрос, остающийся актуальным всегда. :) <a href="https://t.co/nQ0f5x7g1c">twitter.com/denysdovhan/st…</a>
+
+RT <a href="https://twitter.com/arseniydmitriev" title="Арсений Дмитриев">@arseniydmitriev</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Как-то стояли в пробке от Зелика до Москвы. Часа 2. Пробки это зло. А в целом Зелик произвел приятное вп…
+
+.<a href="https://twitter.com/arseniydmitriev" title="Арсений Дмитриев">@arseniydmitriev</a> однажды стоял там в пробке 5 часов. 
+пробок хватает и в Петербурге, это одна из причин, по которой я предпочитаю велосипед
+
+.<a href="https://twitter.com/arseniydmitriev" title="Арсений Дмитриев">@arseniydmitriev</a> мы еще вернемся к этой теме на неделе.
+
+RT <a href="https://twitter.com/arseniydmitriev" title="Арсений Дмитриев">@arseniydmitriev</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Иногда комбинирую рабочий день с такой музыкой: <a href="https://t.co/DYRvLTCliD">itunes.apple.com/ru/podcast/art…</a>
+
+Итак, про процессы в ok.ru в целом и в нашей команде верстки в частности.
+
+Я отвечаю за верстку почти всех монетизирующих сервисов компании, кроме того так или иначе отвечаю за стайлгайды и взаимодействие с дизайном
+
+Помимо этого вместе с другими коллегами участвую в процессе ревью верстки. Об этом расскажу поподробнее чуть позже.
+
+Прямо сейчас сижу на еженедельной встрече наших дизайнеров, где ребята делятся своими наработками за прошедшую неделю.
+
+Обычно это вызывает бурные обсуждения, много спорим как о продуктовых проблемах, так и о применимости существующих стайлгайдов.
+
+Вообще, при работе в крупной компании приходится сразу смириться с необходимостью часто встречаться с коллегами и участвовать в митингах.
+
+Например, я каждую неделю присутствую минимум на четырех митах, плюс иногда дополнительно собираемся по каким-то продуктовым задачам.
+
+Можете сами посчитать, суммарно это отнимает день или два от вашей рабочей недели, но без этого, к сожалению, никак.
+
+У команды верстки тоже есть еженедельные встречи, где помимо планов и задач мы иногда делимся новостями или отчитываемся о посещенных конфах
+
+Нас в команде сейчас 9 человек, двое из которых занимаются только мобильной версией. <a href="https://t.co/R5SjhaZlXF">twitter.com/NSobyanin/stat…</a>
+
+Каждый верстальщик привязан к своей проектной команде (фото, видео, лента, и т.д.) и целиком отвечает за соответствующие сервисы.
+
+Плюс есть стек общепортальных задач и багов, за которые в определенной мере ответственна вся команда.
+
+Это позволяет не закапываться внутри своего проекта и быть в курсе всего, что происходит на сайте.
+
+Команда у нас распределенная, но большинство здесь, в Петербурге. Между собой постоянно общаемся лично или в скайпе в общих чатах.
+
+Там же делимся интересными новостями, ссылками, чем-то полезным, там же задаем вопросы и принимаем решения.
+
+Периодически проводим командные хакатоны и слёты, где каждый по желанию может подготовить доклад на интересную ему тему и рассказать его.
+
+пользуясь случаем, так сказать. :) <a href="https://t.co/FnEfX3YXk5">twitter.com/from_anywhere/…</a>
+
+Скайп - корпоративное решение. Очень долго уже ходят разговоры про переход на что-то другое, но воз и ныне там. <a href="https://t.co/SVZxDvSiUW">twitter.com/ktwzk/status/6…</a>
+
+RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>, картинка по запросу «отвечаю за вёрстку всех монетизирующих сервисов» <a href="http://t.co/HagpY6RPBI">pic.twitter.com/HagpY6RPBI</a>
+
+У нас есть наработанная со временем библиотека компонентов, основанная на <a href="https://twitter.com/SourceJS" title="Source">@SourceJS</a>
+
+<a href="https://t.co/ZsrfBGruHi">github.com/sourcejs</a> <a href="https://t.co/WNkczCDTw8">twitter.com/Lik04ka/status…</a>
+
+БЭМа у нас нет, мы придерживаемся нами же и созданной MCSS <a href="http://t.co/gGIdDg6k8e">operatino.github.io/MCSS/</a>
+
+Почему? Скажем, так исторически сложилось. В своё время эта методология идеально подходила под наши нужды.
+
+Сейчас, как я уже упоминал, мы постепенно начинаем двигаться к светлому будущему и полноценным переиспользуемым компонентам.
+
+возможно, не понял вопрос.
+у нас есть свой стайлгайд, видоизменяющийся со временем, команда активно его реиспользует <a href="https://t.co/bEQSxYZmQL">twitter.com/al_ulianov/sta…</a>
+
+Никогда не задумывался о возрасте, средний в команде – как раз мои 26 лет, по компании – в районе 30 с хвостиком. <a href="https://t.co/iEQi9x1Re5">twitter.com/krasivieglaza/…</a>
+
+RT <a href="https://twitter.com/from_anywhere" title="Иван Метелёв">@from_anywhere</a>: <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> для этого всем новоприбывшим горячо рекомендуют заводить отдельный рабочий аккаунт
+
+RT <a href="https://twitter.com/from_anywhere" title="Иван Метелёв">@from_anywhere</a>: <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a> <a href="http://t.co/1sbGnzr8eg">superuser.com/questions/2716…</a>
+
+Я, например, использую один скайп, два с половиной домашних контакта просто в избранном, пока что полёт нормальный. <a href="https://t.co/a0w1zUCgoL">twitter.com/sapegin/status…</a>
+
+У меня очень часто бомбит от каскадов и проектных переопределений в общих портальных стандартах. <a href="https://t.co/nbBkstZTag">twitter.com/gunlinux/statu…</a>
+
+Сам стараюсь по возможности делать максимально изолированные компоненты с модификаторами для различных состояний и внешнего вида.
+
+В этом плане наша методология очень похожа на БЭМ, да.
+
+Второй вопрос очень щепетильный. Как разработчики - конечно пользуемся, как пользователи - далеко не все и не всегда <a href="https://t.co/iEQi9x1Re5">twitter.com/krasivieglaza/…</a>
+
+Это одна из главных сложностей, с которыми пришлось здесь столкнуться. Сложно организовать своё время в таком режиме <a href="https://t.co/1VI5H2dZdf">twitter.com/webholt/status…</a>
+
+Однако, нет ничего невозможного. Со временем учишься сильно заранее всё планировать и дробить задачи на очень маленькие этапы.
+
+Очень важно уметь быть многозадачным и с легкостью переключаться между задачами, но при этом не держать все эти задачи в голове одновременно
+
+Ближе к вечеру продолжим, расскажу про путь задачи от дизайна до запуска, про процесс ревью у нас в команде и отвечу на оставшиеся вопросы.
+
 ## Ссылки
 
 ### gist.github.com  
@@ -372,7 +515,8 @@ RT <a href="https://twitter.com/mamyashev" title="Marat Mamyashev">@mamyashev</a
 <a href="https://github.com/chemistry-template/chemistry-template-2/blob/master/app/views/examples.html.haml#L79" target="_blank">https://github.com/chemistry-template/chemistry-template-2/blob/master/app/views/examples.html.haml#L79</a>  
 <a href="https://github.com/chemistry-template/chemistry-template-2/blob/master/app/assets/stylesheets/core/_forms.scss" target="_blank">https://github.com/chemistry-template/chemistry-template-2/blob/master/app/assets/stylesheets/core/_forms.scss</a>  
 <a href="https://github.com/chemistry-template/chemistry-template-2/blob/master/app/assets/stylesheets/user/_forms.scss" target="_blank">https://github.com/chemistry-template/chemistry-template-2/blob/master/app/assets/stylesheets/user/_forms.scss</a>  
-<a href="https://github.com/MohammadYounes/rtlcss" target="_blank">https://github.com/MohammadYounes/rtlcss</a>
+<a href="https://github.com/MohammadYounes/rtlcss" target="_blank">https://github.com/MohammadYounes/rtlcss</a>  
+<a href="https://github.com/sourcejs" target="_blank">https://github.com/sourcejs</a>
 
 ### Другие
 
@@ -405,11 +549,13 @@ RT <a href="https://twitter.com/mamyashev" title="Marat Mamyashev">@mamyashev</a
 <a href="http://ksoftware.livejournal.com/202173.html" target="_blank">http://ksoftware.livejournal.com/202173.html</a>  
 <a href="http://alistapart.com/d/creating-intrinsic-ratios-for-video/example2.html" target="_blank">http://alistapart.com/d/creating-intrinsic-ratios-for-video/example2.html</a>  
 <a href="http://getbootstrap.com/components/#responsive-embed" target="_blank">http://getbootstrap.com/components/#responsive-embed</a>  
-<a href="http://nicolasgallagher.com/flexible-css-cover-images/" target="_blank">http://nicolasgallagher.com/flexible-css-cover-images/</a>  
 <a href="http://pedroduarte.me/wallop/" target="_blank">http://pedroduarte.me/wallop/</a>  
 <a href="http://flickity.metafizzy.co/" target="_blank">http://flickity.metafizzy.co/</a>  
 <a href="http://refreshless.com/nouislider/" target="_blank">http://refreshless.com/nouislider/</a>  
 <a href="https://www.psd2html.com/js-custom-forms/" target="_blank">https://www.psd2html.com/js-custom-forms/</a>  
 <a href="http://chemistry-template.github.io/examples.html" target="_blank">http://chemistry-template.github.io/examples.html</a>  
 <a href="http://i.imgur.com/4S7KaiK.png" target="_blank">http://i.imgur.com/4S7KaiK.png</a>  
-<a href="http://facebook.com/akella" target="_blank">http://facebook.com/akella</a>
+<a href="http://facebook.com/akella" target="_blank">http://facebook.com/akella</a>  
+<a href="https://itunes.apple.com/ru/podcast/artem-dmitriev-record-chillout/id432614039" target="_blank">https://itunes.apple.com/ru/podcast/artem-dmitriev-record-chillout/id432614039</a>  
+<a href="http://operatino.github.io/MCSS/" target="_blank">http://operatino.github.io/MCSS/</a>  
+<a href="http://superuser.com/questions/271646/multiple-skype-clients-on-mac-os-x" target="_blank">http://superuser.com/questions/271646/multiple-skype-clients-on-mac-os-x</a>
