@@ -348,7 +348,7 @@ RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepe
 
 RT <a href="https://twitter.com/mamyashev" title="Marat Mamyashev">@mamyashev</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/akella" title="akella">@akella</a> бля я все пропустил.ЧОРТ! Ну ты хоть запостил сто тыщ фоток с голыми телками как обычно?
 
-## Понедельник <small>74 твита</small>
+## Понедельник <small>128 твитов</small>
 
 Привет! С вами на этой неделе <a href="https://twitter.com/mishcherin" title="danny">@mishcherin</a>
 
@@ -503,6 +503,117 @@ RT <a href="https://twitter.com/from_anywhere" title="Иван Метелёв">@
 
 Ближе к вечеру продолжим, расскажу про путь задачи от дизайна до запуска, про процесс ревью у нас в команде и отвечу на оставшиеся вопросы.
 
+На прошлой неделе <a href="https://twitter.com/Lik04ka" title="Климова Василика">@Lik04ka</a> в <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> интересовалась насчет прототипирования: <a href="https://t.co/TWiwJZ6MOJ">twitter.com/jsunderhood/st…</a>
+
+Делать прототипы в большинстве случаев нужно. На этом этапе можно «дешево» продумать все нюансы будущей фичи.
+
+После прототипа рисуется дизайн, который потом проходит ревью других дизайнеров и обсуждается на их еженедельных встречах.
+
+Перед тем как попасть в вёрстку, дизайн также проходит так называемое «ревью стандартов». На этом этапе смотрит на него уже наша команда.
+
+Зачастую дизайнер может не заметить каких-то нюансов или решить подвигать пиксели в виду хорошего настроения или большого желания менеджера.
+
+Такие моменты как раз и обсуждаются во время ревью, стараемся найти компромисс между желанием и возможностями.
+
+«Продавить» получается далеко не всегда, часто запуск фичи важнее этих наших стайлгайдов, на это конечно тоже приходится делать поправку.
+
+Обычно ребята относятся с понимаем к этому, ссор и драк между дизайном и вёрсткой у нас почти не бывает. :) <a href="https://t.co/5Y8NjKIsZ3">twitter.com/pepelsbey/stat…</a>
+
+В целом такой подход только со стороны выглядит страшным, на деле обычно всё решается довольно быстро и не задерживает разработку.
+
+Благодаря наличию библиотеки компонентов нам практически не приходится работать с макетами. Еще один плюс в копилку этого подхода.
+
+Обычно это просто спека в нашей внутренней вики, где расписаны все стейты компонента, отступы, цвета и прочее.
+
+Формально, у нас один проект и много подпроектов внутри. :) Поэтому да, одна универсальная. <a href="https://t.co/kTUhyoyJtv">twitter.com/nayanov/status…</a>
+
+Вёрстку в зависимости от задачи либо сразу собираем по кусочкам на шаблонизаторе с привязкой к бекенду...
+
+...либо сначала готовим стандарт вёрстки, собираем прототип и уже потом запускаем его в работу.
+
+Вёрстка тоже проходит ревью, сейчас у нас в команде этим занимаются четыре человека. Оцениваем обычно код-стайл и зачем сделано именно так.
+
+Некоторые ворчат, но лично я читаю этот этап ревью очень полезным, одна голова хорошо, а две всегда лучше. :) Как думаете?
+
+В целях ускорения разработки ревью верстки происходит обычно на этапе создания PR вместе с FLR и LR бекенда.
+
+Визуально вёрстка тестируется вместе со всей остальной фичей, специальных инструментов для этого мы не используем. <a href="https://t.co/6BuFo5xDwF">twitter.com/li_rian/status…</a>
+
+Кстати, в <a href="https://twitter.com/jsunderhood" title="Разработчик">@jsunderhood</a> на этой неделе как раз про тестирование фронтенда, подписывайтесь, если вдруг еще не.
+
+Такой вот у нас процесс. А как у вас, что хотелось бы улучшить, исправить, оптимизировать?
+
+RT <a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>, а как с автоматизацией ревью кода? Линтеры-шминтеры. От машины не так обидно получать упрёки.
+
+.<a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> начали недавно двигаться в эту сторону, линтеры-шминтеры пока натравливаем в тестовом режиме.
+
+.<a href="https://twitter.com/pepelsbey" title="Вадим Макеев">@pepelsbey</a> к тому же далеко не везде их применишь, особенно если не про код-стайл речь.
+
+<a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> покажу кусочек рабочей спеки, которая обычно приходит на вход верстальщику от наших дизайнеров. :) <a href="http://t.co/uV9DFsDkCG">pic.twitter.com/uV9DFsDkCG</a>
+
+RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> true
+
+RT <a href="https://twitter.com/brainsapiens" title="Вячеслав Ефременко">@brainsapiens</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Я один ничего не понял из этих аббревиатур?
+
+RT <a href="https://twitter.com/ShtirliZ_" title="Все буквы">@ShtirliZ_</a>: <a href="https://twitter.com/brainsapiens" title="Вячеслав Ефременко">@brainsapiens</a> я тоже)))  <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>
+
+.<a href="https://twitter.com/ShtirliZ_" title="Все буквы">@ShtirliZ_</a> <a href="https://twitter.com/brainsapiens" title="Вячеслав Ефременко">@brainsapiens</a> PR - pull request, FLR - first line review, LR - lead review :)
+
+RT <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Дело полезное — вот что думаем.
+
+RT <a href="https://twitter.com/oley" title="olgV bobrovV">@oley</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/sapegin" title="Artem Sapegin">@sapegin</a> две маловато будет... <a href="http://t.co/oF4XwcZoAs">pic.twitter.com/oF4XwcZoAs</a>
+
+RT <a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> ниче не ясно? Что такое спека? И что за прямоугольнички?
+
+.<a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a> спекой называем спецификацию – документ с набором экранов, состояний, вот это всё. прямоугольники здесь - контентные области.
+
+RT <a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> придераетесь ко всем участкам кода с вопросом: "почему именно так?"
+
+.<a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a> конечно нет, но иногда некоторые решения вызывают определенные вопросы.
+
+RT <a href="https://twitter.com/annasafronov" title="Anna Safronova">@annasafronov</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> много спорите на этом этапе или по принципу большинства?
+
+.<a href="https://twitter.com/annasafronov" title="Anna Safronova">@annasafronov</a> споры возникают крайне редко, на моей памяти вот прямо уж очень серьезного не было еще ни разу.
+
+RT <a href="https://twitter.com/li_rian" title="Linda Rian">@li_rian</a>: <a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> скорее всего только к тем, которые можно решить несколькими способами и выбранное решение не очевидно
+
+.<a href="https://twitter.com/li_rian" title="Linda Rian">@li_rian</a> <a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a> да, всё так.
+
+RT <a href="https://twitter.com/ymatuhin" title="Юрий Матюхин">@ymatuhin</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> зависть)
+
+RT <a href="https://twitter.com/exdeniz" title="exdeniz">@exdeniz</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>  а assets сами режете?
+
+.<a href="https://twitter.com/exdeniz" title="exdeniz">@exdeniz</a> нарезку тоже делает дизайнер, мы обычно только оптимизируем графику да спрайты клеим (автоматически, конечно)
+
+RT <a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/li_rian" title="Linda Rian">@li_rian</a> не использование сеток это нубство?
+
+.<a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a> <a href="https://twitter.com/li_rian" title="Linda Rian">@li_rian</a> скорее недальновидность, без сетки рано или поздно ваш дизайн станет хаотичным и не поддающимся никакой логике.
+
+RT <a href="https://twitter.com/sc0rp1d" title="Mark Langovoi">@sc0rp1d</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> в каком виде дизайнеры передают спеки?
+
+.<a href="https://twitter.com/sc0rp1d" title="Mark Langovoi">@sc0rp1d</a> пока что страница в нашей корпоративной вики. сейчас начали активно внедрять Zeplin для этих целей.
+<a href="https://t.co/KOgjXP0Js9">zeplin.io</a>
+
+RT <a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/li_rian" title="Linda Rian">@li_rian</a> в смысле в одном проекте или в нескольких станет хаотичным?
+
+.<a href="https://twitter.com/ardshock" title="Kink Ardshock">@ardshock</a> <a href="https://twitter.com/li_rian" title="Linda Rian">@li_rian</a> в том проекте, где в дизайне не используется сетка. :)
+
+Про модульную сетку в дизайне есть отличная статья восьмилетней давности, актуальная и по сей день.
+
+<a href="http://t.co/xzwma7U72i">smashingmagazine.com/2007/04/design…</a>
+
+Про процесс поговорили, тема на завтра – технологии, окружение, девайсы и всё то, что делает нашу жизнь удобнее. :) <a href="https://t.co/ZKmEmSvSew">twitter.com/helloilya/stat…</a>
+
+RT <a href="https://twitter.com/meuwka" title="Nataliya Karatkova">@meuwka</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> рекомендую <a href="https://t.co/CbDXxObE2h">cmsmagazine.ru/library/items/…</a>
+
+.<a href="https://twitter.com/meuwka" title="Nataliya Karatkova">@meuwka</a> да, тоже ок. вот почему нашим дизайнерам всегда полезно хотя бы немного уметь верстать.
+
+RT <a href="https://twitter.com/helloilya" title="Илья">@helloilya</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>, увидел ссылку на зеплин. Какой процент использующих скетч, дизайнеров, конечно?
+
+.<a href="https://twitter.com/helloilya" title="Илья">@helloilya</a> 100% :) завтра поговорим об этом подробнее.
+
+RT <a href="https://twitter.com/meuwka" title="Nataliya Karatkova">@meuwka</a>: <a href="https://twitter.com/yustovskiy" title="Nikita Yustovskiy">@yustovskiy</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> если что, этот берет любые ;) <a href="https://t.co/KZP4Vv4Jy0">everythingfonts.com/font-face</a>
+
 ## Ссылки
 
 ### gist.github.com  
@@ -571,4 +682,8 @@ RT <a href="https://twitter.com/from_anywhere" title="Иван Метелёв">@
 <a href="http://facebook.com/akella" target="_blank">http://facebook.com/akella</a>  
 <a href="https://itunes.apple.com/ru/podcast/artem-dmitriev-record-chillout/id432614039" target="_blank">https://itunes.apple.com/ru/podcast/artem-dmitriev-record-chillout/id432614039</a>  
 <a href="http://operatino.github.io/MCSS/" target="_blank">http://operatino.github.io/MCSS/</a>  
-<a href="http://superuser.com/questions/271646/multiple-skype-clients-on-mac-os-x" target="_blank">http://superuser.com/questions/271646/multiple-skype-clients-on-mac-os-x</a>
+<a href="http://superuser.com/questions/271646/multiple-skype-clients-on-mac-os-x" target="_blank">http://superuser.com/questions/271646/multiple-skype-clients-on-mac-os-x</a>  
+<a href="https://zeplin.io/" target="_blank">https://zeplin.io/</a>  
+<a href="http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/" target="_blank">http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/</a>  
+<a href="http://www.cmsmagazine.ru/library/items/layout/design-correct/" target="_blank">http://www.cmsmagazine.ru/library/items/layout/design-correct/</a>  
+<a href="https://everythingfonts.com/font-face" target="_blank">https://everythingfonts.com/font-face</a>
