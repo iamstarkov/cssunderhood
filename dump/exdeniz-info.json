@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1524,
+  "followers_count": 1533,
   "friends_count": 21,
   "listed_count": 73,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -46,156 +46,75 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6329,
+  "statuses_count": 6384,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 27 19:28:51 +0000 2015",
-    "id": 659089395920818200,
-    "id_str": "659089395920818177",
-    "text": "RT @roman01la: “front end development is easy ” https://t.co/o1GyUdB0CZ",
+    "created_at": "Thu Oct 29 07:33:26 +0000 2015",
+    "id": 659634129118605300,
+    "id_str": "659634129118605312",
+    "text": "@yustovskiy https://t.co/iCYGZXe2qh - миксины для мобильной верстки, https://t.co/IrQlfbv3i4 сетка. https://t.co/pb6Ve1XsDj - развитие jeet",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 659633625537884200,
+    "in_reply_to_status_id_str": "659633625537884160",
+    "in_reply_to_user_id": 1431577748,
+    "in_reply_to_user_id_str": "1431577748",
+    "in_reply_to_screen_name": "yustovskiy",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Oct 27 17:55:22 +0000 2015",
-      "id": 659065868865941500,
-      "id_str": "659065868865941505",
-      "text": "“front end development is easy ” https://t.co/o1GyUdB0CZ",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 15,
-      "favorite_count": 9,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [],
-        "media": [
-          {
-            "id": 659065866970120200,
-            "id_str": "659065866970120192",
-            "indices": [
-              33,
-              56
-            ],
-            "media_url": "http://pbs.twimg.com/media/CSV46gRWwAAE_h9.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CSV46gRWwAAE_h9.jpg",
-            "url": "https://t.co/o1GyUdB0CZ",
-            "display_url": "pic.twitter.com/o1GyUdB0CZ",
-            "expanded_url": "http://twitter.com/roman01la/status/659065868865941505/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 340,
-                "h": 604,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 576,
-                "h": 1024,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 576,
-                "h": 1024,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
-    "retweet_count": 15,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "roman01la",
-          "name": "Roman Liutikov",
-          "id": 98982330,
-          "id_str": "98982330",
+          "screen_name": "yustovskiy",
+          "name": "Nikita Yustovskiy",
+          "id": 1431577748,
+          "id_str": "1431577748",
           "indices": [
-            3,
-            13
+            0,
+            11
           ]
         }
       ],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 659065866970120200,
-          "id_str": "659065866970120192",
+          "url": "https://t.co/iCYGZXe2qh",
+          "expanded_url": "https://github.com/jenius/rupture",
+          "display_url": "github.com/jenius/rupture",
           "indices": [
-            48,
-            71
-          ],
-          "media_url": "http://pbs.twimg.com/media/CSV46gRWwAAE_h9.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CSV46gRWwAAE_h9.jpg",
-          "url": "https://t.co/o1GyUdB0CZ",
-          "display_url": "pic.twitter.com/o1GyUdB0CZ",
-          "expanded_url": "http://twitter.com/roman01la/status/659065868865941505/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 340,
-              "h": 604,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 576,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 576,
-              "h": 1024,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 659065868865941500,
-          "source_status_id_str": "659065868865941505",
-          "source_user_id": 98982330,
-          "source_user_id_str": "98982330"
+            12,
+            35
+          ]
+        },
+        {
+          "url": "https://t.co/IrQlfbv3i4",
+          "expanded_url": "http://jeet.gs/",
+          "display_url": "jeet.gs",
+          "indices": [
+            69,
+            92
+          ]
+        },
+        {
+          "url": "https://t.co/pb6Ve1XsDj",
+          "expanded_url": "https://github.com/corysimmons/lost",
+          "display_url": "github.com/corysimmons/lo…",
+          "indices": [
+            100,
+            123
+          ]
         }
       ]
     },
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
