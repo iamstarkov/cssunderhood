@@ -37,84 +37,83 @@
     }
   },
   "protected": false,
-  "followers_count": 1533,
+  "followers_count": 1544,
   "friends_count": 21,
-  "listed_count": 73,
+  "listed_count": 74,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
   "favourites_count": 61,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6384,
+  "statuses_count": 6385,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Oct 29 07:33:26 +0000 2015",
-    "id": 659634129118605300,
-    "id_str": "659634129118605312",
-    "text": "@yustovskiy https://t.co/iCYGZXe2qh - миксины для мобильной верстки, https://t.co/IrQlfbv3i4 сетка. https://t.co/pb6Ve1XsDj - развитие jeet",
+    "created_at": "Thu Oct 29 15:00:28 +0000 2015",
+    "id": 659746626957897700,
+    "id_str": "659746626957897728",
+    "text": "RT @meuwka: Фикс SVG в Edge: viewBox=\"0 0 6 6\" -&gt; viewBox=\"-2 -2 10 10\" (+1px), либо вырезайте вручную, не полагайтесь на автоматический ат…",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": 659633625537884200,
-    "in_reply_to_status_id_str": "659633625537884160",
-    "in_reply_to_user_id": 1431577748,
-    "in_reply_to_user_id_str": "1431577748",
-    "in_reply_to_screen_name": "yustovskiy",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Thu Oct 29 09:04:10 +0000 2015",
+      "id": 659656964490797000,
+      "id_str": "659656964490797056",
+      "text": "Фикс SVG в Edge: viewBox=\"0 0 6 6\" -&gt; viewBox=\"-2 -2 10 10\" (+1px), либо вырезайте вручную, не полагайтесь на автоматический атрборд",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "yustovskiy",
-          "name": "Nikita Yustovskiy",
-          "id": 1431577748,
-          "id_str": "1431577748",
+          "screen_name": "meuwka",
+          "name": "Nataliya Karatkova",
+          "id": 2159314429,
+          "id_str": "2159314429",
           "indices": [
-            0,
-            11
+            3,
+            10
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/iCYGZXe2qh",
-          "expanded_url": "https://github.com/jenius/rupture",
-          "display_url": "github.com/jenius/rupture",
-          "indices": [
-            12,
-            35
-          ]
-        },
-        {
-          "url": "https://t.co/IrQlfbv3i4",
-          "expanded_url": "http://jeet.gs/",
-          "display_url": "jeet.gs",
-          "indices": [
-            69,
-            92
-          ]
-        },
-        {
-          "url": "https://t.co/pb6Ve1XsDj",
-          "expanded_url": "https://github.com/corysimmons/lost",
-          "display_url": "github.com/corysimmons/lo…",
-          "indices": [
-            100,
-            123
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
