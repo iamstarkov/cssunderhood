@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7010,
+  "statuses_count": 7011,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 12 06:05:46 +0000 2015",
-    "id": 664685498779091000,
-    "id_str": "664685498779090944",
-    "text": "Для коммуникации используем: Skype (для переписки с гос и другими компаниями, проекты), telegram (внутри компании, между собой), email",
+    "created_at": "Thu Nov 12 06:09:33 +0000 2015",
+    "id": 664686448243703800,
+    "id_str": "664686448243703808",
+    "text": "Используем продукты Atlassian: Confluence, Jira, Software, Bitbucket https://t.co/SoT6XQY8UG\nНе забывайте делиться своим ;)",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -59,11 +59,22 @@
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/SoT6XQY8UG",
+          "expanded_url": "https://www.atlassian.com/",
+          "display_url": "atlassian.com",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
