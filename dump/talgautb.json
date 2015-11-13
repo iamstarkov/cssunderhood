@@ -5,6 +5,96 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Fri Nov 13 07:45:45 +0000 2015",
+      "id": 665073047129444400,
+      "id_str": "665073047129444352",
+      "text": "Пока это лучшее, что есть, не?! https://t.co/FGcqug4nDF",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 665072915327619100,
+      "quoted_status_id_str": "665072915327619072",
+      "quoted_status": {
+        "created_at": "Fri Nov 13 07:45:14 +0000 2015",
+        "id": 665072915327619100,
+        "id_str": "665072915327619072",
+        "text": "@cssunderhood цсс модули автоматизируют скоупы и только",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 665072759823851500,
+        "in_reply_to_status_id_str": "665072759823851520",
+        "in_reply_to_user_id": 98084311,
+        "in_reply_to_user_id_str": "98084311",
+        "in_reply_to_screen_name": "iamstarkov",
+        "user": {
+          "id": 98084311,
+          "id_str": "98084311"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FGcqug4nDF",
+            "expanded_url": "https://twitter.com/iamstarkov/status/665072915327619072",
+            "display_url": "twitter.com/iamstarkov/sta…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Nov 13 07:44:55 +0000 2015",
       "id": 665072837074559000,
       "id_str": "665072837074558976",
