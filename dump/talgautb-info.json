@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7011,
+  "statuses_count": 7167,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 12 06:09:33 +0000 2015",
-    "id": 664686448243703800,
-    "id_str": "664686448243703808",
-    "text": "Используем продукты Atlassian: Confluence, Jira, Software, Bitbucket https://t.co/SoT6XQY8UG\nНе забывайте делиться своим ;)",
+    "created_at": "Fri Nov 13 07:43:13 +0000 2015",
+    "id": 665072410425729000,
+    "id_str": "665072410425729024",
+    "text": "В CSS modules есть изоляция настоящая, в #b_ она якобы есть :)",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -56,25 +56,22 @@
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "hashtags": [
         {
-          "url": "https://t.co/SoT6XQY8UG",
-          "expanded_url": "https://www.atlassian.com/",
-          "display_url": "atlassian.com",
+          "text": "b_",
           "indices": [
-            69,
-            92
+            41,
+            44
           ]
         }
-      ]
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
