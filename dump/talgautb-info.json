@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7169,
+  "statuses_count": 7170,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 13 07:45:45 +0000 2015",
-    "id": 665073047129444400,
-    "id_str": "665073047129444352",
-    "text": "Пока это лучшее, что есть, не?! https://t.co/FGcqug4nDF",
+    "created_at": "Fri Nov 13 07:47:11 +0000 2015",
+    "id": 665073407558578200,
+    "id_str": "665073407558578176",
+    "text": "Поправь если я не прав, но CSS module основан на Postcss / cc @andrey_sitnik  https://t.co/r7Dc8Dzkpt",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -58,15 +58,26 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "andrey_sitnik",
+          "name": "Андрей Ситник",
+          "id": 62229769,
+          "id_str": "62229769",
+          "indices": [
+            62,
+            76
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/FGcqug4nDF",
-          "expanded_url": "https://twitter.com/iamstarkov/status/665072915327619072",
+          "url": "https://t.co/r7Dc8Dzkpt",
+          "expanded_url": "https://twitter.com/iamstarkov/status/665073150581952512",
           "display_url": "twitter.com/iamstarkov/sta…",
           "indices": [
-            32,
-            55
+            78,
+            101
           ]
         }
       ]
@@ -74,7 +85,7 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
