@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 1623,
+  "followers_count": 1627,
   "friends_count": 22,
-  "listed_count": 77,
+  "listed_count": 79,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
   "favourites_count": 68,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7290,
+  "statuses_count": 7471,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 13 21:24:43 +0000 2015",
-    "id": 665279148231798800,
-    "id_str": "665279148231798788",
-    "text": "Если я правильно понял тебя, то нет. В бэме только классы. Не привязывайся к html, создавай бэм структуру (дерево) https://t.co/0TSKZkIiNy",
+    "created_at": "Sun Nov 15 16:56:55 +0000 2015",
+    "id": 665936529768878100,
+    "id_str": "665936529768878080",
+    "text": "@betstep 😄 обязательно ;)",
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 665936190475018200,
+    "in_reply_to_status_id_str": "665936190475018240",
+    "in_reply_to_user_id": 236526670,
+    "in_reply_to_user_id_str": "236526670",
+    "in_reply_to_screen_name": "betstep",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,22 +58,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/0TSKZkIiNy",
-          "expanded_url": "https://twitter.com/linedia/status/665278408239263745",
-          "display_url": "twitter.com/linedia/status…",
+          "screen_name": "betstep",
+          "name": "Роман Буншафт",
+          "id": 236526670,
+          "id_str": "236526670",
           "indices": [
-            115,
-            138
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
