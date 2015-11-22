@@ -5,6 +5,4848 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Fri Nov 20 21:20:04 +0000 2015",
+      "id": 667814693164048400,
+      "id_str": "667814693164048384",
+      "text": "Расскажи подробней? Вы fla парсите? https://t.co/h19LCArqtZ",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667789303758594000,
+      "quoted_status_id_str": "667789303758594048",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 19:39:11 +0000 2015",
+        "id": 667789303758594000,
+        "id_str": "667789303758594048",
+        "text": "@cssunderhood для внутрикорпоративного использования написали парсер анимации из флеша в кейфремы, очень удобно оказалось",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667342593873711100,
+        "in_reply_to_status_id_str": "667342593873711104",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 593542722,
+          "id_str": "593542722"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/h19LCArqtZ",
+            "expanded_url": "https://twitter.com/xmalinov/status/667789303758594048",
+            "display_url": "twitter.com/xmalinov/statu…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 17:23:15 +0000 2015",
+      "id": 667755094608252900,
+      "id_str": "667755094608252928",
+      "text": "Используй автоматизацию — gulp(gulp-css -base64), webpack(url-loader), пусть машина это делает за тебя. https://t.co/8nYXt55EIc",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667748427921530900,
+      "quoted_status_id_str": "667748427921530886",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 16:56:46 +0000 2015",
+        "id": 667748427921530900,
+        "id_str": "667748427921530886",
+        "text": "@cssunderhood конвертировать единичный SVG в base64 - инструмент подскажите! кажется, что-то такое Emmet или Sublime может из коробки?",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 85618387,
+          "id_str": "85618387"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8nYXt55EIc",
+            "expanded_url": "https://twitter.com/gearmobile/status/667748427921530886",
+            "display_url": "twitter.com/gearmobile/sta…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 15:44:24 +0000 2015",
+      "id": 667730219956965400,
+      "id_str": "667730219956965376",
+      "text": "Для меня пример хорошей анимации (а именно морфинга) – https://t.co/oEE5f2yzzh. Ну и конечно https://t.co/XFCPKIVZkk https://t.co/XDStPl5YyE",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667727333059641300,
+      "quoted_status_id_str": "667727333059641344",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 15:32:56 +0000 2015",
+        "id": 667727333059641300,
+        "id_str": "667727333059641344",
+        "text": "Вот, кстати, классный пример хорошей анимации, @cssunderhood https://t.co/BisSLgyWO7",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16737157,
+          "id_str": "16737157"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "fed68b6202ec44f4",
+          "url": "https://api.twitter.com/1.1/geo/id/fed68b6202ec44f4.json",
+          "place_type": "city",
+          "name": "Владивосток",
+          "full_name": "Владивосток, Приморский край",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  131.5964,
+                  42.8857994
+                ],
+                [
+                  132.2561035,
+                  42.8857994
+                ],
+                [
+                  132.2561035,
+                  43.3160967
+                ],
+                [
+                  131.5964,
+                  43.3160967
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 667680515592478700,
+        "quoted_status_id_str": "667680515592478720",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                47,
+                60
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/BisSLgyWO7",
+              "expanded_url": "https://twitter.com/minsvyaz_news/status/667680515592478720",
+              "display_url": "twitter.com/minsvyaz_news/…",
+              "indices": [
+                61,
+                84
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 19,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oEE5f2yzzh",
+            "expanded_url": "https://vimeo.com/46616230",
+            "display_url": "vimeo.com/46616230",
+            "indices": [
+              55,
+              78
+            ]
+          },
+          {
+            "url": "https://t.co/XFCPKIVZkk",
+            "expanded_url": "http://dribbble.com/shots?list=animated",
+            "display_url": "dribbble.com/shots?list=ani…",
+            "indices": [
+              93,
+              116
+            ]
+          },
+          {
+            "url": "https://t.co/XDStPl5YyE",
+            "expanded_url": "https://twitter.com/GrawlCore/status/667727333059641344",
+            "display_url": "twitter.com/GrawlCore/stat…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 15:28:21 +0000 2015",
+      "id": 667726177159659500,
+      "id_str": "667726177159659520",
+      "text": "@smithua а где живёшь? В Москве полно бургерных, получал одно удовольствие, когда был там.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667724810252873700,
+      "in_reply_to_status_id_str": "667724810252873728",
+      "in_reply_to_user_id": 185156694,
+      "in_reply_to_user_id_str": "185156694",
+      "in_reply_to_screen_name": "smithua",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smithua",
+            "name": "Alexandr Fesenko",
+            "id": 185156694,
+            "id_str": "185156694",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 15:27:25 +0000 2015",
+      "id": 667725946070306800,
+      "id_str": "667725946070306816",
+      "text": "@vafelman ну и конечно стоит идти к врачу, а не просто мой кейс на себя применять :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667724848811089900,
+      "in_reply_to_status_id_str": "667724848811089924",
+      "in_reply_to_user_id": 16600726,
+      "in_reply_to_user_id_str": "16600726",
+      "in_reply_to_screen_name": "vafelman",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vafelman",
+            "name": "Таня",
+            "id": 16600726,
+            "id_str": "16600726",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 15:26:56 +0000 2015",
+      "id": 667725823776915500,
+      "id_str": "667725823776915456",
+      "text": "@vafelman у нас тут полная страховка, поэтому ходим в госпиталь по любому вопросу. Меня выручает Zoloft, не знаю как он в России продаётся.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667724848811089900,
+      "in_reply_to_status_id_str": "667724848811089924",
+      "in_reply_to_user_id": 16600726,
+      "in_reply_to_user_id_str": "16600726",
+      "in_reply_to_screen_name": "vafelman",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vafelman",
+            "name": "Таня",
+            "id": 16600726,
+            "id_str": "16600726",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 15:23:14 +0000 2015",
+      "id": 667724892477919200,
+      "id_str": "667724892477919232",
+      "text": "@delaz не, я про то что пища богов :) Он очень мягкий, я вообще не думал, что джин таким вкусным может быть",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667723986105684000,
+      "in_reply_to_status_id_str": "667723986105683968",
+      "in_reply_to_user_id": 16865434,
+      "in_reply_to_user_id_str": "16865434",
+      "in_reply_to_screen_name": "delaz",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "delaz",
+            "name": "Igor Zenich",
+            "id": 16865434,
+            "id_str": "16865434",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 15:20:45 +0000 2015",
+      "id": 667724264695443500,
+      "id_str": "667724264695443456",
+      "text": "@vafelman иногда пью антидепрессанты, не часто, реально спасают. Ну и медитация, пробежки по утрам. Но у тебя видимо ещё осень и меланхолия.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667720150125293600,
+      "in_reply_to_status_id_str": "667720150125293572",
+      "in_reply_to_user_id": 16600726,
+      "in_reply_to_user_id_str": "16600726",
+      "in_reply_to_screen_name": "vafelman",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vafelman",
+            "name": "Таня",
+            "id": 16600726,
+            "id_str": "16600726",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 15:19:08 +0000 2015",
+      "id": 667723859685019600,
+      "id_str": "667723859685019648",
+      "text": "@vafelman если честно, у меня довольно часто такое, особенности закрытого комьюнити, может завтра расскажу :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667720150125293600,
+      "in_reply_to_status_id_str": "667720150125293572",
+      "in_reply_to_user_id": 16600726,
+      "in_reply_to_user_id_str": "16600726",
+      "in_reply_to_screen_name": "vafelman",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vafelman",
+            "name": "Таня",
+            "id": 16600726,
+            "id_str": "16600726",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 15:09:48 +0000 2015",
+      "id": 667721512791572500,
+      "id_str": "667721512791572480",
+      "text": "@dshster @victoria_veles сложно описать вкусовые ощущения, ну если kepplers пробовали, то поймёте о чем я",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667719184416133100,
+      "in_reply_to_status_id_str": "667719184416133121",
+      "in_reply_to_user_id": 27943642,
+      "in_reply_to_user_id_str": "27943642",
+      "in_reply_to_screen_name": "dshster",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dshster",
+            "name": "Дмитрий Швалёв",
+            "id": 27943642,
+            "id_str": "27943642",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "victoria_veles",
+            "name": "this is victoria",
+            "id": 1599091056,
+            "id_str": "1599091056",
+            "indices": [
+              9,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 14:56:43 +0000 2015",
+      "id": 667718217305972700,
+      "id_str": "667718217305972736",
+      "text": "@vafelman так, и почему ты не проводишь свой отпуск у нас на Пхукете?😄",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667716368746340400,
+      "in_reply_to_status_id_str": "667716368746340353",
+      "in_reply_to_user_id": 16600726,
+      "in_reply_to_user_id_str": "16600726",
+      "in_reply_to_screen_name": "vafelman",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vafelman",
+            "name": "Таня",
+            "id": 16600726,
+            "id_str": "16600726",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 14:55:15 +0000 2015",
+      "id": 667717848966365200,
+      "id_str": "667717848966365184",
+      "text": "@SilentImp что задумал? Кодил когда-нибудь выпившим? Забавные ощущения :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667715701617094700,
+      "in_reply_to_status_id_str": "667715701617094656",
+      "in_reply_to_user_id": 71016924,
+      "in_reply_to_user_id_str": "71016924",
+      "in_reply_to_screen_name": "SilentImp",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SilentImp",
+            "name": "Тихий Бес",
+            "id": 71016924,
+            "id_str": "71016924",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 14:53:56 +0000 2015",
+      "id": 667717517691850800,
+      "id_str": "667717517691850752",
+      "text": "@delaz у нас Костя Калинов джин любит, поэтому его всегда много в офисе. Я тоже иногда пью. Пробовал Хендрикс? ЭТО АМБРОЗИЯ",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667716405882699800,
+      "in_reply_to_status_id_str": "667716405882699776",
+      "in_reply_to_user_id": 16865434,
+      "in_reply_to_user_id_str": "16865434",
+      "in_reply_to_screen_name": "delaz",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "delaz",
+            "name": "Igor Zenich",
+            "id": 16865434,
+            "id_str": "16865434",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 14:51:13 +0000 2015",
+      "id": 667716833298919400,
+      "id_str": "667716833298919424",
+      "text": "@victoria_veles очень уважаю сидр, особенно такого вкуса, знаешь, как старые яблоки :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667691439116152800,
+      "in_reply_to_status_id_str": "667691439116152832",
+      "in_reply_to_user_id": 1599091056,
+      "in_reply_to_user_id_str": "1599091056",
+      "in_reply_to_screen_name": "victoria_veles",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "victoria_veles",
+            "name": "this is victoria",
+            "id": 1599091056,
+            "id_str": "1599091056",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 14:23:16 +0000 2015",
+      "id": 667709801367863300,
+      "id_str": "667709801367863300",
+      "text": "@dcromster Хороший подход, главное не словить burnout ;)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667706490124378100,
+      "in_reply_to_status_id_str": "667706490124378112",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 14:18:22 +0000 2015",
+      "id": 667708566380261400,
+      "id_str": "667708566380261377",
+      "text": "@freiksenet_ru круто, спасибо за совет, попробую на выходных найти!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667707682816700400,
+      "in_reply_to_status_id_str": "667707682816700416",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:56:13 +0000 2015",
+      "id": 667702994188636200,
+      "id_str": "667702994188636160",
+      "text": "@freiksenet_ru ламбики да, Kasteel rouge любимое (пожалуй поеду после работы возьму за 11$ 😑). А что за тропический IPA?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667701476664430600,
+      "in_reply_to_status_id_str": "667701476664430592",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:52:57 +0000 2015",
+      "id": 667702172373545000,
+      "id_str": "667702172373544960",
+      "text": "@twenty @sapegin заметь, никто не говорил, что это аксиома. Хорошо хоть про веганство не написал😂",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667701155540156400,
+      "in_reply_to_status_id_str": "667701155540156416",
+      "in_reply_to_user_id": 12775382,
+      "in_reply_to_user_id_str": "12775382",
+      "in_reply_to_screen_name": "twenty",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twenty",
+            "name": "Павел Франков",
+            "id": 12775382,
+            "id_str": "12775382",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              8,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:34:10 +0000 2015",
+      "id": 667697443115397100,
+      "id_str": "667697443115397120",
+      "text": "@ilnurkhalilov это за бутылочный «не лагер». Что-нибудь бельгийское/немецкое/английское стоит больше 500, разливное чуть дороже 😐",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667696631043792900,
+      "in_reply_to_status_id_str": "667696631043792897",
+      "in_reply_to_user_id": 229002458,
+      "in_reply_to_user_id_str": "229002458",
+      "in_reply_to_screen_name": "ilnurkhalilov",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ilnurkhalilov",
+            "name": "Ilnur Khalilov",
+            "id": 229002458,
+            "id_str": "229002458",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:29:38 +0000 2015",
+      "id": 667696303116148700,
+      "id_str": "667696303116148737",
+      "text": "@sapegin как голову освобождаешь? Наверное, как фотограф, чаще через созидание?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667694280107024400,
+      "in_reply_to_status_id_str": "667694280107024385",
+      "in_reply_to_user_id": 31656594,
+      "in_reply_to_user_id_str": "31656594",
+      "in_reply_to_screen_name": "sapegin",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:27:16 +0000 2015",
+      "id": 667695707126566900,
+      "id_str": "667695707126566912",
+      "text": "Последняя ссылка по RWD на сегодня, пожалуй — коллекция отзывчивых паттернов всех UI элементов https://t.co/ikndy72tKV",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 23,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ikndy72tKV",
+            "expanded_url": "https://bradfrost.github.io/this-is-responsive/patterns.html",
+            "display_url": "bradfrost.github.io/this-is-respon…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:15:34 +0000 2015",
+      "id": 667692763463348200,
+      "id_str": "667692763463348224",
+      "text": "Тоже отлично! Как медитируешь? Я последнее время подсел на подписку, хорошо чистит голову https://t.co/6VWtWi8VIq https://t.co/1F76Y7Qe2F",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667691527255277600,
+      "quoted_status_id_str": "667691527255277568",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 13:10:39 +0000 2015",
+        "id": 667691527255277600,
+        "id_str": "667691527255277568",
+        "text": "@cssunderhood медитации, чтение, творческие практики и забота о дочери. А пить давно бросил =)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667688720389161000,
+        "in_reply_to_status_id_str": "667688720389160961",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 106619181,
+          "id_str": "106619181"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6VWtWi8VIq",
+            "expanded_url": "https://www.headspace.com/",
+            "display_url": "headspace.com",
+            "indices": [
+              90,
+              113
+            ]
+          },
+          {
+            "url": "https://t.co/1F76Y7Qe2F",
+            "expanded_url": "https://twitter.com/aka_LeLique/status/667691527255277568",
+            "display_url": "twitter.com/aka_LeLique/st…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:13:12 +0000 2015",
+      "id": 667692166756470800,
+      "id_str": "667692166756470784",
+      "text": "@webholt @Sigiller тоже заметил, но у нас тут жара, поэтом очень жестко на сердце сказывается, я лучше дома полежу😂",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667691772630409200,
+      "in_reply_to_status_id_str": "667691772630409216",
+      "in_reply_to_user_id": 97894369,
+      "in_reply_to_user_id_str": "97894369",
+      "in_reply_to_screen_name": "webholt",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:11:09 +0000 2015",
+      "id": 667691652056612900,
+      "id_str": "667691652056612864",
+      "text": "@webholt @Sigiller я от темного пива тут совсем отвык. Когда ездил летом в Россию, то первым делом, не поверите, купил простой темный kozel)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667690448614486000,
+      "in_reply_to_status_id_str": "667690448614486016",
+      "in_reply_to_user_id": 97894369,
+      "in_reply_to_user_id_str": "97894369",
+      "in_reply_to_screen_name": "webholt",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:09:51 +0000 2015",
+      "id": 667691326016614400,
+      "id_str": "667691326016614400",
+      "text": "@Sigiller за все заплочено!😂Вообще это не у всех конечно, у неблагоприятных слоев населения.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667691000622620700,
+      "in_reply_to_status_id_str": "667691000622620672",
+      "in_reply_to_user_id": 74059237,
+      "in_reply_to_user_id_str": "74059237",
+      "in_reply_to_screen_name": "Sigiller",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:07:48 +0000 2015",
+      "id": 667690809307758600,
+      "id_str": "667690809307758593",
+      "text": "Англичане, кстати, вообще пьют в четверг, потому что не хотят тратить выходные на похмелье, а рабочий день можно😅 https://t.co/Ht1Srwpn3x",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667689701873201200,
+      "quoted_status_id_str": "667689701873201152",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 13:03:24 +0000 2015",
+        "id": 667689701873201200,
+        "id_str": "667689701873201152",
+        "text": "@cssunderhood В пятницу чаще всего никакого. А в субботу можно и по пиву. Я пшеничное люблю.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667688720389161000,
+        "in_reply_to_status_id_str": "667688720389160961",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ht1Srwpn3x",
+            "expanded_url": "https://twitter.com/webholt/status/667689701873201152",
+            "display_url": "twitter.com/webholt/status…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 13:00:59 +0000 2015",
+      "id": 667689094395265000,
+      "id_str": "667689094395265024",
+      "text": "У нас, например, мало нормального, в основном лагер, который за 2 года уже порядком поднадоел. Остальное стоит овер 300р за пол-литра😨",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667688720389161000,
+      "in_reply_to_status_id_str": "667688720389160961",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 12:59:30 +0000 2015",
+      "id": 667688720389161000,
+      "id_str": "667688720389160961",
+      "text": "Немного пятничного оффтопа не помешает 😬Что будете делать после работы? Какое пиво предпочитаете? Самое время отдохнуть :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 12:27:35 +0000 2015",
+      "id": 667680688284368900,
+      "id_str": "667680688284368897",
+      "text": "RT @Main_Loner: @cssunderhood Только сегодня вспомнил про доклад Завялова Александра об оптимизации анимаций с последнего WSD https://t.co/…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 12:20:09 +0000 2015",
+        "id": 667678815150305300,
+        "id_str": "667678815150305281",
+        "text": "@cssunderhood Только сегодня вспомнил про доклад Завялова Александра об оптимизации анимаций с последнего WSD https://t.co/TDKhusaMck",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 732485473,
+          "id_str": "732485473"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/TDKhusaMck",
+              "expanded_url": "https://www.youtube.com/watch?v=f1DVxtjiBc4#",
+              "display_url": "youtube.com/watch?v=f1DVxt…",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Main_Loner",
+            "name": "Main_Loner",
+            "id": 732485473,
+            "id_str": "732485473",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TDKhusaMck",
+            "expanded_url": "https://www.youtube.com/watch?v=f1DVxtjiBc4#",
+            "display_url": "youtube.com/watch?v=f1DVxt…",
+            "indices": [
+              126,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:54:28 +0000 2015",
+      "id": 667672352843366400,
+      "id_str": "667672352843366400",
+      "text": "Недавно проскакивала ссылка на коллекцию отзывчивой навигации, особенно полезно вашим дизайнерам https://t.co/jkbdsY6Eix",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 37,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jkbdsY6Eix",
+            "expanded_url": "http://navnav.co/",
+            "display_url": "navnav.co",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:51:14 +0000 2015",
+      "id": 667671540792602600,
+      "id_str": "667671540792602625",
+      "text": "@GrawlCore @sudilkovsky я тоже видел, но когда в них нужно что-то быстро найти, то это превращается в пытку",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667670972816826400,
+      "in_reply_to_status_id_str": "667670972816826368",
+      "in_reply_to_user_id": 16737157,
+      "in_reply_to_user_id_str": "16737157",
+      "in_reply_to_screen_name": "GrawlCore",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GrawlCore",
+            "name": "Даниил",
+            "id": 16737157,
+            "id_str": "16737157",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "sudilkovsky",
+            "name": "Бронешапочка Вязаная",
+            "id": 17791122,
+            "id_str": "17791122",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:50:13 +0000 2015",
+      "id": 667671285455978500,
+      "id_str": "667671285455978496",
+      "text": "Это исправляет flexbox. Но мы пока просто рисуем так, чтобы очередность блоков не менялась или дублируем и скрываем. https://t.co/jzJW9IaYhz",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667667655550218200,
+      "quoted_status_id_str": "667667655550218240",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 11:35:48 +0000 2015",
+        "id": 667667655550218200,
+        "id_str": "667667655550218240",
+        "text": "@cssunderhood  проблема - блокам контента устраивают такие рокировки при ресайзе, что ты потом голову ломаешь, как его так организовать",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667666473330995200,
+        "in_reply_to_status_id_str": "667666473330995200",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 1599091056,
+          "id_str": "1599091056"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jzJW9IaYhz",
+            "expanded_url": "https://twitter.com/victoria_veles/status/667667655550218240",
+            "display_url": "twitter.com/victoria_veles…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:47:08 +0000 2015",
+      "id": 667670507358060500,
+      "id_str": "667670507358060544",
+      "text": "Сам недавно столкнулся с этим. По-моему самый юзабельный способ — засовывать в блок с горизонтальным скроллом. https://t.co/KHBo1XrBLY",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667669716048179200,
+      "quoted_status_id_str": "667669716048179200",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 11:43:59 +0000 2015",
+        "id": 667669716048179200,
+        "id_str": "667669716048179200",
+        "text": "@cssunderhood проблемы только с таблицами. Особенно, когда задача дать инструмент для сравнения больших массивов данных на мобайле.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667666473330995200,
+        "in_reply_to_status_id_str": "667666473330995200",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 17791122,
+          "id_str": "17791122"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KHBo1XrBLY",
+            "expanded_url": "https://twitter.com/sudilkovsky/status/667669716048179200",
+            "display_url": "twitter.com/sudilkovsky/st…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:34:04 +0000 2015",
+      "id": 667667218381967400,
+      "id_str": "667667218381967361",
+      "text": "RT @logunoff: @cssunderhood от сложности макета зависит. Или рисует или на словах объясняет, как и что должно меняться",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 11:32:06 +0000 2015",
+        "id": 667666724083384300,
+        "id_str": "667666724083384320",
+        "text": "@cssunderhood от сложности макета зависит. Или рисует или на словах объясняет, как и что должно меняться",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667666473330995200,
+        "in_reply_to_status_id_str": "667666473330995200",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 114605441,
+          "id_str": "114605441"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "logunoff",
+            "name": "Gleb Logunov",
+            "id": 114605441,
+            "id_str": "114605441",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:33:35 +0000 2015",
+      "id": 667667099809017900,
+      "id_str": "667667099809017856",
+      "text": "@zeihlis @come_on_android ну там думаю можно в 3D хорошенько упороться, рассказать про GPU акселлерацию, repaint/reflow/compose",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667664011278868500,
+      "in_reply_to_status_id_str": "667664011278868481",
+      "in_reply_to_user_id": 165731497,
+      "in_reply_to_user_id_str": "165731497",
+      "in_reply_to_screen_name": "zeihlis",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zeihlis",
+            "name": "Oleg Andreev",
+            "id": 165731497,
+            "id_str": "165731497",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "come_on_android",
+            "name": "Какого хуя, Илья?",
+            "id": 257938970,
+            "id_str": "257938970",
+            "indices": [
+              9,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:31:06 +0000 2015",
+      "id": 667666473330995200,
+      "id_str": "667666473330995200",
+      "text": "Вообще как у вас на работе с респонсив дизайном? Выдает ли дизайнер макеты под все брейкпоинты? Какие проблемы есть?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:13:34 +0000 2015",
+      "id": 667662062273695700,
+      "id_str": "667662062273695744",
+      "text": "Только недавно узнал об этом красивом способе сделать респонсив блок с пропорциями width/height, для видео,например https://t.co/Rba1QOZGrJ",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 32,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rba1QOZGrJ",
+            "expanded_url": "https://css-tricks.com/snippets/sass/maintain-aspect-ratio-mixin/",
+            "display_url": "css-tricks.com/snippets/sass/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:10:52 +0000 2015",
+      "id": 667661379814342700,
+      "id_str": "667661379814342657",
+      "text": "@come_on_android чувак, не поверишь, но я видел несколько спичей по flexbox на конференциях, одна из сложных для понимая вещей в верстке",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667656733016346600,
+      "in_reply_to_status_id_str": "667656733016346624",
+      "in_reply_to_user_id": 257938970,
+      "in_reply_to_user_id_str": "257938970",
+      "in_reply_to_screen_name": "come_on_android",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "come_on_android",
+            "name": "Какого хуя, Илья?",
+            "id": 257938970,
+            "id_str": "257938970",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 11:00:26 +0000 2015",
+      "id": 667658754679177200,
+      "id_str": "667658754679177216",
+      "text": "@sapegin @victoria_veles они молодцы, да. По фронтендерским фичам можно напрямую @alex_zolotov спрашивать кстати.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667657688738873300,
+      "in_reply_to_status_id_str": "667657688738873344",
+      "in_reply_to_user_id": 31656594,
+      "in_reply_to_user_id_str": "31656594",
+      "in_reply_to_screen_name": "sapegin",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "victoria_veles",
+            "name": "this is victoria",
+            "id": 1599091056,
+            "id_str": "1599091056",
+            "indices": [
+              9,
+              24
+            ]
+          },
+          {
+            "screen_name": "alex_zolotov",
+            "name": "Alexander Zolotov",
+            "id": 163414480,
+            "id_str": "163414480",
+            "indices": [
+              81,
+              94
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 10:55:02 +0000 2015",
+      "id": 667657394814455800,
+      "id_str": "667657394814455809",
+      "text": "Пока в Вилларибо обсуждали, что использовать табы или пробелы и какой редактор лучше, в Вилабаджо уже все сверстали😄 https://t.co/vOU7jY1Clu",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667656630037803000,
+      "quoted_status_id_str": "667656630037803008",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 10:51:59 +0000 2015",
+        "id": 667656630037803000,
+        "id_str": "667656630037803008",
+        "text": "@cssunderhood что думаешь про Atom vs Sublime?",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667654745310388200,
+        "in_reply_to_status_id_str": "667654745310388224",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 1599091056,
+          "id_str": "1599091056"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": true,
+      "retweet_count": 4,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vOU7jY1Clu",
+            "expanded_url": "https://twitter.com/victoria_veles/status/667656630037803008",
+            "display_url": "twitter.com/victoria_veles…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 10:52:04 +0000 2015",
+      "id": 667656650438787100,
+      "id_str": "667656650438787073",
+      "text": "@sapegin @koderhan у нас оооочень большой рельсовый проект, возможно из-за этого. Пока Atom'ом доволен.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667656311698538500,
+      "in_reply_to_status_id_str": "667656311698538496",
+      "in_reply_to_user_id": 31656594,
+      "in_reply_to_user_id_str": "31656594",
+      "in_reply_to_screen_name": "sapegin",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "koderhan",
+            "name": "Ramil",
+            "id": 3935761463,
+            "id_str": "3935761463",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 10:47:28 +0000 2015",
+      "id": 667655493377110000,
+      "id_str": "667655493377110016",
+      "text": "@cssunderhood @sapegin специально для тебя избежал слово «респонсивный » 😆",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667655355158016000,
+      "in_reply_to_status_id_str": "667655355158016001",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              14,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 10:46:55 +0000 2015",
+      "id": 667655355158016000,
+      "id_str": "667655355158016001",
+      "text": "Еще один эксперимент над RWD типографикой с использованием сложного calc и vw, возможно кого-то натолкнет на мысли https://t.co/E1wOvVTtEW",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/E1wOvVTtEW",
+            "expanded_url": "http://madebymike.com.au/writing/precise-control-responsive-typography/",
+            "display_url": "madebymike.com.au/writing/precis…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 10:44:30 +0000 2015",
+      "id": 667654745310388200,
+      "id_str": "667654745310388224",
+      "text": "Если честно для меня инструмент вторичен. До этого сидел на RubyMine, Atom по сравнению с ним летает. https://t.co/uTV8JZ1HTz",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667654103535775700,
+      "quoted_status_id_str": "667654103535775744",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 10:41:57 +0000 2015",
+        "id": 667654103535775700,
+        "id_str": "667654103535775744",
+        "text": "@cssunderhood почему atom используешь? Не тормозит ? Почему не sublime ?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 3935761463,
+          "id_str": "3935761463"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uTV8JZ1HTz",
+            "expanded_url": "https://twitter.com/koderhan/status/667654103535775744",
+            "display_url": "twitter.com/koderhan/statu…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 10:33:25 +0000 2015",
+      "id": 667651958124089300,
+      "id_str": "667651958124089348",
+      "text": "@come_on_android завидую людям, которые сразу разбираются в новых вещах. Но не завидую злобным мудакам :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667649982988722200,
+      "in_reply_to_status_id_str": "667649982988722176",
+      "in_reply_to_user_id": 257938970,
+      "in_reply_to_user_id_str": "257938970",
+      "in_reply_to_screen_name": "come_on_android",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "come_on_android",
+            "name": "Какого хуя, Илья?",
+            "id": 257938970,
+            "id_str": "257938970",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 10:31:58 +0000 2015",
+      "id": 667651591885815800,
+      "id_str": "667651591885815808",
+      "text": "@koderhan я там кинул до этого ссылку :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667632667265998800,
+      "in_reply_to_status_id_str": "667632667265998848",
+      "in_reply_to_user_id": 3935761463,
+      "in_reply_to_user_id_str": "3935761463",
+      "in_reply_to_screen_name": "koderhan",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "koderhan",
+            "name": "Ramil",
+            "id": 3935761463,
+            "id_str": "3935761463",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 10:31:34 +0000 2015",
+      "id": 667651489679081500,
+      "id_str": "667651489679081472",
+      "text": "RT @andexds: @cssunderhood Ребят есть работа, надо 7 страниц сверстать, анимации по маске и что бы все не тормозило. Есть желающие? vk /and…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 09:28:01 +0000 2015",
+        "id": 667635499222368300,
+        "id_str": "667635499222368256",
+        "text": "@cssunderhood Ребят есть работа, надо 7 страниц сверстать, анимации по маске и что бы все не тормозило. Есть желающие? vk /andexds",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 392117271,
+          "id_str": "392117271"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andexds",
+            "name": "Андрей Анашкин",
+            "id": 392117271,
+            "id_str": "392117271",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 09:12:46 +0000 2015",
+      "id": 667631659370459100,
+      "id_str": "667631659370459136",
+      "text": "Они великолепны! Поддерживаются всеми браузерами (https://t.co/YNgBUMyq1y) + postcss плагин https://t.co/FaRX106BWY https://t.co/8xWdUkWmcG",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667631303408427000,
+      "quoted_status_id_str": "667631303408427008",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 09:11:21 +0000 2015",
+        "id": 667631303408427000,
+        "id_str": "667631303408427008",
+        "text": "@cssunderhood где-то полтора года, как боялся rem'ов, но сейчас везде использую.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667629869237317600,
+        "in_reply_to_status_id_str": "667629869237317632",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 128146723,
+          "id_str": "128146723"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YNgBUMyq1y",
+            "expanded_url": "http://caniuse.com/#search=rem",
+            "display_url": "caniuse.com/#search=rem",
+            "indices": [
+              50,
+              73
+            ]
+          },
+          {
+            "url": "https://t.co/FaRX106BWY",
+            "expanded_url": "https://github.com/cuth/postcss-pxtorem",
+            "display_url": "github.com/cuth/postcss-p…",
+            "indices": [
+              92,
+              115
+            ]
+          },
+          {
+            "url": "https://t.co/8xWdUkWmcG",
+            "expanded_url": "https://twitter.com/WarEnek/status/667631303408427008",
+            "display_url": "twitter.com/WarEnek/status…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 09:07:33 +0000 2015",
+      "id": 667630347585089500,
+      "id_str": "667630347585089537",
+      "text": "Вспомнил эксперимент, он не применим в проде, но забавен. Меняем размер шрифта в зависимости от положения головы🔥 https://t.co/OkT5dkL1Pm",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OkT5dkL1Pm",
+            "expanded_url": "http://webdesign.maratz.com/lab/responsivetypography/",
+            "display_url": "webdesign.maratz.com/lab/responsive…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 09:05:39 +0000 2015",
+      "id": 667629869237317600,
+      "id_str": "667629869237317632",
+      "text": "Давайте немного поговорим о респонсивной типографике, какие техники применяете? В последнем проекте пришел rem + mq https://t.co/6J3ajWMwSr",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6J3ajWMwSr",
+            "expanded_url": "http://webdesign.tutsplus.com/tutorials/the-lazy-persons-guide-to-responsive-typography--cms-22822",
+            "display_url": "webdesign.tutsplus.com/tutorials/the-…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 08:58:30 +0000 2015",
+      "id": 667628068895219700,
+      "id_str": "667628068895219712",
+      "text": "RT @abdusalamov: @cssunderhood пользуюсь этой штукой, удобно сразу получить визуальное представление flexbox'а https://t.co/uaUMaMdW0f",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 08:50:16 +0000 2015",
+        "id": 667625997513203700,
+        "id_str": "667625997513203712",
+        "text": "@cssunderhood пользуюсь этой штукой, удобно сразу получить визуальное представление flexbox'а https://t.co/uaUMaMdW0f",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667594041094070300,
+        "in_reply_to_status_id_str": "667594041094070272",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 269450790,
+          "id_str": "269450790"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/uaUMaMdW0f",
+              "expanded_url": "http://html5.by/blog/flexbox/",
+              "display_url": "html5.by/blog/flexbox/",
+              "indices": [
+                94,
+                117
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abdusalamov",
+            "name": "Renat",
+            "id": 269450790,
+            "id_str": "269450790",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uaUMaMdW0f",
+            "expanded_url": "http://html5.by/blog/flexbox/",
+            "display_url": "html5.by/blog/flexbox/",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 08:58:14 +0000 2015",
+      "id": 667628002943983600,
+      "id_str": "667628002943983617",
+      "text": "@dcromster @backendsecret @Timrael",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 667616217981653000,
+      "in_reply_to_status_id_str": "667616217981652993",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "Timrael",
+            "name": "Timur Kozmenko",
+            "id": 286175573,
+            "id_str": "286175573",
+            "indices": [
+              26,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Nov 20 08:18:10 +0000 2015",
+      "id": 667617919098974200,
+      "id_str": "667617919098974208",
+      "text": "RT @aka_LeLique: @cssunderhood залежи инфы по flex-box https://t.co/iAQX2H9mEb на @HeyDesigner",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 08:17:26 +0000 2015",
+        "id": 667617735954837500,
+        "id_str": "667617735954837504",
+        "text": "@cssunderhood залежи инфы по flex-box https://t.co/iAQX2H9mEb на @HeyDesigner",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667599504300863500,
+        "in_reply_to_status_id_str": "667599504300863488",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 106619181,
+          "id_str": "106619181"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 10,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "HeyDesigner",
+              "name": "HeyDesigner",
+              "id": 564493814,
+              "id_str": "564493814",
+              "indices": [
+                65,
+                77
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/iAQX2H9mEb",
+              "expanded_url": "http://heydesigner.com/flexbox/",
+              "display_url": "heydesigner.com/flexbox/",
+              "indices": [
+                38,
+                61
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aka_LeLique",
+            "name": "Aleks Petrov",
+            "id": 106619181,
+            "id_str": "106619181",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "HeyDesigner",
+            "name": "HeyDesigner",
+            "id": 564493814,
+            "id_str": "564493814",
+            "indices": [
+              82,
+              94
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iAQX2H9mEb",
+            "expanded_url": "http://heydesigner.com/flexbox/",
+            "display_url": "heydesigner.com/flexbox/",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 08:15:04 +0000 2015",
+      "id": 667617141252747300,
+      "id_str": "667617141252747264",
+      "text": "Все руки (или ноги ахах) не доходят, уже не сезон. Но перед работой фридайвингом занимаюсь https://t.co/mwPWwn34Qp https://t.co/EaViuwDHEe",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667616446944518100,
+      "quoted_status_id_str": "667616446944518144",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 08:12:19 +0000 2015",
+        "id": 667616446944518100,
+        "id_str": "667616446944518144",
+        "text": "@cssunderhood а серфить уже научился?)",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667583002013073400,
+        "in_reply_to_status_id_str": "667583002013073408",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 2159314429,
+          "id_str": "2159314429"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mwPWwn34Qp",
+            "expanded_url": "https://www.instagram.com/p/9R8iKfjhMi/",
+            "display_url": "instagram.com/p/9R8iKfjhMi/",
+            "indices": [
+              91,
+              114
+            ]
+          },
+          {
+            "url": "https://t.co/EaViuwDHEe",
+            "expanded_url": "https://twitter.com/meuwka/status/667616446944518144",
+            "display_url": "twitter.com/meuwka/status/…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 08:11:48 +0000 2015",
+      "id": 667616319592755200,
+      "id_str": "667616319592755200",
+      "text": "К вчерашнему разговору — новый зимний интенсив «Digital: Анимация интерфейса» в Британке от Дмитрия Карпова https://t.co/RO7BUPf0dw 😱",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RO7BUPf0dw",
+            "expanded_url": "http://www.britishdesign.ru/programs/p/digitalanimation/",
+            "display_url": "britishdesign.ru/programs/p/dig…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 08:11:16 +0000 2015",
+      "id": 667616181814083600,
+      "id_str": "667616181814083584",
+      "text": "Рабочий момент — на Mac OS, всегда включайте показ скролла, иначе увидев сайт на windows можете сильно удивиться 😤 https://t.co/rngzdyM9uJ",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 16,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 667616180358611000,
+            "id_str": "667616180358610944",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CUPZYPyUAAAarMg.png",
+            "media_url_https": "https://pbs.twimg.com/media/CUPZYPyUAAAarMg.png",
+            "url": "https://t.co/rngzdyM9uJ",
+            "display_url": "pic.twitter.com/rngzdyM9uJ",
+            "expanded_url": "http://twitter.com/cssunderhood/status/667616181814083584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 568,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 322,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 970,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 667616180358611000,
+            "id_str": "667616180358610944",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CUPZYPyUAAAarMg.png",
+            "media_url_https": "https://pbs.twimg.com/media/CUPZYPyUAAAarMg.png",
+            "url": "https://t.co/rngzdyM9uJ",
+            "display_url": "pic.twitter.com/rngzdyM9uJ",
+            "expanded_url": "http://twitter.com/cssunderhood/status/667616181814083584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 568,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 322,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 970,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 07:04:59 +0000 2015",
+      "id": 667599504300863500,
+      "id_str": "667599504300863488",
+      "text": "Основные паттерны для применения flexbox, на русском https://t.co/XkFuxWH4Fc",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 41,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XkFuxWH4Fc",
+            "expanded_url": "http://prgssr.ru/development/fleksboks-dlya-interfejsov-osnovnye-patterny.html",
+            "display_url": "prgssr.ru/development/fl…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 07:00:12 +0000 2015",
+      "id": 667598298493030400,
+      "id_str": "667598298493030400",
+      "text": "RT @beskrovnyy: @cssunderhood еще у меня есть сборничек статей и видеодокладов про флексбокс https://t.co/ZjZVSSdnrV",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 06:58:12 +0000 2015",
+        "id": 667597796241993700,
+        "id_str": "667597796241993729",
+        "text": "@cssunderhood еще у меня есть сборничек статей и видеодокладов про флексбокс https://t.co/ZjZVSSdnrV",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 228867970,
+          "id_str": "228867970"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 16,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ZjZVSSdnrV",
+              "expanded_url": "http://afider.github.io/flexbox/",
+              "display_url": "afider.github.io/flexbox/",
+              "indices": [
+                77,
+                100
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beskrovnyy",
+            "name": "Evgeniy Beskrovnyy",
+            "id": 228867970,
+            "id_str": "228867970",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZjZVSSdnrV",
+            "expanded_url": "http://afider.github.io/flexbox/",
+            "display_url": "afider.github.io/flexbox/",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:53:42 +0000 2015",
+      "id": 667596661997203500,
+      "id_str": "667596661997203457",
+      "text": "RT @webholt: @cssunderhood Так что надо аккуратнее, особенно если контент в колонках динамический. В общем, пользоваться можно, но осторожн…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 06:48:17 +0000 2015",
+        "id": 667595299821604900,
+        "id_str": "667595299821604864",
+        "text": "@cssunderhood Так что надо аккуратнее, особенно если контент в колонках динамический. В общем, пользоваться можно, но осторожно.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:53:39 +0000 2015",
+      "id": 667596651016552400,
+      "id_str": "667596651016552448",
+      "text": "RT @webholt: @cssunderhood Причем тормоза пропорциональны не только количеству контента, но и числу колонок.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 06:47:30 +0000 2015",
+        "id": 667595103431696400,
+        "id_str": "667595103431696384",
+        "text": "@cssunderhood Причем тормоза пропорциональны не только количеству контента, но и числу колонок.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:53:35 +0000 2015",
+      "id": 667596633421451300,
+      "id_str": "667596633421451264",
+      "text": "RT @webholt: @cssunderhood А Firefox имеет непроизводительный Reflow при балансировке, что может вызвать медленный рендеринг большого колич…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 06:44:31 +0000 2015",
+        "id": 667594350583488500,
+        "id_str": "667594350583488512",
+        "text": "@cssunderhood А Firefox имеет непроизводительный Reflow при балансировке, что может вызвать медленный рендеринг большого количества данных.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:53:33 +0000 2015",
+      "id": 667596624017788900,
+      "id_str": "667596624017788930",
+      "text": "RT @webholt: @cssunderhood WebKit неадекватно рендерит неразрывные блоки (отступы и тени), что лечится инлайн-блоками.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 06:43:02 +0000 2015",
+        "id": 667593980767531000,
+        "id_str": "667593980767531008",
+        "text": "@cssunderhood WebKit неадекватно рендерит неразрывные блоки (отступы и тени), что лечится инлайн-блоками.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:53:31 +0000 2015",
+      "id": 667596616275066900,
+      "id_str": "667596616275066880",
+      "text": "RT @webholt: @cssunderhood Но нужно учитывать тот факт, что реализации их в браузерах до сих пор оставляют желать лучшего.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 06:42:13 +0000 2015",
+        "id": 667593771870220300,
+        "id_str": "667593771870220292",
+        "text": "@cssunderhood Но нужно учитывать тот факт, что реализации их в браузерах до сих пор оставляют желать лучшего.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:53:29 +0000 2015",
+      "id": 667596607991316500,
+      "id_str": "667596607991316480",
+      "text": "RT @webholt: @cssunderhood С автопрефиксером колонки поддерживаются 95% браузеров, то есть с некоторой натяжкой можно считать, что везде.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 06:41:19 +0000 2015",
+        "id": 667593546258636800,
+        "id_str": "667593546258636800",
+        "text": "@cssunderhood С автопрефиксером колонки поддерживаются 95% браузеров, то есть с некоторой натяжкой можно считать, что везде.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:43:32 +0000 2015",
+      "id": 667594106349051900,
+      "id_str": "667594106349051904",
+      "text": "RT @webholt: @cssunderhood Концепция колонок проста. сойдет любой мануал :: https://t.co/U28FyEM5hL :: https://t.co/lQ2VvWvNyl :: https://t…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 20 06:40:04 +0000 2015",
+        "id": 667593230779883500,
+        "id_str": "667593230779883520",
+        "text": "@cssunderhood Концепция колонок проста. сойдет любой мануал :: https://t.co/U28FyEM5hL :: https://t.co/lQ2VvWvNyl :: https://t.co/NJbIBY8zNh",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 21,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/U28FyEM5hL",
+              "expanded_url": "http://css-live.ru/articles-css/rukovodstvo-po-vnedreniyu-css-kolonok-v-adaptivnyj-dizajn.html",
+              "display_url": "css-live.ru/articles-css/r…",
+              "indices": [
+                63,
+                86
+              ]
+            },
+            {
+              "url": "https://t.co/lQ2VvWvNyl",
+              "expanded_url": "http://habrahabr.ru/post/153955/",
+              "display_url": "habrahabr.ru/post/153955/",
+              "indices": [
+                90,
+                113
+              ]
+            },
+            {
+              "url": "https://t.co/NJbIBY8zNh",
+              "expanded_url": "http://htmlbook.ru/css3-na-primerah/mnogokolonochnyy-tekst",
+              "display_url": "htmlbook.ru/css3-na-primer…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/U28FyEM5hL",
+            "expanded_url": "http://css-live.ru/articles-css/rukovodstvo-po-vnedreniyu-css-kolonok-v-adaptivnyj-dizajn.html",
+            "display_url": "css-live.ru/articles-css/r…",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "url": "https://t.co/lQ2VvWvNyl",
+            "expanded_url": "http://habrahabr.ru/post/153955/",
+            "display_url": "habrahabr.ru/post/153955/",
+            "indices": [
+              103,
+              126
+            ]
+          },
+          {
+            "url": "https://t.co/NJbIBY8zNh",
+            "expanded_url": "http://htmlbook.ru/css3-na-primerah/mnogokolonochnyy-tekst",
+            "display_url": "htmlbook.ru/css3-na-primer…",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:43:17 +0000 2015",
+      "id": 667594041094070300,
+      "id_str": "667594041094070272",
+      "text": "Еще, наверное, самый полный гайд по flexbox https://t.co/pSm7FBMtaX (IE10+, 84.98% поддержки браузерами в России) https://t.co/eGFNRcqApy",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667592669888127000,
+      "quoted_status_id_str": "667592669888126976",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 06:37:50 +0000 2015",
+        "id": 667592669888127000,
+        "id_str": "667592669888126976",
+        "text": "@cssunderhood О флексбоксах: «Flexbox, теперь понятно» от @pepelsbey и одну из однотипных статей типа этой :: https://t.co/7dlaJBYYpb",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667586312212344800,
+        "in_reply_to_status_id_str": "667586312212344832",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "pepelsbey",
+              "name": "Вадим Макеев",
+              "id": 26370682,
+              "id_str": "26370682",
+              "indices": [
+                58,
+                68
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/7dlaJBYYpb",
+              "expanded_url": "http://frontender.info/a-guide-to-flexbox/",
+              "display_url": "frontender.info/a-guide-to-fle…",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 3,
+      "favorite_count": 28,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pSm7FBMtaX",
+            "expanded_url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+            "display_url": "css-tricks.com/snippets/css/a…",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "url": "https://t.co/eGFNRcqApy",
+            "expanded_url": "https://twitter.com/webholt/status/667592669888126976",
+            "display_url": "twitter.com/webholt/status…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:12:34 +0000 2015",
+      "id": 667586312212344800,
+      "id_str": "667586312212344832",
+      "text": "Что посоветуешь почитать ребятам, чтобы начать использовать flexbox и multi-column? https://t.co/gEnvkJk9bz",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 667584166243000300,
+      "quoted_status_id_str": "667584166243000320",
+      "quoted_status": {
+        "created_at": "Fri Nov 20 06:04:03 +0000 2015",
+        "id": 667584166243000300,
+        "id_str": "667584166243000320",
+        "text": "@cssunderhood Flexbox и Multi-columns — вот два основных трюка) Еще б последние лучше поддерживались браузерами…",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 667583654726627300,
+        "in_reply_to_status_id_str": "667583654726627328",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gEnvkJk9bz",
+            "expanded_url": "https://twitter.com/webholt/status/667584166243000320",
+            "display_url": "twitter.com/webholt/status…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:02:01 +0000 2015",
+      "id": 667583654726627300,
+      "id_str": "667583654726627328",
+      "text": "Сегодня мы поговорим о респонсивном веб-дизайне (RWD) и трюках, которые используем для того, чтобы верстка под все устройства была легкой.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 06:00:26 +0000 2015",
+      "id": 667583258125733900,
+      "id_str": "667583258125733888",
+      "text": "Все крутые ресурсы, которые касаются анимаций UI я заботливо собираю в список, пользуйтесь https://t.co/0co10PFWQx",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 83,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0co10PFWQx",
+            "expanded_url": "https://github.com/fliptheweb/motion-ui-design",
+            "display_url": "github.com/fliptheweb/mot…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 05:59:45 +0000 2015",
+      "id": 667583084255023100,
+      "id_str": "667583084255023105",
+      "text": "Вчера мы весь день посвятили анимациям интерфейса и проскакивало много ссылок на инструменты, интересные коллекции, скрипты и статьи.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 05:59:25 +0000 2015",
+      "id": 667583002013073400,
+      "id_str": "667583002013073408",
+      "text": "Всем доброе утро! Сегодня в Таиланде солнечная(как и всегда) пятница, но вы не представляете как я хочу покататься на борде или лыжах :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Nov 19 18:43:54 +0000 2015",
       "id": 667413004602880000,
       "id_str": "667413004602880001",
@@ -222,7 +5064,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 9,
+      "favorite_count": 12,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -312,7 +5154,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -411,7 +5253,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 13,
+      "favorite_count": 18,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -464,7 +5306,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 6,
-      "favorite_count": 10,
+      "favorite_count": 14,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -672,7 +5514,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 3,
+        "favorite_count": 4,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -849,7 +5691,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 2,
+      "retweet_count": 3,
       "favorite_count": 9,
       "entities": {
         "hashtags": [],
@@ -914,7 +5756,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 1,
+        "favorite_count": 3,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -1036,7 +5878,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 12,
+      "favorite_count": 17,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1153,7 +5995,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 4,
-      "favorite_count": 18,
+      "favorite_count": 23,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1453,7 +6295,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 3,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1497,7 +6339,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 23,
+      "favorite_count": 31,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1541,7 +6383,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 4,
-      "favorite_count": 5,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1607,7 +6449,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 4,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1640,7 +6482,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 10,
+      "favorite_count": 11,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1765,7 +6607,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 5,
-      "favorite_count": 30,
+      "favorite_count": 36,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1809,7 +6651,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 26,
+      "favorite_count": 33,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1853,7 +6695,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 6,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2008,8 +6850,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 51,
+      "retweet_count": 4,
+      "favorite_count": 70,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2053,7 +6895,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 4,
-      "favorite_count": 57,
+      "favorite_count": 64,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2115,7 +6957,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 4,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2402,7 +7244,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 8,
+      "favorite_count": 10,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2678,7 +7520,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 9,
+      "favorite_count": 10,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2924,7 +7766,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 13,
+      "favorite_count": 14,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3011,7 +7853,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 0,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -3044,7 +7886,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 0,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -3078,7 +7920,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 25,
+      "favorite_count": 33,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3177,7 +8019,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3499,7 +8341,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 12,
+        "favorite_count": 15,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3934,7 +8776,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 1,
-      "favorite_count": 7,
+      "favorite_count": 9,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4011,7 +8853,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 18,
+      "favorite_count": 19,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4183,7 +9025,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 6,
-      "favorite_count": 47,
+      "favorite_count": 52,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4660,7 +9502,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 7,
-      "favorite_count": 41,
+      "favorite_count": 39,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4848,7 +9690,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 6,
+      "favorite_count": 9,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5208,7 +10050,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 14,
+        "favorite_count": 13,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -5734,7 +10576,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 27,
+      "favorite_count": 29,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6076,7 +10918,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 6,
-      "favorite_count": 33,
+      "favorite_count": 34,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7778,7 +12620,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 6,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -12102,7 +16944,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -13541,7 +18383,7 @@
         "user_mentions": [
           {
             "screen_name": "_sashashakun",
-            "name": "Alexander",
+            "name": "Alexander Shakun",
             "id": 159809934,
             "id_str": "159809934",
             "indices": [
