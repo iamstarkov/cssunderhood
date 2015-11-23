@@ -1,5 +1,6 @@
 export default [
   // post: false 
+  { username: 'dshster',         start: '23 Nov 2015', first: '668669770506596352', post: false },
   { username: 'fliptheweb',      start: '16 Nov 2015', first: '666145002360209408' },
   { username: 'talgautb',        start: '09 Nov 2015', first: '663553316618502144' },
   { username: 'vafelman',        start: '02 Nov 2015', first: '661129183708512257' },
