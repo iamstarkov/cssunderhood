@@ -36,29 +36,29 @@
     }
   },
   "protected": false,
-  "followers_count": 1732,
+  "followers_count": 1736,
   "friends_count": 22,
   "listed_count": 84,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 80,
+  "favourites_count": 81,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8075,
+  "statuses_count": 8144,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Nov 24 19:22:31 +0000 2015",
-    "id": 669234658526236700,
-    "id_str": "669234658526236673",
-    "text": "Angular не зависит от jquery, но в нём есть встроенный jquery lite для работы с DOM через директивы https://t.co/hzOlXpif8z",
+    "created_at": "Wed Nov 25 20:10:38 +0000 2015",
+    "id": 669609156698087400,
+    "id_str": "669609156698087424",
+    "text": "Если речь о ширине контента, кроме варианта сложения ряда блоков? @MichaelSkripin",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 669606256416542700,
+    "in_reply_to_status_id_str": "669606256416542720",
+    "in_reply_to_user_id": 419830760,
+    "in_reply_to_user_id_str": "419830760",
+    "in_reply_to_screen_name": "MichaelSkripin",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -68,22 +68,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/hzOlXpif8z",
-          "expanded_url": "https://twitter.com/maxmaximov/status/669204930478120960",
-          "display_url": "twitter.com/maxmaximov/sta…",
+          "screen_name": "MichaelSkripin",
+          "name": "michaelskripin",
+          "id": 419830760,
+          "id_str": "419830760",
           "indices": [
-            100,
-            123
+            66,
+            81
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
