@@ -37,29 +37,29 @@
     }
   },
   "protected": false,
-  "followers_count": 1760,
+  "followers_count": 1773,
   "friends_count": 23,
   "listed_count": 88,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 83,
+  "favourites_count": 85,
   "utc_offset": 36000,
   "time_zone": "Vladivostok",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8296,
+  "statuses_count": 8424,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 30 09:03:03 +0000 2015",
-    "id": 671253092722192400,
-    "id_str": "671253092722192384",
-    "text": "@talgautb края, области, автономные округи и тому подобное",
+    "created_at": "Tue Dec 01 17:51:10 +0000 2015",
+    "id": 671748386601717800,
+    "id_str": "671748386601717760",
+    "text": "Ты предлагаешь `.блок-другой .блок-некийцвет` вместо `.блок-изумрудный`? https://t.co/rKbVJntiaR",
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
-    "in_reply_to_status_id": 671252475668774900,
-    "in_reply_to_status_id_str": "671252475668774912",
-    "in_reply_to_user_id": 257851355,
-    "in_reply_to_user_id_str": "257851355",
-    "in_reply_to_screen_name": "talgautb",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": {
@@ -102,22 +102,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "talgautb",
-          "name": "Талга УтБ",
-          "id": 257851355,
-          "id_str": "257851355",
+          "url": "https://t.co/rKbVJntiaR",
+          "expanded_url": "https://twitter.com/SetAGE/status/671747685318328325",
+          "display_url": "twitter.com/SetAGE/status/…",
           "indices": [
-            0,
-            9
+            73,
+            96
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
