@@ -38,21 +38,21 @@
   "protected": false,
   "followers_count": 1781,
   "friends_count": 24,
-  "listed_count": 90,
+  "listed_count": 89,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
   "favourites_count": 86,
   "utc_offset": 36000,
   "time_zone": "Vladivostok",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8841,
+  "statuses_count": 8854,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 07 17:54:51 +0000 2015",
-    "id": 673923638698053600,
-    "id_str": "673923638698053632",
-    "text": "Нужно ценить плюсы друг друга. В этом командная работа. Я считаю что умение писать css помогает обоим справляться эффективнее",
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "created_at": "Mon Dec 07 22:30:41 +0000 2015",
+    "id": 673993057570787300,
+    "id_str": "673993057570787330",
+    "text": ".@operatino но я согласен, что opensource - это win-win для всех сторон, вопрос в основном - в желании и ресурсах инженеров",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -64,11 +64,22 @@
     "place": null,
     "contributors": null,
     "retweet_count": 1,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "operatino",
+          "name": "Robert Haritonov",
+          "id": 89017350,
+          "id_str": "89017350",
+          "indices": [
+            1,
+            11
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
