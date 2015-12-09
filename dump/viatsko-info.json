@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1781,
+  "followers_count": 1789,
   "friends_count": 24,
   "listed_count": 89,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -45,45 +45,56 @@
   "time_zone": "Vladivostok",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8854,
+  "statuses_count": 8907,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 07 22:30:41 +0000 2015",
-    "id": 673993057570787300,
-    "id_str": "673993057570787330",
-    "text": ".@operatino но я согласен, что opensource - это win-win для всех сторон, вопрос в основном - в желании и ресурсах инженеров",
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "created_at": "Tue Dec 08 19:28:17 +0000 2015",
+    "id": 674309539878076400,
+    "id_str": "674309539878076417",
+    "text": "@myjsalterego выложил git-grep провайдер о котором говорил https://t.co/HF26bN0m1X",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 674218639877349400,
+    "in_reply_to_status_id_str": "674218639877349376",
+    "in_reply_to_user_id": 170807334,
+    "in_reply_to_user_id_str": "170807334",
+    "in_reply_to_screen_name": "myjsalterego",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "operatino",
-          "name": "Robert Haritonov",
-          "id": 89017350,
-          "id_str": "89017350",
+          "screen_name": "myjsalterego",
+          "name": "Alexey Litvinov",
+          "id": 170807334,
+          "id_str": "170807334",
           "indices": [
-            1,
-            11
+            0,
+            13
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/HF26bN0m1X",
+          "expanded_url": "https://atom.io/packages/git-grep-provider",
+          "display_url": "atom.io/packages/git-g…",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -95,7 +106,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/673785893107474432/5o4AUCNZ_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/673785893107474432/5o4AUCNZ_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3376999971/1449478243",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3376999971/1449574687",
   "profile_link_color": "3B94D9",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
