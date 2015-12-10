@@ -36,29 +36,29 @@
     }
   },
   "protected": false,
-  "followers_count": 1789,
+  "followers_count": 1790,
   "friends_count": 24,
   "listed_count": 89,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 86,
+  "favourites_count": 88,
   "utc_offset": 36000,
   "time_zone": "Vladivostok",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8907,
+  "statuses_count": 8953,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Dec 08 19:28:17 +0000 2015",
-    "id": 674309539878076400,
-    "id_str": "674309539878076417",
-    "text": "@myjsalterego выложил git-grep провайдер о котором говорил https://t.co/HF26bN0m1X",
+    "created_at": "Wed Dec 09 23:14:04 +0000 2015",
+    "id": 674728751595397100,
+    "id_str": "674728751595397120",
+    "text": "До завтра!",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 674218639877349400,
-    "in_reply_to_status_id_str": "674218639877349376",
-    "in_reply_to_user_id": 170807334,
-    "in_reply_to_user_id_str": "170807334",
-    "in_reply_to_screen_name": "myjsalterego",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -68,33 +68,11 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "myjsalterego",
-          "name": "Alexey Litvinov",
-          "id": 170807334,
-          "id_str": "170807334",
-          "indices": [
-            0,
-            13
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/HF26bN0m1X",
-          "expanded_url": "https://atom.io/packages/git-grep-provider",
-          "display_url": "atom.io/packages/git-g…",
-          "indices": [
-            59,
-            82
-          ]
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
