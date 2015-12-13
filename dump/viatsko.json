@@ -5,6 +5,498 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Sat Dec 12 19:08:41 +0000 2015",
+      "id": 675754160395059200,
+      "id_str": "675754160395059200",
+      "text": "Т. к. ретвитнули - отвечу. Колоссально много. 8 ч провожу на работе, ~ 8 ч или больше трачу на самообразование. https://t.co/P6BOGNCoX7",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 643030220728049700,
+      "quoted_status_id_str": "643030220728049664",
+      "quoted_status": {
+        "created_at": "Sun Sep 13 11:55:26 +0000 2015",
+        "id": 643030220728049700,
+        "id_str": "643030220728049664",
+        "text": "@cssunderhood Много времени уделяешь самообразованию? На что сейчас делаешь упор в разработке/дизайне или может в какой-то другой тематике?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 129881766,
+          "id_str": "129881766"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "a76c0cd7d56c4836",
+          "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+          "place_type": "city",
+          "name": "Saint Petersburg",
+          "full_name": "Saint Petersburg, Russia",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  30.0896894,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  60.0921253
+                ],
+                [
+                  30.0896894,
+                  60.0921253
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P6BOGNCoX7",
+            "expanded_url": "https://twitter.com/koloskof/status/643030220728049664",
+            "display_url": "twitter.com/koloskof/statu…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 12 19:07:26 +0000 2015",
+      "id": 675753844417122300,
+      "id_str": "675753844417122304",
+      "text": "Вместе с программистом. https://t.co/urDvGaIAA5",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 675733304163901400,
+      "quoted_status_id_str": "675733304163901441",
+      "quoted_status": {
+        "created_at": "Sat Dec 12 17:45:48 +0000 2015",
+        "id": 675733304163901400,
+        "id_str": "675733304163901441",
+        "text": "@cssunderhood как думаешь, такое должен делать один дизайнер или вместе с программистом? https://t.co/cypk5nOUzj",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 16737157,
+          "id_str": "16737157"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "fed68b6202ec44f4",
+          "url": "https://api.twitter.com/1.1/geo/id/fed68b6202ec44f4.json",
+          "place_type": "city",
+          "name": "Владивосток",
+          "full_name": "Владивосток, Приморский край",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  131.5964,
+                  42.8857994
+                ],
+                [
+                  132.2561035,
+                  42.8857994
+                ],
+                [
+                  132.2561035,
+                  43.3160967
+                ],
+                [
+                  131.5964,
+                  43.3160967
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/cypk5nOUzj",
+              "expanded_url": "http://ria.ru/infografika/",
+              "display_url": "ria.ru/infografika/",
+              "indices": [
+                89,
+                112
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/urDvGaIAA5",
+            "expanded_url": "https://twitter.com/GrawlCore/status/675733304163901441",
+            "display_url": "twitter.com/GrawlCore/stat…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 12 10:56:28 +0000 2015",
+      "id": 675630291675910100,
+      "id_str": "675630291675910144",
+      "text": "На LinkedIn это сделать достаточно просто подавая резюме в профильные компании, так можно будет потренировать английский для собеседований",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 12 10:55:44 +0000 2015",
+      "id": 675630103943127000,
+      "id_str": "675630103943127040",
+      "text": "Кстати, если вы готовитесь к работе за рубежом - советую хотя бы раз в 1-2 недели проходить интервью для тренировки на английском",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 12 10:53:11 +0000 2015",
+      "id": 675629464760549400,
+      "id_str": "675629464760549376",
+      "text": "Думаю, что фантомом. Изоморфность тут избыточна, тем более, что бекенд не на nodejs https://t.co/2qKXSXTRb7",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 675248863263989800,
+      "quoted_status_id_str": "675248863263989760",
+      "quoted_status": {
+        "created_at": "Fri Dec 11 09:40:49 +0000 2015",
+        "id": 675248863263989800,
+        "id_str": "675248863263989760",
+        "text": "@cssunderhood этот сайт даже не индексируется - хочется узнать как они решат эту проблему: https://t.co/6zIZ6PxskO",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 675197286939533300,
+        "in_reply_to_status_id_str": "675197286939533313",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 27943642,
+          "id_str": "27943642"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 675248861871386600,
+              "id_str": "675248861871386624",
+              "indices": [
+                91,
+                114
+              ],
+              "media_url": "http://pbs.twimg.com/media/CV73QyLUsAAw8W-.png",
+              "media_url_https": "https://pbs.twimg.com/media/CV73QyLUsAAw8W-.png",
+              "url": "https://t.co/6zIZ6PxskO",
+              "display_url": "pic.twitter.com/6zIZ6PxskO",
+              "expanded_url": "http://twitter.com/dshster/status/675248863263989760/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 406,
+                  "h": 246,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 406,
+                  "h": 246,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 206,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 675248861871386600,
+              "id_str": "675248861871386624",
+              "indices": [
+                91,
+                114
+              ],
+              "media_url": "http://pbs.twimg.com/media/CV73QyLUsAAw8W-.png",
+              "media_url_https": "https://pbs.twimg.com/media/CV73QyLUsAAw8W-.png",
+              "url": "https://t.co/6zIZ6PxskO",
+              "display_url": "pic.twitter.com/6zIZ6PxskO",
+              "expanded_url": "http://twitter.com/dshster/status/675248863263989760/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 406,
+                  "h": 246,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 406,
+                  "h": 246,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 206,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2qKXSXTRb7",
+            "expanded_url": "https://twitter.com/dshster/status/675248863263989760",
+            "display_url": "twitter.com/dshster/status…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Dec 11 18:27:02 +0000 2015",
       "id": 675381291081044000,
       "id_str": "675381291081043968",
@@ -46,7 +538,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 7,
-        "favorite_count": 11,
+        "favorite_count": 12,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -247,7 +739,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 10,
+      "favorite_count": 11,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2184,7 +2676,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4084,7 +4576,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 19,
+      "favorite_count": 20,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6060,7 +6552,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6902,7 +7394,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 30,
+      "favorite_count": 29,
       "entities": {
         "hashtags": [],
         "symbols": [],
