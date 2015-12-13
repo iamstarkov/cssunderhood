@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1816,
+  "followers_count": 1822,
   "friends_count": 24,
   "listed_count": 90,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -45,13 +45,13 @@
   "time_zone": "Vladivostok",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8982,
+  "statuses_count": 9001,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Dec 12 19:08:41 +0000 2015",
-    "id": 675754160395059200,
-    "id_str": "675754160395059200",
-    "text": "Т. к. ретвитнули - отвечу. Колоссально много. 8 ч провожу на работе, ~ 8 ч или больше трачу на самообразование. https://t.co/P6BOGNCoX7",
+    "created_at": "Sun Dec 13 19:14:04 +0000 2015",
+    "id": 676117904195219500,
+    "id_str": "676117904195219456",
+    "text": "Спасибо за прекрасную компанию на этой неделе! С вами был Валерий Яцко @viatsko из компании https://t.co/FCxbStOcQ8. Подписывайтесь :)",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,19 +64,30 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "viatsko",
+          "name": "Valerii Iatsko",
+          "id": 204766704,
+          "id_str": "204766704",
+          "indices": [
+            71,
+            79
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/P6BOGNCoX7",
-          "expanded_url": "https://twitter.com/koloskof/status/643030220728049664",
-          "display_url": "twitter.com/koloskof/statu…",
+          "url": "https://t.co/FCxbStOcQ8",
+          "expanded_url": "http://Booking.com",
+          "display_url": "Booking.com",
           "indices": [
-            112,
-            135
+            92,
+            115
           ]
         }
       ]
