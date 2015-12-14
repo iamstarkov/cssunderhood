@@ -240,3 +240,7 @@ tr {
     margin-top: -29px;
   }
 }
+
+.container article a {
+  word-break: break-all;
+}
