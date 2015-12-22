@@ -208,7 +208,9 @@
       "favorited": 605,
       "favoritedKpi": 20.86,
       "gainedFollowers": 146,
-      "maxFavoritedKpi": true
+      "maxRepliesPercentage": true,
+      "maxFavoritedKpi": true,
+      "maxRetweetedKpi": true
     },
     {
       "username": "mishcherin",
@@ -295,7 +297,6 @@
       "favorited": 1336,
       "favoritedKpi": 5.1,
       "gainedFollowers": 96,
-      "maxOwnTweetsPercentage": true,
       "maxFavorited": true,
       "maxRetweeted": true
     },
@@ -370,21 +371,20 @@
     {
       "username": "andrey_sitnik",
       "index": 22,
-      "followers_count": 1873,
-      "tweets": 2,
-      "ownTweets": 1,
-      "ownTweetsPercentage": 50,
-      "retweets": 0,
-      "retweetsPercentage": 0,
-      "replies": 1,
-      "repliesPercentage": 50,
-      "retweeted": 6,
-      "retweetedKpi": 6,
-      "favorited": 9,
-      "favoritedKpi": 9,
-      "gainedFollowers": 29,
-      "maxRepliesPercentage": true,
-      "maxRetweetedKpi": true
+      "followers_count": 1927,
+      "tweets": 62,
+      "ownTweets": 43,
+      "ownTweetsPercentage": 69.35483870967742,
+      "retweets": 4,
+      "retweetsPercentage": 6.451612903225807,
+      "replies": 15,
+      "repliesPercentage": 24.193548387096776,
+      "retweeted": 38,
+      "retweetedKpi": 0.88,
+      "favorited": 120,
+      "favoritedKpi": 2.79,
+      "gainedFollowers": 83,
+      "maxOwnTweetsPercentage": true
     }
   ]
 }
