@@ -37,47 +37,96 @@
     }
   },
   "protected": false,
-  "followers_count": 1928,
+  "followers_count": 1962,
   "friends_count": 25,
-  "listed_count": 93,
+  "listed_count": 94,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 87,
+  "favourites_count": 99,
   "utc_offset": 7200,
   "time_zone": "Kyiv",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9217,
+  "statuses_count": 9361,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 21 20:28:19 +0000 2015",
-    "id": 679035692828217300,
-    "id_str": "679035692828217344",
-    "text": "@myjsalterego я настолько запариваюсь за актуальность библиотек, что он мне не нужен",
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "created_at": "Tue Dec 22 22:49:21 +0000 2015",
+    "id": 679433572214788100,
+    "id_str": "679433572214788096",
+    "text": "RT @sashamjolnir: @cssunderhood на препроцессоры, наименования классов по БЭМ и Gulp.",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": 679035023270518800,
-    "in_reply_to_status_id_str": "679035023270518784",
-    "in_reply_to_user_id": 170807334,
-    "in_reply_to_user_id_str": "170807334",
-    "in_reply_to_screen_name": "myjsalterego",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Dec 22 22:47:48 +0000 2015",
+      "id": 679433183910371300,
+      "id_str": "679433183910371328",
+      "text": "@cssunderhood на препроцессоры, наименования классов по БЭМ и Gulp.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 679402969612308500,
+      "in_reply_to_status_id_str": "679402969612308482",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "myjsalterego",
-          "name": "Alexey Litvinov",
-          "id": 170807334,
-          "id_str": "170807334",
+          "screen_name": "sashamjolnir",
+          "name": "Саша Мансуров",
+          "id": 104641673,
+          "id_str": "104641673",
           "indices": [
-            0,
-            13
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            18,
+            31
           ]
         }
       ],
