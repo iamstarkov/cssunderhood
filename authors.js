@@ -1,6 +1,6 @@
 export default [
   // post: false 
-  { username: 'andrey_sitnik',   start: '21 Dec 2015', first: '678863828440846336', post: false },
+  { username: 'andrey_sitnik',   start: '21 Dec 2015', first: '678863828440846336' },
   { username: 'illinifellow',    start: '14 Dec 2015', first: '676333535934980100' },
   { username: 'viatsko',         start: '07 Dec 2015', first: '673786936327319552' },
   { username: 'grawlcore',       start: '30 Nov 2015', first: '671139354358755328' },
