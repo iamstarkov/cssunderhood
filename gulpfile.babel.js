@@ -201,7 +201,7 @@ gulp.task('css', ['css-bootstrap'], function() {
 gulp.task('js', function() {
   return gulp.src([
     'node_modules/tablesort/src/tablesort.js',
-    'node_modules/tablesort/src/sorts/tablesort.numeric.js'
+    'node_modules/tablesort/src/sorts/tablesort.number.js'
   ]).pipe(gulp.dest('dist/js'));
 });
 
