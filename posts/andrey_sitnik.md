@@ -276,7 +276,7 @@ RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebr
 
 RT <a href="https://twitter.com/_sashashakun" title="Alexander Shakun">@_sashashakun</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> прикрутил babel, в процессе переход с requirejs на webpack, начал писать тесты (даже довелось провести собе…
 
-RT <a href="https://twitter.com/SiliconBangalor" title="Кремниевый△Бангалор">@SiliconBangalor</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/webholt" title="Vlad :: gwer">@webholt</a> такие законы порядочный гражданин не то что может нарушать, а просто обязан
+RT <a href="https://twitter.com/SiliconBangalor" title="Kremnievîi△Bangalor">@SiliconBangalor</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/webholt" title="Vlad :: gwer">@webholt</a> такие законы порядочный гражданин не то что может нарушать, а просто обязан
 
 RT <a href="https://twitter.com/iamale_ru" title="Эль">@iamale_ru</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Перешёл в этом году из бекенда во фронтенд! (Ну, не совсем перешёл, скорее добавил к списку скиллов.)
 
@@ -373,7 +373,7 @@ CSS-in-JS пока не пошёл — может в 2016. Я считаю то�
 Для SVG нормального способа нет. Или хаки и потеря семантики с &lt;use&gt;, или потеря transition с postcss-inline-svg
 <a href="https://t.co/A3VbpSR5XU">twitter.com/xwoody/status/…</a>
 
-Но есть интересный черновик от <a href="https://twitter.com/tabatkins" title="Ⓣab Ⓐtkins-Ⓑittner">@tabatkins</a>, чтобы нормально менять цвет у SVG в url()
+Но есть интересный черновик от <a href="https://twitter.com/tabatkins" title="ⓉⒶⒷ (◡ ‿ ◡ ✿)">@tabatkins</a>, чтобы нормально менять цвет у SVG в url()
 <a href="https://t.co/Jd6ZEJE0Lw">tabatkins.github.io/specs/svg-para…</a> <a href="https://t.co/OplPVwBzbG">pic.twitter.com/OplPVwBzbG</a>
 
 Просто добавляешь линтер в Travis CI и отход от стиля приравнивается к сломанной сборке
