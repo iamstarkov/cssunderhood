@@ -1,4 +1,4 @@
-# mr_skriming
+# pgrekovich
 
 _20 сентября 2015_
 
@@ -44,7 +44,7 @@ RT <a href="https://twitter.com/c1n1k" title="Oleg Denisov">@c1n1k</a>: <a href=
 
 Я на год еще защищен, а что дальше не знаю. Не хочется тратить время в пустую) <a href="https://t.co/D16k0TpS7l">twitter.com/Bizi/status/64…</a>
 
-На тему армии есть клёвый блог дизайнера из Москвы: <a href="http://t.co/t0o4YRwUpa">kefiijrw.com/army/</a> 
+На тему армии есть клёвый блог дизайнера из Москвы: <a href="http://t.co/t0o4YRwUpa">kefiijrw.com/army/</a>
 очень увлекательное чтение
 
 RT <a href="https://twitter.com/CodeRuleZZZ" title="Ramil">@CodeRuleZZZ</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> В армии можно обрести много полезных качеств для развития личности. Дисциплина например.
@@ -53,7 +53,7 @@ RT <a href="https://twitter.com/CodeRuleZZZ" title="Ramil">@CodeRuleZZZ</a>: <a 
 
 RT <a href="https://twitter.com/DimaSharikov" title="Dmitry Sharikov">@DimaSharikov</a>: <a href="https://twitter.com/CodeRuleZZZ" title="Ramil">@CodeRuleZZZ</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> я тебя умоляю. Армия культивирует тотально распиздяйский образ жизни
 
-История успеха) 
+История успеха)
 Только не всем так везёт. <a href="https://t.co/pfsPhtUfSE">twitter.com/kuflash/status…</a>
 
 Неплохой рецепт, но неужели   так просто отпустят? <a href="https://twitter.com/freiksenet_ru" title="Михаил Новиков">@freiksenet_ru</a>  <a href="https://t.co/NO8hcUCYXD">twitter.com/freiksenet_ru/…</a>
@@ -414,7 +414,7 @@ RT <a href="https://twitter.com/freiksenet_ru" title="Михаил Новико�
 
 RT <a href="https://twitter.com/hellbeast92" title="Александр Староверов">@hellbeast92</a>: <a href="https://twitter.com/freiksenet_ru" title="Михаил Новиков">@freiksenet_ru</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://twitter.com/GrawlCore" title="Даниил">@GrawlCore</a> <a href="https://twitter.com/npofopr" title="npofopr [ᵔᴥᵔ]">@npofopr</a> посмотрите любое гугловское приложение, например музыку, там куча id в ст…
 
-Драка! Использовать или нет id?) 
+Драка! Использовать или нет id?)
 P.S. Я не юзаю, и вам не советую.
 
 RT <a href="https://twitter.com/mamyashev" title="Марат Мамяшев">@mamyashev</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> странный вопрос. Гораздо важнее табы или пробелы! Вот пробелы — для педиков!
