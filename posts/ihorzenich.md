@@ -1,4 +1,4 @@
-# delaz
+# ihorzenich
 
 _23 августа 2015_
 
@@ -12,7 +12,7 @@ _23 августа 2015_
 Ещё я придумал чеклист верстки <a href="https://t.co/MvqvisqEyD">github.com/delka/html5che…</a>
 и написал, но не пиарил чеклист оптимизации скорости загрузки <a href="https://t.co/wQaVLRxuG6">github.com/delka/WebPerfo…</a>
 
-Застал форум Вебмаскона, где познакомился с нынешними отцами верстки. 
+Застал форум Вебмаскона, где познакомился с нынешними отцами верстки.
 <a href="https://twitter.com/flackus" title="Alex Rybakov">@flackus</a> привет, это ты первым одобрил мой код, спасибо!
 
 Потом был конкурс <a href="https://twitter.com/search?q=%23WebHiTech">#WebHiTech</a>, что придумал Артем Ломов и поддержала песочница <a href="https://twitter.com/search?q=%23wstdays">#wstdays</a> — так я попал в тусовку.
@@ -429,7 +429,7 @@ RT <a href="https://twitter.com/dersmoll" title="Smoll">@dersmoll</a>: <a href="
 
 Ночной эфир.
 
-div.content {   width: 400px;   padding: 50px;  voice-family: "\"}\"";   voice-family: inherit;  width: 300px;}
+div.content {  width: 400px;  padding: 50px;  voice-family: "\"}\"";  voice-family: inherit;  width: 300px;}
 
 RT <a href="https://twitter.com/xwoody" title="Aleks Hudochenkov">@xwoody</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> ничего не использую пока. Хочу освоить что-нибудь что визуально может сравнивать, чтобы не сломать случайно часть…
 
@@ -757,8 +757,8 @@ RT <a href="https://twitter.com/veged" title="Sergey Berezhnoy">@veged</a>: <a h
 RT <a href="https://twitter.com/toivonens" title="var ya; // ru">@toivonens</a>: <a href="https://twitter.com/banzalik" title="Александр Бойченко">@banzalik</a> <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Ну и ещё единая предметная область для всех технлогий. По-моему это наибольшую разницу в…
 
 RT <a href="https://twitter.com/banzalik" title="Александр Бойченко">@banzalik</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> БЕМ стоит из 6 частей:
-- блок 
-- элемент 
+- блок
+- элемент
 - модификатор
 - миксин
 - уровень переопределения
@@ -895,7 +895,7 @@ width:expression(document.documentElement.clientWidth&lt;601?"600px":document.do
 
 RT <a href="https://twitter.com/harisov" title="Vitaly Harisov">@harisov</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> мы не считаем злом глобальные модификаторы, просто больше нет такого понятия, есть микс любых блоков.
 
-RT <a href="https://twitter.com/harisov" title="Vitaly Harisov">@harisov</a>: <a href="https://twitter.com/shugich" title="Дима Шишкин">@shugich</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> 
+RT <a href="https://twitter.com/harisov" title="Vitaly Harisov">@harisov</a>: <a href="https://twitter.com/shugich" title="Дима Шишкин">@shugich</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>
 
 Мы переписали и опубликовали новую версию описания методологии:
 
@@ -1044,13 +1044,13 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 
 RT <a href="https://twitter.com/talgautb" title="Талга УтБ">@talgautb</a>: .<a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a> <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> gtalk.kz@gmail.com :)
 
-RT <a href="https://twitter.com/Marina_Reims" title="Marina">@Marina_Reims</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://t.co/rBl5GGYC6G">linkedin.com/pub/marina-dem…</a> murmurpaw@gmail.com 
+RT <a href="https://twitter.com/Marina_Reims" title="Marina">@Marina_Reims</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> <a href="https://t.co/rBl5GGYC6G">linkedin.com/pub/marina-dem…</a> murmurpaw@gmail.com
 
 Привет
 
 На «А» пока нет, продолжим от столицы к столице
 
-RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skriming</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> 
+RT <a href="https://twitter.com/mr_skriming" title="Pasha Grekovich">@mr_skriming</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>
 <a href="https://t.co/BrmN754lci">linkedin.com/in/grekovich</a>
 Минск :P
 
@@ -1610,7 +1610,7 @@ RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebr
 
 .<a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a> когда мы сделали сборку (летом 2013), Gulp ещё не было. А смысла переходить не увидели — и так всё быстро собиралось.
 
-RT <a href="https://twitter.com/brdt_D" title="Dmitry">@brdt_D</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> Как-то делал для проекта сравнение использования связки(и  без неё) gulp и webpack с standard task<a href="https://t.co/V2gNlLceqn">github.com/ximet/GruntWeb…</a>
+RT <a href="https://twitter.com/brdt_D" title="Dmitry">@brdt_D</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a>Как-то делал для проекта сравнение использования связки(и  без неё) gulp и webpack с standard task<a href="https://t.co/V2gNlLceqn">github.com/ximet/GruntWeb…</a>
 
 RT <a href="https://twitter.com/justusebrain" title="Eugene Rodionov">@justusebrain</a>: <a href="https://twitter.com/cssunderhood" title="Верстальщик">@cssunderhood</a> у галпа очень удобный конфиг, в отличие от гранта. Ну и скорость, да.
 
