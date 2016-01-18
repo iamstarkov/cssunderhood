@@ -1,0 +1,988 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Jan 18 07:23:54 +0000 2016",
+      "id": 688985149317496800,
+      "id_str": "688985149317496833",
+      "text": "@cssunderhood Доброе утро!",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688984531366469600,
+      "in_reply_to_status_id_str": "688984531366469633",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 31656594,
+        "id_str": "31656594"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 07:27:40 +0000 2016",
+      "id": 688986095732805600,
+      "id_str": "688986095732805632",
+      "text": "Задавайте вопросы в @cssunderhood \n\n https://t.co/3UCK05VahK",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688984940411760600,
+      "in_reply_to_status_id_str": "688984940411760640",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 14961912,
+        "id_str": "14961912"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Санкт-Петербург",
+        "full_name": "Санкт-Петербург, Россия",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 688984940411760600,
+      "quoted_status_id_str": "688984940411760640",
+      "quoted_status": {
+        "created_at": "Mon Jan 18 07:23:05 +0000 2016",
+        "id": 688984940411760600,
+        "id_str": "688984940411760640",
+        "text": "Сейчас работаю фронтендером в HTML Academy.\nГотов ответить на вопросы по верстке, фронтенду, стартапах, работе в ИТ, психологии и тд.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3376999971,
+          "id_str": "3376999971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              20,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3UCK05VahK",
+            "expanded_url": "https://twitter.com/cssunderhood/status/688984940411760640",
+            "display_url": "twitter.com/cssunderhood/s…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 07:30:07 +0000 2016",
+      "id": 688986709711806500,
+      "id_str": "688986709711806464",
+      "text": "@cssunderhood о, я там азы проходил) даже подписку покупал) вы круты)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688984940411760600,
+      "in_reply_to_status_id_str": "688984940411760640",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 1337719166,
+        "id_str": "1337719166"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 07:43:18 +0000 2016",
+      "id": 688990028865912800,
+      "id_str": "688990028865912833",
+      "text": "@cssunderhood верстал шаблон под Drupal для лаборатории универа. Пытался устроиться в Контур, но завалил собеседование. Стал читал книжки.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688988486406373400,
+      "in_reply_to_status_id_str": "688988486406373376",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 97977250,
+        "id_str": "97977250"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 07:44:37 +0000 2016",
+      "id": 688990359171502100,
+      "id_str": "688990359171502080",
+      "text": "@cssunderhood я в детстве хотел стать машинистом. Хорошо в 8 классе я попал на компьютерные курсы, там я и сделал первую страницу.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688989332116484100,
+      "in_reply_to_status_id_str": "688989332116484096",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 202703297,
+        "id_str": "202703297"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 07:45:44 +0000 2016",
+      "id": 688990643461484500,
+      "id_str": "688990643461484544",
+      "text": "@cssunderhood как оцениваете его книги?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688990420601299000,
+      "in_reply_to_status_id_str": "688990420601298944",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 4732693097,
+        "id_str": "4732693097"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 07:54:57 +0000 2016",
+      "id": 688992962559258600,
+      "id_str": "688992962559258625",
+      "text": "@cssunderhood Санкт-Петербург. От первого знакомства до первой работы почти 4 года, большую часть которых было потрачено не на эту отрасль.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688992459465080800,
+      "in_reply_to_status_id_str": "688992459465080832",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 202703297,
+        "id_str": "202703297"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 07:56:44 +0000 2016",
+      "id": 688993409101615100,
+      "id_str": "688993409101615104",
+      "text": "@cssunderhood 3й курс (2002) общие знания о Html, 4й курс ASP + PHP, 5й - дизайн, табличная (уууу!!!) вёрстка + своя админка:php+файлы.txt )",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688988486406373400,
+      "in_reply_to_status_id_str": "688988486406373376",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 148786729,
+        "id_str": "148786729"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:09:38 +0000 2016",
+      "id": 688996657011290100,
+      "id_str": "688996657011290112",
+      "text": "@cssunderhood сказал всем, что я дизайнер. Уже восемь лет верят.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688988486406373400,
+      "in_reply_to_status_id_str": "688988486406373376",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 38173932,
+        "id_str": "38173932"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                37.1316733,
+                55.4908342
+              ],
+              [
+                37.9650116,
+                55.4908342
+              ],
+              [
+                37.9650116,
+                56.0209192
+              ],
+              [
+                37.1316733,
+                56.0209192
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:09:43 +0000 2016",
+      "id": 688996676212801500,
+      "id_str": "688996676212801536",
+      "text": "@alexzdesign Текстовые файлы вместо базы данных — знакомо. Я ещё поля отделял с помощью «|». @cssunderhood",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688993409101615100,
+      "in_reply_to_status_id_str": "688993409101615104",
+      "in_reply_to_user_id": 148786729,
+      "in_reply_to_user_id_str": "148786729",
+      "in_reply_to_screen_name": "alexzdesign",
+      "user": {
+        "id": 31656594,
+        "id_str": "31656594"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexzdesign",
+            "name": "Alex Zaramenskikh",
+            "id": 148786729,
+            "id_str": "148786729",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              93,
+              106
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:13:02 +0000 2016",
+      "id": 688997511487459300,
+      "id_str": "688997511487459329",
+      "text": "@cssunderhood 2005 админил, попросили поправить html... через пол года переписал их PHP админку, далее TYPO3, теперь React + @neoscms",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688988486406373400,
+      "in_reply_to_status_id_str": "688988486406373376",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 240638492,
+        "id_str": "240638492"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "neoscms",
+            "name": "The Neos Project",
+            "id": 864411343,
+            "id_str": "864411343",
+            "indices": [
+              125,
+              133
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:16:46 +0000 2016",
+      "id": 688998452773126100,
+      "id_str": "688998452773126144",
+      "text": "@sapegin @cssunderhood аналогично «|» :D на файлах я сделал сайт на простом хостинге с php для местной радиостанции = мой дипломный проект.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688996676212801500,
+      "in_reply_to_status_id_str": "688996676212801536",
+      "in_reply_to_user_id": 31656594,
+      "in_reply_to_user_id_str": "31656594",
+      "in_reply_to_screen_name": "sapegin",
+      "user": {
+        "id": 148786729,
+        "id_str": "148786729"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:17:54 +0000 2016",
+      "id": 688998737427955700,
+      "id_str": "688998737427955712",
+      "text": "@alexzdesign Я далал сайт для колледжа, где работал, на своём движке, но тогда я уже знал про дазы банных ;-) @cssunderhood",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688998452773126100,
+      "in_reply_to_status_id_str": "688998452773126144",
+      "in_reply_to_user_id": 148786729,
+      "in_reply_to_user_id_str": "148786729",
+      "in_reply_to_screen_name": "alexzdesign",
+      "user": {
+        "id": 31656594,
+        "id_str": "31656594"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexzdesign",
+            "name": "Alex Zaramenskikh",
+            "id": 148786729,
+            "id_str": "148786729",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              110,
+              123
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:22:19 +0000 2016",
+      "id": 688999850327830500,
+      "id_str": "688999850327830528",
+      "text": "@sapegin @cssunderhood самое обидное было, уже уметь загружать картинки в БД (привет phpфорум! ;-), но не иметь возм-сти исп-ть БД в проекте",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688998737427955700,
+      "in_reply_to_status_id_str": "688998737427955712",
+      "in_reply_to_user_id": 31656594,
+      "in_reply_to_user_id_str": "31656594",
+      "in_reply_to_screen_name": "sapegin",
+      "user": {
+        "id": 148786729,
+        "id_str": "148786729"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:28:41 +0000 2016",
+      "id": 689001452191129600,
+      "id_str": "689001452191129600",
+      "text": "@cssunderhood начал в 2013 году, @htmlacademy_ru и курсы по php в специалисте, сейчас чисто js разработка, двигаюсь во все стороны сразу)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688988486406373400,
+      "in_reply_to_status_id_str": "688988486406373376",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 159809934,
+        "id_str": "159809934"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "htmlacademy_ru",
+            "name": "HTML Academy",
+            "id": 773276947,
+            "id_str": "773276947",
+            "indices": [
+              33,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:57:47 +0000 2016",
+      "id": 689008773193674800,
+      "id_str": "689008773193674752",
+      "text": "@cssunderhood Екатеринбург. Познакомился с css в 2012. Понемногу фрилансил, верстал шаблоны под различные cms. На работу устроился в 2015.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688992383191658500,
+      "in_reply_to_status_id_str": "688992383191658497",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 97977250,
+        "id_str": "97977250"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 08:59:05 +0000 2016",
+      "id": 689009102597521400,
+      "id_str": "689009102597521408",
+      "text": "@cssunderhood учился на физика, не думал, что брошу науку. Но проработав год в лаборатории понял, что к фронту меня тянет очень сильно",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 689008773193674800,
+      "in_reply_to_status_id_str": "689008773193674752",
+      "in_reply_to_user_id": 97977250,
+      "in_reply_to_user_id_str": "97977250",
+      "in_reply_to_screen_name": "nanoT1m",
+      "user": {
+        "id": 97977250,
+        "id_str": "97977250"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 18 09:24:59 +0000 2016",
+      "id": 689015619371577300,
+      "id_str": "689015619371577344",
+      "text": "@Texxnic поддерживаю! @htmlacademy_ru – хороший сервис. 👍👍 @cssunderhood",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688986709711806500,
+      "in_reply_to_status_id_str": "688986709711806464",
+      "in_reply_to_user_id": 1337719166,
+      "in_reply_to_user_id_str": "1337719166",
+      "in_reply_to_screen_name": "Texxnic",
+      "user": {
+        "id": 77650638,
+        "id_str": "77650638"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Texxnic",
+            "name": "Roman Texxnic",
+            "id": 1337719166,
+            "id_str": "1337719166",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "htmlacademy_ru",
+            "name": "HTML Academy",
+            "id": 773276947,
+            "id_str": "773276947",
+            "indices": [
+              22,
+              37
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              59,
+              72
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
