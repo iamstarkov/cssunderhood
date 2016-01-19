@@ -37,23 +37,23 @@
     }
   },
   "protected": false,
-  "followers_count": 2131,
+  "followers_count": 2137,
   "friends_count": 25,
-  "listed_count": 105,
+  "listed_count": 104,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 130,
+  "favourites_count": 150,
   "utc_offset": 7200,
   "time_zone": "Kyiv",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10001,
+  "statuses_count": 10033,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 18 09:06:56 +0000 2016",
-    "id": 689011075174498300,
-    "id_str": "689011075174498304",
-    "text": "RT @nanoT1m: @cssunderhood Екатеринбург. Познакомился с css в 2012. Понемногу фрилансил, верстал шаблоны под различные cms. На работу устро…",
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "created_at": "Tue Jan 19 10:39:31 +0000 2016",
+    "id": 689396765229875200,
+    "id_str": "689396765229875200",
+    "text": "Use:\nконсоль – iTerm2 https://t.co/GRf01xQwof\nshell – https://t.co/WXKbF7mtC3\ngit – zsh + https://t.co/5DuczU1Wly\nhttps://t.co/AAqeM6eoeZ",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -64,79 +64,56 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Jan 18 08:57:47 +0000 2016",
-      "id": 689008773193674800,
-      "id_str": "689008773193674752",
-      "text": "@cssunderhood Екатеринбург. Познакомился с css в 2012. Понемногу фрилансил, верстал шаблоны под различные cms. На работу устроился в 2015.",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 688992383191658500,
-      "in_reply_to_status_id_str": "688992383191658497",
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": true,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "nanoT1m",
-          "name": "Timur",
-          "id": 97977250,
-          "id_str": "97977250",
+          "url": "https://t.co/GRf01xQwof",
+          "expanded_url": "https://www.iterm2.com/",
+          "display_url": "iterm2.com",
           "indices": [
-            3,
-            11
+            22,
+            45
           ]
         },
         {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
+          "url": "https://t.co/WXKbF7mtC3",
+          "expanded_url": "http://ohmyz.sh/",
+          "display_url": "ohmyz.sh",
           "indices": [
-            13,
-            26
+            54,
+            77
+          ]
+        },
+        {
+          "url": "https://t.co/5DuczU1Wly",
+          "expanded_url": "http://sourcetreeapp.com/",
+          "display_url": "sourcetreeapp.com",
+          "indices": [
+            90,
+            113
+          ]
+        },
+        {
+          "url": "https://t.co/AAqeM6eoeZ",
+          "expanded_url": "http://think-like-a-git.net/",
+          "display_url": "think-like-a-git.net",
+          "indices": [
+            114,
+            137
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "favorited": true,
-    "retweeted": true,
-    "lang": "ru"
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ro"
   },
   "contributors_enabled": false,
   "is_translator": false,
