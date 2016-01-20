@@ -37,23 +37,23 @@
     }
   },
   "protected": false,
-  "followers_count": 2137,
+  "followers_count": 2136,
   "friends_count": 25,
   "listed_count": 104,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 150,
+  "favourites_count": 264,
   "utc_offset": 7200,
   "time_zone": "Kyiv",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10033,
+  "statuses_count": 10105,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jan 19 10:39:31 +0000 2016",
-    "id": 689396765229875200,
-    "id_str": "689396765229875200",
-    "text": "Use:\nконсоль – iTerm2 https://t.co/GRf01xQwof\nshell – https://t.co/WXKbF7mtC3\ngit – zsh + https://t.co/5DuczU1Wly\nhttps://t.co/AAqeM6eoeZ",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Wed Jan 20 20:33:47 +0000 2016",
+    "id": 689908705404534800,
+    "id_str": "689908705404534785",
+    "text": "Четверг — свободный день для дискуссий :)\n\nО чем бы вы хотели узнать?\n\nЖду завтра ваших вопросов :)",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -62,58 +62,53 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "a76c0cd7d56c4836",
+      "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+      "place_type": "city",
+      "name": "Санкт-Петербург",
+      "full_name": "Санкт-Петербург, Россия",
+      "country_code": "RU",
+      "country": "Rossiya",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.0896894,
+              59.7761714
+            ],
+            [
+              30.5677067,
+              59.7761714
+            ],
+            [
+              30.5677067,
+              60.0921253
+            ],
+            [
+              30.0896894,
+              60.0921253
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/GRf01xQwof",
-          "expanded_url": "https://www.iterm2.com/",
-          "display_url": "iterm2.com",
-          "indices": [
-            22,
-            45
-          ]
-        },
-        {
-          "url": "https://t.co/WXKbF7mtC3",
-          "expanded_url": "http://ohmyz.sh/",
-          "display_url": "ohmyz.sh",
-          "indices": [
-            54,
-            77
-          ]
-        },
-        {
-          "url": "https://t.co/5DuczU1Wly",
-          "expanded_url": "http://sourcetreeapp.com/",
-          "display_url": "sourcetreeapp.com",
-          "indices": [
-            90,
-            113
-          ]
-        },
-        {
-          "url": "https://t.co/AAqeM6eoeZ",
-          "expanded_url": "http://think-like-a-git.net/",
-          "display_url": "think-like-a-git.net",
-          "indices": [
-            114,
-            137
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ro"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
