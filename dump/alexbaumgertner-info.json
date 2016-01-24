@@ -38,21 +38,21 @@
   },
   "protected": false,
   "followers_count": 2139,
-  "friends_count": 25,
-  "listed_count": 105,
+  "friends_count": 26,
+  "listed_count": 107,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 412,
+  "favourites_count": 591,
   "utc_offset": 7200,
   "time_zone": "Kyiv",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10178,
+  "statuses_count": 10257,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jan 22 13:24:08 +0000 2016",
-    "id": 690525354067390500,
-    "id_str": "690525354067390465",
-    "text": "RT @aleshaoleg: @cssunderhood такой вопрос, а как вот понять, что мне достаточно умений в верстке - если я по сути JS developer?",
+    "created_at": "Sun Jan 24 17:59:46 +0000 2016",
+    "id": 691319494225084400,
+    "id_str": "691319494225084416",
+    "text": "RT @fliptheweb: И еще один ресурс от @mdo — странные моменты в HTML и CSS, которые опытным верстальщикам уже не кажутся странными 😉 https:/…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,77 +65,99 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Fri Jan 22 13:20:07 +0000 2016",
-      "id": 690524344867496000,
-      "id_str": "690524344867495940",
-      "text": "@cssunderhood такой вопрос, а как вот понять, что мне достаточно умений в верстке - если я по сути JS developer?",
-      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "created_at": "Sun Jan 24 17:48:11 +0000 2016",
+      "id": 691316581347930100,
+      "id_str": "691316581347930112",
+      "text": "И еще один ресурс от @mdo — странные моменты в HTML и CSS, которые опытным верстальщикам уже не кажутся странными 😉 https://t.co/bc9TlqHZma",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
       "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
+      "retweet_count": 5,
+      "favorite_count": 17,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
+            "screen_name": "mdo",
+            "name": "Mark Otto",
+            "id": 8207832,
+            "id_str": "8207832",
             "indices": [
-              0,
-              13
+              21,
+              25
             ]
           }
         ],
-        "urls": []
+        "urls": [
+          {
+            "url": "https://t.co/bc9TlqHZma",
+            "expanded_url": "http://wtfhtmlcss.com/",
+            "display_url": "wtfhtmlcss.com",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
       },
       "favorited": true,
       "retweeted": true,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 5,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "aleshaoleg",
-          "name": "Oleh Aloshkin",
-          "id": 327806079,
-          "id_str": "327806079",
+          "screen_name": "fliptheweb",
+          "name": "Artur Kornakov",
+          "id": 99717399,
+          "id_str": "99717399",
           "indices": [
             3,
             14
           ]
         },
         {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
+          "screen_name": "mdo",
+          "name": "Mark Otto",
+          "id": 8207832,
+          "id_str": "8207832",
           "indices": [
-            16,
-            29
+            37,
+            41
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/bc9TlqHZma",
+          "expanded_url": "http://wtfhtmlcss.com/",
+          "display_url": "wtfhtmlcss.com",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
     },
     "favorited": true,
     "retweeted": true,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
