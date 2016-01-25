@@ -1,0 +1,514 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 25 06:59:14 +0000 2016",
+      "id": 691515652830535700,
+      "id_str": "691515652830535680",
+      "text": "Привет! На этой неделе о вёрстке пишет Илья @straykov из Ultimate Guitar с балтийского побережья",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "straykov",
+            "name": "Илья Страйкóв",
+            "id": 286593061,
+            "id_str": "286593061",
+            "indices": [
+              44,
+              53
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 07:01:02 +0000 2016",
+      "id": 691516107874766800,
+      "id_str": "691516107874766848",
+      "text": "В UG я работаю дизайнером веб-интерфейсов и заодно верстаю свои макеты. В свободное время руковожу аутсорсной командой разработчиков",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691515652830535700,
+      "in_reply_to_status_id_str": "691515652830535680",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 07:03:47 +0000 2016",
+      "id": 691516798777348100,
+      "id_str": "691516798777348096",
+      "text": "Сразу хочу расстроить: про технологии будет мало. Зато много — про то, что верстальщики не нужны :–)",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691516107874766800,
+      "in_reply_to_status_id_str": "691516107874766848",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 08:15:32 +0000 2016",
+      "id": 691534857084768300,
+      "id_str": "691534857084768257",
+      "text": "Убеждён, что дизайнер должен уметь верстать. Научиться несложно ведь, а профит огромный https://t.co/MeihwTRMZV",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 691527237066166300,
+      "quoted_status_id_str": "691527237066166272",
+      "quoted_status": {
+        "created_at": "Mon Jan 25 07:45:15 +0000 2016",
+        "id": 691527237066166300,
+        "id_str": "691527237066166272",
+        "text": "@cssunderhood а если дизайнер не умеет верстать?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 691516798777348100,
+        "in_reply_to_status_id_str": "691516798777348096",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 180295173,
+          "id_str": "180295173"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MeihwTRMZV",
+            "expanded_url": "https://twitter.com/antonfrolovsky/status/691527237066166272",
+            "display_url": "twitter.com/antonfrolovsky…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 08:29:26 +0000 2016",
+      "id": 691538356212240400,
+      "id_str": "691538356212240384",
+      "text": "Всё это игрушечки (надеюсь, про ИЕ6 — шутка) по сравнению со сложностью дизайнерских задач (ну, у нас) https://t.co/EEQoBlvMpI",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 691537280989790200,
+      "quoted_status_id_str": "691537280989790208",
+      "quoted_status": {
+        "created_at": "Mon Jan 25 08:25:10 +0000 2016",
+        "id": 691537280989790200,
+        "id_str": "691537280989790208",
+        "text": "@cssunderhood а можно по подробней про верстку и \"несложно\", особенно в контексте \"для всех браузеров\" и под IE6+?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 691534857084768300,
+        "in_reply_to_status_id_str": "691534857084768257",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 2749103136,
+          "id_str": "2749103136"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EEQoBlvMpI",
+            "expanded_url": "https://twitter.com/way2bariton/status/691537280989790208",
+            "display_url": "twitter.com/way2bariton/st…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 08:56:36 +0000 2016",
+      "id": 691545191124201500,
+      "id_str": "691545191124201472",
+      "text": "Ну, кто с понедельника решил отказаться от Джейквери?",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 08:57:29 +0000 2016",
+      "id": 691545413250355200,
+      "id_str": "691545413250355201",
+      "text": "(Забыл про план рассказать. Сегодня немного про то, почему верстальщики не нужны. Завтра про то, при чём тут дизайнеры. Потом как пойдёт)",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 10:01:59 +0000 2016",
+      "id": 691561647329140700,
+      "id_str": "691561647329140737",
+      "text": "@koloskof @thegridio всего лишь про то, что для вёрстки не нужен отдельный человек, и что лучше пусть это будет дизайнер",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691561085443375100,
+      "in_reply_to_status_id_str": "691561085443375105",
+      "in_reply_to_user_id": 129881766,
+      "in_reply_to_user_id_str": "129881766",
+      "in_reply_to_screen_name": "koloskof",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "koloskof",
+            "name": "Mikhail",
+            "id": 129881766,
+            "id_str": "129881766",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "thegridio",
+            "name": "The Grid",
+            "id": 2842172369,
+            "id_str": "2842172369",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 10:27:19 +0000 2016",
+      "id": 691568019919757300,
+      "id_str": "691568019919757317",
+      "text": "В UG работаем в основном на Штаты — да, всё так, ИЕ 9. В России (в Кодельной) делаем с 11 https://t.co/1k5Qad4SJ1",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 691565764206317600,
+      "quoted_status_id_str": "691565764206317568",
+      "quoted_status": {
+        "created_at": "Mon Jan 25 10:18:21 +0000 2016",
+        "id": 691565764206317600,
+        "id_str": "691565764206317568",
+        "text": "@way2bariton @cssunderhood IE9+ это на зарубежный рынок. думаю это не надолго уже. русский обычно было с 10",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 691564148564561900,
+        "in_reply_to_status_id_str": "691564148564561921",
+        "in_reply_to_user_id": 2749103136,
+        "in_reply_to_user_id_str": "2749103136",
+        "in_reply_to_screen_name": "way2bariton",
+        "user": {
+          "id": 2159314429,
+          "id_str": "2159314429"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "way2bariton",
+              "name": "Кирилл Озерецковский",
+              "id": 2749103136,
+              "id_str": "2749103136",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                13,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1k5Qad4SJ1",
+            "expanded_url": "https://twitter.com/meuwka/status/691565764206317568",
+            "display_url": "twitter.com/meuwka/status/…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
