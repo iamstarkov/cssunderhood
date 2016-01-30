@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2199,
+  "followers_count": 2206,
   "friends_count": 29,
   "listed_count": 109,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 605,
+  "favourites_count": 607,
   "utc_offset": 7200,
   "time_zone": "Kyiv",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10440,
+  "statuses_count": 10461,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jan 29 20:41:36 +0000 2016",
-    "id": 693172162484682800,
-    "id_str": "693172162484682753",
-    "text": "Водил меня Серёга\nНа выставку Кложура\nТам скобок было много\nИ нервы как канат",
+    "created_at": "Sat Jan 30 21:24:21 +0000 2016",
+    "id": 693545306760298500,
+    "id_str": "693545306760298496",
+    "text": "У меня Эйр 13 2012. Хватает с горкой https://t.co/1QbenjJi6c",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,17 +53,30 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 4,
+    "quoted_status_id": 693537758833414100,
+    "quoted_status_id_str": "693537758833414145",
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 2,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/1QbenjJi6c",
+          "expanded_url": "https://twitter.com/aleshaoleg/status/693537758833414145",
+          "display_url": "twitter.com/aleshaoleg/sta…",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
