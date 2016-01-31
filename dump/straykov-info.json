@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2206,
+  "followers_count": 2211,
   "friends_count": 29,
   "listed_count": 109,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 607,
+  "favourites_count": 611,
   "utc_offset": 7200,
   "time_zone": "Kyiv",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10461,
+  "statuses_count": 10483,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jan 30 21:24:21 +0000 2016",
-    "id": 693545306760298500,
-    "id_str": "693545306760298496",
-    "text": "У меня Эйр 13 2012. Хватает с горкой https://t.co/1QbenjJi6c",
+    "created_at": "Sun Jan 31 17:12:07 +0000 2016",
+    "id": 693844218788331500,
+    "id_str": "693844218788331521",
+    "text": "На этом всё. Это был Илья Страйко́в @straykov, дизайнер интерфейса в Ultimate Guitar и основатель Кодельной. Балтийский привет всем!",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,30 +53,28 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 693537758833414100,
-    "quoted_status_id_str": "693537758833414145",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 5,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/1QbenjJi6c",
-          "expanded_url": "https://twitter.com/aleshaoleg/status/693537758833414145",
-          "display_url": "twitter.com/aleshaoleg/sta…",
+          "screen_name": "straykov",
+          "name": "Илья Страйкóв",
+          "id": 286593061,
+          "id_str": "286593061",
           "indices": [
-            37,
-            60
+            36,
+            45
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
