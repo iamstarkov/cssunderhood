@@ -28,21 +28,21 @@
   "protected": false,
   "followers_count": 2206,
   "friends_count": 29,
-  "listed_count": 112,
+  "listed_count": 113,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
   "favourites_count": 611,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10533,
+  "statuses_count": 10585,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 01 21:45:20 +0000 2016",
-    "id": 694275365909479400,
-    "id_str": "694275365909479424",
-    "text": "RT @Iprishvin: @cakeinpanic @cssunderhood я так пластиковые окна заказал там, где дизайн сайта и верстка больше всего понравились",
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "created_at": "Tue Feb 02 17:19:02 +0000 2016",
+    "id": 694570734094524400,
+    "id_str": "694570734094524416",
+    "text": "Есть, но я так не скажу. Могу подсказать конфиг коллеги для Вима  https://t.co/8FqbAuFs7x https://t.co/zQRBUeYtbt",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,131 +53,39 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Feb 01 21:27:04 +0000 2016",
-      "id": 694270767857586200,
-      "id_str": "694270767857586176",
-      "text": "@cakeinpanic @cssunderhood я так пластиковые окна заказал там, где дизайн сайта и верстка больше всего понравились",
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 692339220954882000,
-      "in_reply_to_status_id_str": "692339220954882048",
-      "in_reply_to_user_id": 15921931,
-      "in_reply_to_user_id_str": "15921931",
-      "in_reply_to_screen_name": "cakeinpanic",
-      "geo": null,
-      "coordinates": null,
-      "place": {
-        "id": "4303d1afc1e98c37",
-        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-        "place_type": "city",
-        "name": "Москва",
-        "full_name": "Москва, Россия",
-        "country_code": "RU",
-        "country": "Rossiya",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                37.1316733,
-                55.4908342
-              ],
-              [
-                37.9650116,
-                55.4908342
-              ],
-              [
-                37.9650116,
-                56.0209192
-              ],
-              [
-                37.1316733,
-                56.0209192
-              ]
-            ]
-          ]
-        },
-        "attributes": {}
-      },
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cakeinpanic",
-            "name": "Katerina Tort",
-            "id": 15921931,
-            "id_str": "15921931",
-            "indices": [
-              0,
-              12
-            ]
-          },
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              13,
-              26
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "quoted_status_id": 694566093474697200,
+    "quoted_status_id_str": "694566093474697218",
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 5,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Iprishvin",
-          "name": "Ivan Prishvin",
-          "id": 277651036,
-          "id_str": "277651036",
+          "url": "https://t.co/8FqbAuFs7x",
+          "expanded_url": "https://habrahabr.ru/post/206262/",
+          "display_url": "habrahabr.ru/post/206262/",
           "indices": [
-            3,
-            13
+            66,
+            89
           ]
         },
         {
-          "screen_name": "cakeinpanic",
-          "name": "Katerina Tort",
-          "id": 15921931,
-          "id_str": "15921931",
+          "url": "https://t.co/zQRBUeYtbt",
+          "expanded_url": "https://twitter.com/nanoT1m/status/694566093474697218",
+          "display_url": "twitter.com/nanoT1m/status…",
           "indices": [
-            15,
-            27
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            28,
-            41
+            90,
+            113
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
