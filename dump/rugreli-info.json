@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2206,
+  "followers_count": 2212,
   "friends_count": 29,
   "listed_count": 113,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,14 +35,14 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10585,
+  "statuses_count": 10633,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Feb 02 17:19:02 +0000 2016",
-    "id": 694570734094524400,
-    "id_str": "694570734094524416",
-    "text": "Есть, но я так не скажу. Могу подсказать конфиг коллеги для Вима  https://t.co/8FqbAuFs7x https://t.co/zQRBUeYtbt",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Wed Feb 03 17:40:05 +0000 2016",
+    "id": 694938419013750800,
+    "id_str": "694938419013750784",
+    "text": "RT @fliptheweb: @cssunderhood @hej_veronica если эффекты в плане моушена, то на сайтах https://t.co/e7CIWrhYUd и https://t.co/OdOzYDOewI мн…",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,38 +53,137 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 694566093474697200,
-    "quoted_status_id_str": "694566093474697218",
-    "is_quote_status": true,
-    "retweet_count": 0,
-    "favorite_count": 5,
+    "retweeted_status": {
+      "created_at": "Wed Feb 03 17:34:17 +0000 2016",
+      "id": 694936962449276900,
+      "id_str": "694936962449276928",
+      "text": "@cssunderhood @hej_veronica если эффекты в плане моушена, то на сайтах https://t.co/e7CIWrhYUd и https://t.co/OdOzYDOewI много всего",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694936409937961000,
+      "in_reply_to_status_id_str": "694936409937960964",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "hej_veronica",
+            "name": "Veronika",
+            "id": 4834934267,
+            "id_str": "4834934267",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/e7CIWrhYUd",
+            "expanded_url": "http://codyhouse.co/library/",
+            "display_url": "codyhouse.co/library/",
+            "indices": [
+              71,
+              94
+            ]
+          },
+          {
+            "url": "https://t.co/OdOzYDOewI",
+            "expanded_url": "http://tympanus.net/codrops/",
+            "display_url": "tympanus.net/codrops/",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/8FqbAuFs7x",
-          "expanded_url": "https://habrahabr.ru/post/206262/",
-          "display_url": "habrahabr.ru/post/206262/",
+          "screen_name": "fliptheweb",
+          "name": "Artur Kornakov",
+          "id": 99717399,
+          "id_str": "99717399",
           "indices": [
-            66,
-            89
+            3,
+            14
           ]
         },
         {
-          "url": "https://t.co/zQRBUeYtbt",
-          "expanded_url": "https://twitter.com/nanoT1m/status/694566093474697218",
-          "display_url": "twitter.com/nanoT1m/status…",
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
           "indices": [
-            90,
-            113
+            16,
+            29
+          ]
+        },
+        {
+          "screen_name": "hej_veronica",
+          "name": "Veronika",
+          "id": 4834934267,
+          "id_str": "4834934267",
+          "indices": [
+            30,
+            43
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/e7CIWrhYUd",
+          "expanded_url": "http://codyhouse.co/library/",
+          "display_url": "codyhouse.co/library/",
+          "indices": [
+            87,
+            110
+          ]
+        },
+        {
+          "url": "https://t.co/OdOzYDOewI",
+          "expanded_url": "http://tympanus.net/codrops/",
+          "display_url": "tympanus.net/codrops/",
+          "indices": [
+            113,
+            136
           ]
         }
       ]
     },
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
