@@ -1259,6 +1259,706 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 11 12:23:28 +0000 2016",
+      "id": 697757842787450900,
+      "id_str": "697757842787450880",
+      "text": "RT @_nezed: @iamakulov_ @SilentImp а пока @jsunderhood и @cssunderhood притихли, я похвастаюсь \n\nhttps://t.co/zizZWb2fct https://t.co/ln3sj…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Feb 11 11:57:10 +0000 2016",
+        "id": 697751225769529300,
+        "id_str": "697751225769529345",
+        "text": "@iamakulov_ @SilentImp а пока @jsunderhood и @cssunderhood притихли, я похвастаюсь \n\nhttps://t.co/zizZWb2fct https://t.co/ln3sjt7ZTi",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 697746917971861500,
+        "in_reply_to_status_id_str": "697746917971861505",
+        "in_reply_to_user_id": 264743740,
+        "in_reply_to_user_id_str": "264743740",
+        "in_reply_to_screen_name": "iamakulov_",
+        "user": {
+          "id": 631926107,
+          "id_str": "631926107"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "iamakulov_",
+              "name": "Ivan Akulov",
+              "id": 264743740,
+              "id_str": "264743740",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "SilentImp",
+              "name": "Тихий Бес",
+              "id": 71016924,
+              "id_str": "71016924",
+              "indices": [
+                12,
+                22
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                30,
+                42
+              ]
+            },
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                45,
+                58
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/zizZWb2fct",
+              "expanded_url": "https://www.instagram.com/p/BBnt7pILdDy",
+              "display_url": "instagram.com/p/BBnt7pILdDy",
+              "indices": [
+                85,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 697751224809029600,
+              "id_str": "697751224809029633",
+              "indices": [
+                109,
+                132
+              ],
+              "media_url": "http://pbs.twimg.com/media/Ca7pCshWAAEex2P.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Ca7pCshWAAEex2P.jpg",
+              "url": "https://t.co/ln3sjt7ZTi",
+              "display_url": "pic.twitter.com/ln3sjt7ZTi",
+              "expanded_url": "http://twitter.com/_nezed/status/697751225769529345/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 600,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 697751224809029600,
+              "id_str": "697751224809029633",
+              "indices": [
+                109,
+                132
+              ],
+              "media_url": "http://pbs.twimg.com/media/Ca7pCshWAAEex2P.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Ca7pCshWAAEex2P.jpg",
+              "url": "https://t.co/ln3sjt7ZTi",
+              "display_url": "pic.twitter.com/ln3sjt7ZTi",
+              "expanded_url": "http://twitter.com/_nezed/status/697751225769529345/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 600,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_nezed",
+            "name": "Дмитрий Наумов",
+            "id": 631926107,
+            "id_str": "631926107",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "iamakulov_",
+            "name": "Ivan Akulov",
+            "id": 264743740,
+            "id_str": "264743740",
+            "indices": [
+              12,
+              23
+            ]
+          },
+          {
+            "screen_name": "SilentImp",
+            "name": "Тихий Бес",
+            "id": 71016924,
+            "id_str": "71016924",
+            "indices": [
+              24,
+              34
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              42,
+              54
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              57,
+              70
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zizZWb2fct",
+            "expanded_url": "https://www.instagram.com/p/BBnt7pILdDy",
+            "display_url": "instagram.com/p/BBnt7pILdDy",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 697751224809029600,
+            "id_str": "697751224809029633",
+            "indices": [
+              121,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ca7pCshWAAEex2P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ca7pCshWAAEex2P.jpg",
+            "url": "https://t.co/ln3sjt7ZTi",
+            "display_url": "pic.twitter.com/ln3sjt7ZTi",
+            "expanded_url": "http://twitter.com/_nezed/status/697751225769529345/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 697751225769529300,
+            "source_status_id_str": "697751225769529345",
+            "source_user_id": 631926107,
+            "source_user_id_str": "631926107"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 697751224809029600,
+            "id_str": "697751224809029633",
+            "indices": [
+              121,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ca7pCshWAAEex2P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ca7pCshWAAEex2P.jpg",
+            "url": "https://t.co/ln3sjt7ZTi",
+            "display_url": "pic.twitter.com/ln3sjt7ZTi",
+            "expanded_url": "http://twitter.com/_nezed/status/697751225769529345/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 697751225769529300,
+            "source_status_id_str": "697751225769529345",
+            "source_user_id": 631926107,
+            "source_user_id_str": "631926107"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 11 12:26:09 +0000 2016",
+      "id": 697758520767352800,
+      "id_str": "697758520767352832",
+      "text": "Up.front - митапы по веб-дизайн и фронтенду в Берлине. @sapegin они выкладывают куда-нибудь презентации? https://t.co/xVYppVOavq",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 697116880591593500,
+      "quoted_status_id_str": "697116880591593473",
+      "quoted_status": {
+        "created_at": "Tue Feb 09 17:56:30 +0000 2016",
+        "id": 697116880591593500,
+        "id_str": "697116880591593473",
+        "text": "@cssunderhood Довольно много. Последние месяца два ленился ходить ;-) Вот прямо сейчас идет https://t.co/E3hzJwsNsl",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 697112015370874900,
+        "in_reply_to_status_id_str": "697112015370874880",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 31656594,
+          "id_str": "31656594"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/E3hzJwsNsl",
+              "expanded_url": "http://up.front.ug/2016/02/09/meetup/",
+              "display_url": "up.front.ug/2016/02/09/mee…",
+              "indices": [
+                92,
+                115
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              55,
+              63
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xVYppVOavq",
+            "expanded_url": "https://twitter.com/sapegin/status/697116880591593473",
+            "display_url": "twitter.com/sapegin/status…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 11 12:28:48 +0000 2016",
+      "id": 697759188571852800,
+      "id_str": "697759188571852800",
+      "text": "Ты наверно fronthub-15 в Ульяновске имеешь ввиду? https://t.co/uaR4xO9OdN @frontendsu https://t.co/DnY6SwqpI3",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 697117704998821900,
+      "quoted_status_id_str": "697117704998821892",
+      "quoted_status": {
+        "created_at": "Tue Feb 09 17:59:47 +0000 2016",
+        "id": 697117704998821900,
+        "id_str": "697117704998821892",
+        "text": "@cssunderhood в ноябре front-hub.su проходил.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 697112015370874900,
+        "in_reply_to_status_id_str": "697112015370874880",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 190935474,
+          "id_str": "190935474"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frontendsu",
+            "name": "front-end.su",
+            "id": 1586691668,
+            "id_str": "1586691668",
+            "indices": [
+              74,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uaR4xO9OdN",
+            "expanded_url": "http://fronthub.ru/",
+            "display_url": "fronthub.ru",
+            "indices": [
+              50,
+              73
+            ]
+          },
+          {
+            "url": "https://t.co/DnY6SwqpI3",
+            "expanded_url": "https://twitter.com/kalashnikovisme/status/697117704998821892",
+            "display_url": "twitter.com/kalashnikovism…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 11 12:32:20 +0000 2016",
+      "id": 697760076841558000,
+      "id_str": "697760076841558016",
+      "text": "и у samarajs слоган звучит как \"Технологии современного бэкенда\" + доклады про Go и Scala. Неожиданный поворот =) https://t.co/Gn6NX0yV90",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 697341344411418600,
+      "quoted_status_id_str": "697341344411418625",
+      "quoted_status": {
+        "created_at": "Wed Feb 10 08:48:27 +0000 2016",
+        "id": 697341344411418600,
+        "id_str": "697341344411418625",
+        "text": "@cssunderhood в samarajs последний раз говорили про бекэнд)",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 697112015370874900,
+        "in_reply_to_status_id_str": "697112015370874880",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 19027556,
+          "id_str": "19027556"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Gn6NX0yV90",
+            "expanded_url": "https://twitter.com/KELiON/status/697341344411418625",
+            "display_url": "twitter.com/KELiON/status/…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 11 12:33:04 +0000 2016",
+      "id": 697760259084046300,
+      "id_str": "697760259084046337",
+      "text": "@sapegin жаль, не очень удобно",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 697759161820565500,
+      "in_reply_to_status_id_str": "697759161820565504",
+      "in_reply_to_user_id": 31656594,
+      "in_reply_to_user_id_str": "31656594",
+      "in_reply_to_screen_name": "sapegin",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sapegin",
+            "name": "Artem Sapegin",
+            "id": 31656594,
+            "id_str": "31656594",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
