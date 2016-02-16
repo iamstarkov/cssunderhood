@@ -4,19 +4,8 @@
   "name": "Верстальщик",
   "screen_name": "cssunderhood",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Санкт-Петербург, Россия",
-    "full_name": "Санкт-Петербург, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
-  "description": "Коллективный твиттер-аккаунт для верстальщиков, веб-дизайнеров и сочувствующих с новым автором каждую неделю. На этой неделе пишет Зюзин Виталий @juwain.",
+  "profile_location": null,
+  "description": "Коллективный твиттер-аккаунт для верстальщиков, веб-дизайнеров и сочувствующих с новым автором каждую неделю. На этой неделе пишет @juwain из @htmlacademy_ru.",
   "url": "https://t.co/Kem9C6tf3p",
   "entities": {
     "url": {
@@ -37,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2268,
-  "friends_count": 47,
-  "listed_count": 114,
+  "followers_count": 2276,
+  "friends_count": 43,
+  "listed_count": 115,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 611,
+  "favourites_count": 622,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10773,
+  "statuses_count": 10849,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 15 12:21:43 +0000 2016",
-    "id": 699206954523226100,
-    "id_str": "699206954523226112",
-    "text": "Я живу в Санкт-Петербурге, работаю в команде @htmlacademy_ru. В свободное время ищу авторов @cssunderhood и смотрю, чтобы всё было тип-топ.",
+    "created_at": "Tue Feb 16 10:46:38 +0000 2016",
+    "id": 699545415981596700,
+    "id_str": "699545415981596672",
+    "text": "Ладно, я за работу. Позже продолжу вещать ✌️",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,32 +55,11 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "htmlacademy_ru",
-          "name": "HTML Academy",
-          "id": 773276947,
-          "id_str": "773276947",
-          "indices": [
-            45,
-            60
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            92,
-            105
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
@@ -105,8 +73,8 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/699200415858954241/X7lnu4I8_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/699200415858954241/X7lnu4I8_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/699325568467255296/7rtZvlXP_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/699325568467255296/7rtZvlXP_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3376999971/1455538768",
   "profile_link_color": "3B94D9",
   "profile_sidebar_border_color": "000000",
