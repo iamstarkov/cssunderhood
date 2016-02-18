@@ -27,22 +27,22 @@
   },
   "protected": false,
   "followers_count": 2276,
-  "friends_count": 43,
+  "friends_count": 45,
   "listed_count": 115,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 622,
+  "favourites_count": 634,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10849,
+  "statuses_count": 10924,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Feb 16 10:46:38 +0000 2016",
-    "id": 699545415981596700,
-    "id_str": "699545415981596672",
-    "text": "Ладно, я за работу. Позже продолжу вещать ✌️",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Thu Feb 18 06:20:48 +0000 2016",
+    "id": 700203293541277700,
+    "id_str": "700203293541277696",
+    "text": "Такой классный курс много внешних слушателей соберёт. И не только из студентов.  https://t.co/5R9jzHK8YQ",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,17 +53,30 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 700201905528639500,
+    "quoted_status_id_str": "700201905528639488",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/5R9jzHK8YQ",
+          "expanded_url": "https://twitter.com/olmokhov/status/700201905528639488",
+          "display_url": "twitter.com/olmokhov/statu…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
