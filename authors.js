@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'juwain',          start: '15 Feb 2016', first: '699201222218223616', post: false },
+  { username: 'juwain',          start: '15 Feb 2016', first: '699201222218223616' },
   { username: 'zmoki',           start: '08 Feb 2016', first: '696664612826193920' },
   { username: 'rugreli',         start: '01 Feb 2016', first: '694144779697983488' },
   { username: 'straykov',        start: '25 Jan 2016', first: '691515652830535680' },
