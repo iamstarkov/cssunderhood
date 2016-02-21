@@ -26,23 +26,23 @@
     }
   },
   "protected": false,
-  "followers_count": 2282,
-  "friends_count": 61,
-  "listed_count": 115,
+  "followers_count": 2287,
+  "friends_count": 90,
+  "listed_count": 114,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 637,
+  "favourites_count": 658,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10951,
+  "statuses_count": 11004,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Feb 19 05:46:36 +0000 2016",
-    "id": 700557071817777200,
-    "id_str": "700557071817777152",
-    "text": "RT @ergover1: @cssunderhood мне Edge на удивление понравился(не по части dev tools). А для Firefox LiveEmmet существует?",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "created_at": "Sun Feb 21 20:33:47 +0000 2016",
+    "id": 701505115757355000,
+    "id_str": "701505115757355008",
+    "text": "Моя смена подходит к концу. Буду раз продолжить общение в твиттере @juwain и инстаграмме https://t.co/jEqFzAcIh6. Счастья вам и добра! ✌️",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,78 +53,39 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Feb 19 04:21:48 +0000 2016",
-      "id": 700535733724041200,
-      "id_str": "700535733724041216",
-      "text": "@cssunderhood мне Edge на удивление понравился(не по части dev tools). А для Firefox LiveEmmet существует?",
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 700363114911547400,
-      "in_reply_to_status_id_str": "700363114911547392",
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 4,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "ergover1",
-          "name": "itnewby",
-          "id": 4803594022,
-          "id_str": "4803594022",
+          "screen_name": "juwain",
+          "name": "Зюзин Виталий",
+          "id": 18213700,
+          "id_str": "18213700",
           "indices": [
-            3,
-            12
-          ]
-        },
-        {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
-          "indices": [
-            14,
-            27
+            67,
+            74
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/jEqFzAcIh6",
+          "expanded_url": "https://www.instagram.com/juwain/",
+          "display_url": "instagram.com/juwain/",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
     },
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
