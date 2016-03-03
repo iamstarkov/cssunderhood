@@ -37,45 +37,66 @@
     }
   },
   "protected": false,
-  "followers_count": 2299,
-  "friends_count": 95,
-  "listed_count": 120,
+  "followers_count": 2298,
+  "friends_count": 106,
+  "listed_count": 121,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 664,
+  "favourites_count": 705,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11334,
+  "statuses_count": 11500,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Mar 01 10:24:09 +0000 2016",
-    "id": 704613186184597500,
-    "id_str": "704613186184597504",
-    "text": "Я там прямо сейчас переучиваюсь c jquery на чистом javascript писать))",
+    "created_at": "Thu Mar 03 15:27:57 +0000 2016",
+    "id": 705414415156453400,
+    "id_str": "705414415156453376",
+    "text": "@dshster @html5by А что мы, мы ничего",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 705406627621564400,
+    "in_reply_to_status_id_str": "705406627621564416",
+    "in_reply_to_user_id": 27943642,
+    "in_reply_to_user_id_str": "27943642",
+    "in_reply_to_screen_name": "dshster",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "dshster",
+          "name": "Дмитрий Швалёв",
+          "id": 27943642,
+          "id_str": "27943642",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "html5by",
+          "name": "html5by",
+          "id": 892143990,
+          "id_str": "892143990",
+          "indices": [
+            9,
+            17
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "uk"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
