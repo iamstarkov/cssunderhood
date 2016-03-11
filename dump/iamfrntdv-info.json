@@ -26,24 +26,24 @@
     }
   },
   "protected": false,
-  "followers_count": 2355,
+  "followers_count": 2352,
   "friends_count": 114,
-  "listed_count": 119,
+  "listed_count": 122,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 825,
+  "favourites_count": 904,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11887,
+  "statuses_count": 12094,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Mar 09 10:23:33 +0000 2016",
-    "id": 707512137736974300,
-    "id_str": "707512137736974337",
-    "text": "RT @krasivieglaza: @cssunderhood есть отличная статья про рендеринг CSS, ну и про работу браузера в целом - https://t.co/JG4QyYH46U",
+    "created_at": "Fri Mar 11 12:00:51 +0000 2016",
+    "id": 708261401421291500,
+    "id_str": "708261401421291520",
+    "text": "У нас пробовали https://t.co/0eWieHSXG4 , ранее упомянутый https://t.co/xnwuays6HO",
     "truncated": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -53,99 +53,36 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Mar 09 10:00:27 +0000 2016",
-      "id": 707506325153058800,
-      "id_str": "707506325153058816",
-      "text": "@cssunderhood есть отличная статья про рендеринг CSS, ну и про работу браузера в целом - https://t.co/JG4QyYH46U",
-      "truncated": false,
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 707503731613499400,
-      "in_reply_to_status_id_str": "707503731613499392",
-      "in_reply_to_user_id": 3376999971,
-      "in_reply_to_user_id_str": "3376999971",
-      "in_reply_to_screen_name": "cssunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 4,
-      "favorite_count": 7,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/JG4QyYH46U",
-            "expanded_url": "http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/#CSS_parsing",
-            "display_url": "html5rocks.com/ru/tutorials/i…",
-            "indices": [
-              89,
-              112
-            ]
-          }
-        ]
-      },
-      "favorited": true,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 4,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "krasivieglaza",
-          "name": "Sergei Panfilov",
-          "id": 59075577,
-          "id_str": "59075577",
+          "url": "https://t.co/0eWieHSXG4",
+          "expanded_url": "http://galenframework.com/",
+          "display_url": "galenframework.com",
           "indices": [
-            3,
-            17
+            16,
+            39
           ]
         },
         {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
+          "url": "https://t.co/xnwuays6HO",
+          "expanded_url": "https://github.com/2gis/makeup",
+          "display_url": "github.com/2gis/makeup",
           "indices": [
-            19,
-            32
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/JG4QyYH46U",
-          "expanded_url": "http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/#CSS_parsing",
-          "display_url": "html5rocks.com/ru/tutorials/i…",
-          "indices": [
-            108,
-            131
+            59,
+            82
           ]
         }
       ]
     },
-    "favorited": true,
-    "retweeted": true,
+    "favorited": false,
+    "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
   },
