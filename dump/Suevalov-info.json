@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2500,
+  "followers_count": 2506,
   "friends_count": 115,
   "listed_count": 128,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -35,15 +35,15 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12845,
+  "statuses_count": 12846,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Mar 26 14:56:52 +0000 2016",
-    "id": 713741516985016300,
-    "id_str": "713741516985016320",
-    "text": "Gemini от Яндекса - также отличный инструмент. https://t.co/7e39HRm5WE. Особенно подойдет для тестирования библиотеки компонентов.",
+    "created_at": "Sun Mar 27 20:04:54 +0000 2016",
+    "id": 714181423960309800,
+    "id_str": "714181423960309764",
+    "text": "Всем спасибо за неделю! С вами был @Suevalov, пока-пока!",
     "truncated": false,
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -59,22 +59,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/7e39HRm5WE",
-          "expanded_url": "https://github.com/gemini-testing/gemini",
-          "display_url": "github.com/gemini-testing…",
+          "screen_name": "suevalov",
+          "name": "Alexander Suevalov",
+          "id": 242493681,
+          "id_str": "242493681",
           "indices": [
-            47,
-            70
+            35,
+            44
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
