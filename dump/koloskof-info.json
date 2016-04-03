@@ -26,26 +26,37 @@
     }
   },
   "protected": false,
-  "followers_count": 2553,
-  "friends_count": 118,
-  "listed_count": 129,
+  "followers_count": 2563,
+  "friends_count": 120,
+  "listed_count": 128,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1013,
+  "favourites_count": 1022,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13018,
+  "statuses_count": 13045,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Apr 01 07:18:32 +0000 2016",
-    "id": 715800498985680900,
-    "id_str": "715800498985680896",
-    "text": "“Стартапы нужно делать там, где есть экосистема для этого (деньги / контакты / возможности)”. Есть обратные примеры?",
+    "created_at": "Sun Apr 03 19:44:53 +0000 2016",
+    "id": 716713101329096700,
+    "id_str": "716713101329096704",
+    "text": "Подошло к концу мое недельное дежурство. Всем спасибо за активность. С вами был @koloskof",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "koloskof",
+          "name": "Mikhail",
+          "id": 129881766,
+          "id_str": "129881766",
+          "indices": [
+            80,
+            89
+          ]
+        }
+      ],
       "urls": []
     },
     "truncated": false,
@@ -61,7 +72,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
