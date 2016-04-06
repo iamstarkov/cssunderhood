@@ -26,57 +26,57 @@
     }
   },
   "protected": false,
-  "followers_count": 2579,
+  "followers_count": 2588,
   "friends_count": 120,
-  "listed_count": 128,
+  "listed_count": 129,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1023,
+  "favourites_count": 1025,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13136,
+  "statuses_count": 13193,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Apr 05 08:38:32 +0000 2016",
-    "id": 717270183098904600,
-    "id_str": "717270183098904576",
-    "text": "Полюбил Slack с первого взгляда. Главное, правильно настроить нотификации и не отвлекаться в random по пустякам :) https://t.co/eqFxxrwd9q",
+    "created_at": "Tue Apr 05 19:29:54 +0000 2016",
+    "id": 717434103885393900,
+    "id_str": "717434103885393920",
+    "text": "@curlymario лично знаю трех людей, которые перешли из дизайна в верстку. Но долго там они не продержались и перешли в менеджеры :)",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/eqFxxrwd9q",
-          "expanded_url": "https://twitter.com/jsunderhood/status/717269484642385920",
-          "display_url": "twitter.com/jsunderhood/st…",
+          "screen_name": "curlymario",
+          "name": "лисвкоробке",
+          "id": 266214921,
+          "id_str": "266214921",
           "indices": [
-            115,
-            138
+            0,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "truncated": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": 717430797754564600,
+    "in_reply_to_status_id_str": "717430797754564608",
+    "in_reply_to_user_id": 266214921,
+    "in_reply_to_user_id_str": "266214921",
+    "in_reply_to_screen_name": "curlymario",
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
-    "quoted_status_id": 717269484642385900,
-    "quoted_status_id_str": "717269484642385920",
-    "is_quote_status": true,
+    "contributors": [
+      17106325
+    ],
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
