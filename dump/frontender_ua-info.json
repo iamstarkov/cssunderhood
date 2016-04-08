@@ -26,46 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 2588,
+  "followers_count": 2604,
   "friends_count": 120,
-  "listed_count": 129,
+  "listed_count": 130,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1025,
+  "favourites_count": 1026,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13193,
+  "statuses_count": 13356,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Apr 05 19:29:54 +0000 2016",
-    "id": 717434103885393900,
-    "id_str": "717434103885393920",
-    "text": "@curlymario лично знаю трех людей, которые перешли из дизайна в верстку. Но долго там они не продержались и перешли в менеджеры :)",
+    "created_at": "Fri Apr 08 15:08:42 +0000 2016",
+    "id": 718455536656760800,
+    "id_str": "718455536656760832",
+    "text": "@ardshock короче пекари слегка соснули. никогда такого не было и вот опять  :( https://t.co/jgFAeVQlCB",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "curlymario",
-          "name": "лисвкоробке",
-          "id": 266214921,
-          "id_str": "266214921",
+          "screen_name": "ardshock",
+          "name": "Kink Ardshock",
+          "id": 324841177,
+          "id_str": "324841177",
           "indices": [
             0,
-            11
+            9
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/jgFAeVQlCB",
+          "expanded_url": "http://kanobu.ru/news/chto-ne-tak-s-pc-versiej-quantum-break-381946/",
+          "display_url": "kanobu.ru/news/chto-ne-t…",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
     },
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 717430797754564600,
-    "in_reply_to_status_id_str": "717430797754564608",
-    "in_reply_to_user_id": 266214921,
-    "in_reply_to_user_id_str": "266214921",
-    "in_reply_to_screen_name": "curlymario",
+    "in_reply_to_status_id": 718423143250030600,
+    "in_reply_to_status_id_str": "718423143250030592",
+    "in_reply_to_user_id": 324841177,
+    "in_reply_to_user_id_str": "324841177",
+    "in_reply_to_screen_name": "ardshock",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +84,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
