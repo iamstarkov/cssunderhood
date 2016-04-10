@@ -26,26 +26,47 @@
     }
   },
   "protected": false,
-  "followers_count": 2609,
+  "followers_count": 2611,
   "friends_count": 122,
   "listed_count": 129,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1026,
+  "favourites_count": 1028,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13401,
+  "statuses_count": 13433,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Apr 09 21:30:56 +0000 2016",
-    "id": 718914113989144600,
-    "id_str": "718914113989144578",
-    "text": "Ладно. Верстка - это, конечно, хорошо, но пришло время отвлечься. Пойду запинаю сотню - другую зомби в Dying Light. Плодотворной всем ночи!",
+    "created_at": "Sun Apr 10 20:32:01 +0000 2016",
+    "id": 719261675229196300,
+    "id_str": "719261675229196289",
+    "text": "На этом буду  закругляться. На этой неделе ленту вел @dersmoll aka @frontender_ua, спасибо за внимание. PS: Куда логировать время за таск?:)",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "dersmoll",
+          "name": "Alex Smoll",
+          "id": 17106325,
+          "id_str": "17106325",
+          "indices": [
+            53,
+            62
+          ]
+        },
+        {
+          "screen_name": "frontender_ua",
+          "name": "frontender",
+          "id": 489673526,
+          "id_str": "489673526",
+          "indices": [
+            67,
+            81
+          ]
+        }
+      ],
       "urls": []
     },
     "truncated": false,
@@ -61,7 +82,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
