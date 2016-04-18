@@ -37,27 +37,37 @@
     }
   },
   "protected": false,
-  "followers_count": 2661,
+  "followers_count": 2671,
   "friends_count": 124,
-  "listed_count": 128,
+  "listed_count": 129,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1054,
+  "favourites_count": 1066,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13677,
+  "statuses_count": 13738,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Apr 18 11:16:45 +0000 2016",
-    "id": 722021040298336300,
-    "id_str": "722021040298336256",
-    "text": "Это бесценный опыт работы в команде, особенно на этапе становления. Я считаю, что через него должны проходить начинающие специалисты.",
+    "created_at": "Mon Apr 18 18:53:59 +0000 2016",
+    "id": 722136107127849000,
+    "id_str": "722136107127848960",
+    "text": "Минусы, ну ты будешь писать немного больше кода чем раньше, но при этом это твой код, и ты знаешь как он работает. https://t.co/ZCdb1Fm0TM",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/ZCdb1Fm0TM",
+          "expanded_url": "https://twitter.com/notarseniy/status/722135135328563201",
+          "display_url": "twitter.com/notarseniy/sta…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 722135135328563200,
+    "quoted_status_id_str": "722135135328563201",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
