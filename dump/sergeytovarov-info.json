@@ -37,27 +37,37 @@
     }
   },
   "protected": false,
-  "followers_count": 2673,
+  "followers_count": 2676,
   "friends_count": 124,
-  "listed_count": 129,
+  "listed_count": 131,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1069,
+  "favourites_count": 1119,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13749,
+  "statuses_count": 13850,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Apr 19 10:53:02 +0000 2016",
-    "id": 722377462483718100,
-    "id_str": "722377462483718144",
-    "text": "Ради интереса опрос. Где вы работаете?",
+    "created_at": "Wed Apr 20 15:53:46 +0000 2016",
+    "id": 722815532852863000,
+    "id_str": "722815532852862977",
+    "text": "Это пример хорошего взаимодействия с дизайнером.  https://t.co/tluxwmPBMv",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/tluxwmPBMv",
+          "expanded_url": "https://twitter.com/isquariel/status/722814085008502784",
+          "display_url": "twitter.com/isquariel/stat…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 722814085008502800,
+    "quoted_status_id_str": "722814085008502784",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
