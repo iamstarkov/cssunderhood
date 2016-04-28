@@ -30,23 +30,33 @@
   "friends_count": 125,
   "listed_count": 131,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1250,
+  "favourites_count": 1270,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14122,
+  "statuses_count": 14155,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Apr 27 06:56:06 +0000 2016",
-    "id": 725216936313905200,
-    "id_str": "725216936313905153",
-    "text": "Давайте попробуем составить список того, к чему нужно быть готовым молодому верстальщику/фронтендеру, когда он начинает работу в команде?",
+    "created_at": "Wed Apr 27 12:43:18 +0000 2016",
+    "id": 725304313078255600,
+    "id_str": "725304313078255616",
+    "text": "Думаю, после пары-тройки лет работы в коллективе) https://t.co/B7f7QHdBuD",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/B7f7QHdBuD",
+          "expanded_url": "https://twitter.com/losewmac/status/725303992096575488",
+          "display_url": "twitter.com/losewmac/statu…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -59,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 725303992096575500,
+    "quoted_status_id_str": "725303992096575488",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
