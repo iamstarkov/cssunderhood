@@ -26,34 +26,84 @@
     }
   },
   "protected": false,
-  "followers_count": 2697,
+  "followers_count": 2701,
   "friends_count": 125,
   "listed_count": 131,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1270,
+  "favourites_count": 1276,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14155,
+  "statuses_count": 14161,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Apr 27 12:43:18 +0000 2016",
-    "id": 725304313078255600,
-    "id_str": "725304313078255616",
-    "text": "Думаю, после пары-тройки лет работы в коллективе) https://t.co/B7f7QHdBuD",
+    "created_at": "Fri Apr 29 10:40:58 +0000 2016",
+    "id": 725998301913473000,
+    "id_str": "725998301913473025",
+    "text": "RT @Di_Ed_Seagull: @doberbober @DemoCoder @cssunderhood https://t.co/POVfDtgwfi - вк, https://t.co/332WpxEuwe - телеграм.",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Di_Ed_Seagull",
+          "name": "Dead Seagull",
+          "id": 3067668887,
+          "id_str": "3067668887",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "doberbober",
+          "name": "Просто Бобёр",
+          "id": 1943876984,
+          "id_str": "1943876984",
+          "indices": [
+            19,
+            30
+          ]
+        },
+        {
+          "screen_name": "DemoCoder",
+          "name": "Дмитрий",
+          "id": 380163075,
+          "id_str": "380163075",
+          "indices": [
+            31,
+            41
+          ]
+        },
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            42,
+            55
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/B7f7QHdBuD",
-          "expanded_url": "https://twitter.com/losewmac/status/725303992096575488",
-          "display_url": "twitter.com/losewmac/statu…",
+          "url": "https://t.co/POVfDtgwfi",
+          "expanded_url": "http://vk.com/frontseagulls",
+          "display_url": "vk.com/frontseagulls",
           "indices": [
-            50,
-            73
+            56,
+            79
+          ]
+        },
+        {
+          "url": "https://t.co/332WpxEuwe",
+          "expanded_url": "https://telegram.me/frontend_seagulls",
+          "display_url": "telegram.me/frontend_seagu…",
+          "indices": [
+            86,
+            109
           ]
         }
       ]
@@ -69,13 +119,91 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 725303992096575500,
-    "quoted_status_id_str": "725303992096575488",
-    "is_quote_status": true,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Apr 27 18:36:17 +0000 2016",
+      "id": 725393146390167600,
+      "id_str": "725393146390167552",
+      "text": "@doberbober @DemoCoder @cssunderhood https://t.co/POVfDtgwfi - вк, https://t.co/332WpxEuwe - телеграм.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "doberbober",
+            "name": "Просто Бобёр",
+            "id": 1943876984,
+            "id_str": "1943876984",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "DemoCoder",
+            "name": "Дмитрий",
+            "id": 380163075,
+            "id_str": "380163075",
+            "indices": [
+              12,
+              22
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              23,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/POVfDtgwfi",
+            "expanded_url": "http://vk.com/frontseagulls",
+            "display_url": "vk.com/frontseagulls",
+            "indices": [
+              37,
+              60
+            ]
+          },
+          {
+            "url": "https://t.co/332WpxEuwe",
+            "expanded_url": "https://telegram.me/frontend_seagulls",
+            "display_url": "telegram.me/frontend_seagu…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 725364795906625500,
+      "in_reply_to_status_id_str": "725364795906625536",
+      "in_reply_to_user_id": 1943876984,
+      "in_reply_to_user_id_str": "1943876984",
+      "in_reply_to_screen_name": "doberbober",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
