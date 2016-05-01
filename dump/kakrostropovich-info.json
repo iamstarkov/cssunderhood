@@ -26,37 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 2702,
+  "followers_count": 2758,
   "friends_count": 125,
   "listed_count": 131,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1279,
+  "favourites_count": 1287,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14166,
+  "statuses_count": 14184,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Apr 30 08:31:44 +0000 2016",
-    "id": 726328166311145500,
-    "id_str": "726328166311145473",
-    "text": "Да, прибраться бы не помешало:)) https://t.co/u4s4sF8z13",
+    "created_at": "Sun May 01 14:01:28 +0000 2016",
+    "id": 726773534987542500,
+    "id_str": "726773534987542528",
+    "text": "Если показался интересным - подписывайтесь, буду рад общению! С вами был Ростислав Назмеев @kakrostropovich! Всем удачи!",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/u4s4sF8z13",
-          "expanded_url": "https://twitter.com/nemcik7/status/726324182930329600",
-          "display_url": "twitter.com/nemcik7/status…",
+          "screen_name": "kakrostropovich",
+          "name": "kakRostropovich",
+          "id": 4023597977,
+          "id_str": "4023597977",
           "indices": [
-            33,
-            56
+            91,
+            107
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -69,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 726324182930329600,
-    "quoted_status_id_str": "726324182930329600",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
