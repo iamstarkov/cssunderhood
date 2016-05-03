@@ -26,34 +26,45 @@
     }
   },
   "protected": false,
-  "followers_count": 2757,
+  "followers_count": 2759,
   "friends_count": 125,
   "listed_count": 133,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1293,
+  "favourites_count": 1305,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14271,
+  "statuses_count": 14305,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 03 01:29:53 +0000 2016",
-    "id": 727309170517626900,
-    "id_str": "727309170517626880",
-    "text": "По умолчанию — да, но это для «хомячков» и контентщиков. Т. е. есть единая точка входа. Но стат. ресурсы тоже есть. https://t.co/07xzXZJrKC",
+    "created_at": "Tue May 03 19:35:12 +0000 2016",
+    "id": 727582299081019400,
+    "id_str": "727582299081019393",
+    "text": "Вы можете опубликовать что-то более важное и полезное для читателей с ником @cssunderhood – я сделаю ретвит. https://t.co/y31zekMOb0",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            76,
+            89
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/07xzXZJrKC",
-          "expanded_url": "https://twitter.com/GrawlCore/status/727308259221233664",
-          "display_url": "twitter.com/GrawlCore/stat…",
+          "url": "https://t.co/y31zekMOb0",
+          "expanded_url": "https://twitter.com/denysdovhan/status/727564572731817984",
+          "display_url": "twitter.com/denysdovhan/st…",
           "indices": [
-            116,
-            139
+            109,
+            132
           ]
         }
       ]
@@ -71,8 +82,8 @@
     "contributors": [
       154728550
     ],
-    "quoted_status_id": 727308259221233700,
-    "quoted_status_id_str": "727308259221233664",
+    "quoted_status_id": 727564572731818000,
+    "quoted_status_id_str": "727564572731817984",
     "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
