@@ -26,46 +26,114 @@
     }
   },
   "protected": false,
-  "followers_count": 2759,
+  "followers_count": 2705,
   "friends_count": 125,
-  "listed_count": 133,
+  "listed_count": 135,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1305,
+  "favourites_count": 1320,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14305,
+  "statuses_count": 14353,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 03 19:35:12 +0000 2016",
-    "id": 727582299081019400,
-    "id_str": "727582299081019393",
-    "text": "Вы можете опубликовать что-то более важное и полезное для читателей с ником @cssunderhood – я сделаю ретвит. https://t.co/y31zekMOb0",
+    "created_at": "Thu May 05 18:09:58 +0000 2016",
+    "id": 728285625200328700,
+    "id_str": "728285625200328704",
+    "text": "Это к тому, что не стоит гнаться за Web Worker, WebAssembly и т. д., минуя хотя бы бесплатные курсы @htmlacademy_ru https://t.co/re8D9YND0p",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
+          "screen_name": "htmlacademy_ru",
+          "name": "HTML Academy",
+          "id": 773276947,
+          "id_str": "773276947",
           "indices": [
-            76,
-            89
+            100,
+            115
           ]
         }
       ],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/y31zekMOb0",
-          "expanded_url": "https://twitter.com/denysdovhan/status/727564572731817984",
-          "display_url": "twitter.com/denysdovhan/st…",
+          "id": 728285164611248100,
+          "id_str": "728285164611248128",
           "indices": [
-            109,
-            132
-          ]
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Chtjf6PXIAAGu-a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Chtjf6PXIAAGu-a.jpg",
+          "url": "https://t.co/re8D9YND0p",
+          "display_url": "pic.twitter.com/re8D9YND0p",
+          "expanded_url": "http://twitter.com/cssunderhood/status/728285625200328704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 630,
+              "h": 355,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 728285164611248100,
+          "id_str": "728285164611248128",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Chtjf6PXIAAGu-a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Chtjf6PXIAAGu-a.jpg",
+          "url": "https://t.co/re8D9YND0p",
+          "display_url": "pic.twitter.com/re8D9YND0p",
+          "expanded_url": "http://twitter.com/cssunderhood/status/728285625200328704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 630,
+              "h": 355,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -82,11 +150,9 @@
     "contributors": [
       154728550
     ],
-    "quoted_status_id": 727564572731818000,
-    "quoted_status_id_str": "727564572731817984",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
