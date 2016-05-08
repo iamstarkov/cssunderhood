@@ -26,57 +26,59 @@
     }
   },
   "protected": false,
-  "followers_count": 2706,
+  "followers_count": 2707,
   "friends_count": 125,
   "listed_count": 135,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1333,
+  "favourites_count": 1351,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14392,
+  "statuses_count": 14420,
   "lang": "ru",
   "status": {
-    "created_at": "Fri May 06 12:06:34 +0000 2016",
-    "id": 728556559085781000,
-    "id_str": "728556559085780992",
-    "text": "За такую сумму я сам тебе расскажу =) А откуда такая цифра, если не секрет? @SilentImp",
+    "created_at": "Sun May 08 06:33:26 +0000 2016",
+    "id": 729197499148320800,
+    "id_str": "729197499148320768",
+    "text": "Или на 🍻-апе взять инициативу — попросить опытного разработчика рассказать о чём-нибудь, «повторив» ему его заказ… https://t.co/cpXxbBLQdY",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "SilentImp",
-          "name": "Тихий Бес",
-          "id": 71016924,
-          "id_str": "71016924",
+          "url": "https://t.co/cpXxbBLQdY",
+          "expanded_url": "https://twitter.com/asktwi/status/729196094433984512",
+          "display_url": "twitter.com/asktwi/status/…",
           "indices": [
-            76,
-            86
+            115,
+            138
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 728555542629724200,
-    "in_reply_to_status_id_str": "728555542629724160",
-    "in_reply_to_user_id": 71016924,
-    "in_reply_to_user_id_str": "71016924",
-    "in_reply_to_screen_name": "SilentImp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       154728550
     ],
-    "is_quote_status": false,
+    "quoted_status_id": 729196094433984500,
+    "quoted_status_id_str": "729196094433984512",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
