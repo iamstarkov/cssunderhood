@@ -6,34 +6,68 @@
   "location": "Черновцы, Украина",
   "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для верстальщиков, веб-дизайнеров и сочувствующих с новым автором каждую неделю. На этой неделе с вами @DenisZavgorodny",
-  "url": null,
+  "url": "https://t.co/Kem9C6tf3p",
   "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/Kem9C6tf3p",
+          "expanded_url": "https://cssunderhood.ru",
+          "display_url": "cssunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
     "description": {
       "urls": []
     }
   },
   "protected": false,
-  "followers_count": 2705,
+  "followers_count": 2711,
   "friends_count": 126,
   "listed_count": 135,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1353,
+  "favourites_count": 1360,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14432,
+  "statuses_count": 14484,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 09 08:15:10 +0000 2016",
-    "id": 729585491050385400,
-    "id_str": "729585491050385408",
-    "text": "Сегодня праздники и начнем мы без напрягов, по традиции. В меня все как обычно: sublime+reload+сервер статики. Но, у нас php. Об этом позже.",
+    "created_at": "Tue May 10 08:28:11 +0000 2016",
+    "id": 729951152687743000,
+    "id_str": "729951152687742977",
+    "text": "Именно потому так и делаю.  Часы, кратные 4 +- @mista_k  https://t.co/JgHZS2SAqe",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "mista_k",
+          "name": "Vladimir Kuznetsov",
+          "id": 15500045,
+          "id_str": "15500045",
+          "indices": [
+            47,
+            55
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JgHZS2SAqe",
+          "expanded_url": "https://twitter.com/mista_k/status/729950729616691200",
+          "display_url": "twitter.com/mista_k/status…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -46,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 729950729616691200,
+    "quoted_status_id_str": "729950729616691200",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
