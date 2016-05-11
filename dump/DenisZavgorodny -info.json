@@ -26,50 +26,39 @@
     }
   },
   "protected": false,
-  "followers_count": 2711,
+  "followers_count": 2712,
   "friends_count": 126,
-  "listed_count": 135,
+  "listed_count": 134,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1360,
+  "favourites_count": 1366,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14484,
+  "statuses_count": 14520,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 10 08:28:11 +0000 2016",
-    "id": 729951152687743000,
-    "id_str": "729951152687742977",
-    "text": "Именно потому так и делаю.  Часы, кратные 4 +- @mista_k  https://t.co/JgHZS2SAqe",
+    "created_at": "Wed May 11 07:42:55 +0000 2016",
+    "id": 730302150761455600,
+    "id_str": "730302150761455616",
+    "text": "У меня сегодня день рождения, буду снова смотреть https://t.co/dnLI0l96Zg А позже поговорим о самореализации и куда расти верстальщику",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "mista_k",
-          "name": "Vladimir Kuznetsov",
-          "id": 15500045,
-          "id_str": "15500045",
-          "indices": [
-            47,
-            55
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/JgHZS2SAqe",
-          "expanded_url": "https://twitter.com/mista_k/status/729950729616691200",
-          "display_url": "twitter.com/mista_k/status…",
+          "url": "https://t.co/dnLI0l96Zg",
+          "expanded_url": "https://www.youtube.com/watch?v=xPPCzryZK44",
+          "display_url": "youtube.com/watch?v=xPPCzr…",
           "indices": [
-            57,
-            80
+            50,
+            73
           ]
         }
       ]
     },
-    "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -80,11 +69,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 729950729616691200,
-    "quoted_status_id_str": "729950729616691200",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
