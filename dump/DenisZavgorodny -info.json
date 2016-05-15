@@ -30,47 +30,37 @@
   "friends_count": 126,
   "listed_count": 134,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1379,
+  "favourites_count": 1382,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14579,
+  "statuses_count": 14603,
   "lang": "ru",
   "status": {
-    "created_at": "Sat May 14 15:33:56 +0000 2016",
-    "id": 731507848232980500,
-    "id_str": "731507848232980481",
-    "text": "А почему jade? Через руководствовался при выборе? @GrawlCore https://t.co/WsUPsZ0DLd",
+    "created_at": "Sun May 15 20:35:28 +0000 2016",
+    "id": 731946118339301400,
+    "id_str": "731946118339301376",
+    "text": "На этом, наверное все. Еще раз спасибо всем за общение. Надеюсь, продолжим в @DenisZavgorodny",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "GrawlCore",
-          "name": "Даниил",
-          "id": 16737157,
-          "id_str": "16737157",
+          "screen_name": "DenisZavgorodny",
+          "name": "Denis Zavgorodny",
+          "id": 593018744,
+          "id_str": "593018744",
           "indices": [
-            50,
-            60
+            77,
+            93
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/WsUPsZ0DLd",
-          "expanded_url": "https://twitter.com/GrawlCore/status/731505755862536192",
-          "display_url": "twitter.com/GrawlCore/stat…",
-          "indices": [
-            61,
-            84
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 731505755862536200,
-    "quoted_status_id_str": "731505755862536192",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
