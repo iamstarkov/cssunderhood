@@ -26,40 +26,51 @@
     }
   },
   "protected": false,
-  "followers_count": 2721,
+  "followers_count": 2722,
   "friends_count": 126,
   "listed_count": 134,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1374,
+  "favourites_count": 1379,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14560,
+  "statuses_count": 14579,
   "lang": "ru",
   "status": {
-    "created_at": "Thu May 12 22:57:17 +0000 2016",
-    "id": 730894646268727300,
-    "id_str": "730894646268727296",
-    "text": "Собрал ссылки, которые постил за день по теме визуального тестирования https://t.co/8VjKRAOuAO Добавляйте pull request с ссылками по теме",
+    "created_at": "Sat May 14 15:33:56 +0000 2016",
+    "id": 731507848232980500,
+    "id_str": "731507848232980481",
+    "text": "А почему jade? Через руководствовался при выборе? @GrawlCore https://t.co/WsUPsZ0DLd",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "GrawlCore",
+          "name": "Даниил",
+          "id": 16737157,
+          "id_str": "16737157",
+          "indices": [
+            50,
+            60
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/8VjKRAOuAO",
-          "expanded_url": "https://github.com/denis-zavgorodny/regression_testing",
-          "display_url": "github.com/denis-zavgorod…",
+          "url": "https://t.co/WsUPsZ0DLd",
+          "expanded_url": "https://twitter.com/GrawlCore/status/731505755862536192",
+          "display_url": "twitter.com/GrawlCore/stat…",
           "indices": [
-            71,
-            94
+            61,
+            84
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -69,9 +80,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 731505755862536200,
+    "quoted_status_id_str": "731505755862536192",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 13,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
