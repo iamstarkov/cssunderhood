@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'DenisZavgorodny ', start: '09 May 2016', first: '729578234057232384', post: false },
+  { username: 'DenisZavgorodny ', start: '09 May 2016', first: '729578234057232384' },
   { username: 'Realetive',        start: '02 May 2016', first: '727035454827192321' },
   { username: 'kakrostropovich',  start: '25 Apr 2016', first: '724512342977990657' },
   { username: 'sergeytovarov',    start: '18 Apr 2016', first: '721954838297341952' },
