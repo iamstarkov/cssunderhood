@@ -46,26 +46,37 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14606,
+  "statuses_count": 14610,
   "lang": "ru",
   "status": {
-    "created_at": "Sun May 15 21:07:43 +0000 2016",
-    "id": 731954236154581000,
-    "id_str": "731954236154580992",
-    "text": "Заниматься опен сорсом начал полтора года назад. Тогда же присоединился к команде postcss. Так же разработал postcss-inline-svg.",
+    "created_at": "Sun May 15 21:12:16 +0000 2016",
+    "id": 731955382143332400,
+    "id_str": "731955382143332352",
+    "text": "@runfew Начинал с провинциальных сайтиков всяких компаний, потом появился заказчик лендингов. Тогда в мою жизнь пришел JS.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "runfew",
+          "name": "in few",
+          "id": 710972786043457500,
+          "id_str": "710972786043457536",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 731954895432093700,
+    "in_reply_to_status_id_str": "731954895432093696",
+    "in_reply_to_user_id": 710972786043457500,
+    "in_reply_to_user_id_str": "710972786043457536",
+    "in_reply_to_screen_name": "runfew",
     "geo": null,
     "coordinates": null,
     "place": null,
