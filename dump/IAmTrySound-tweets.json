@@ -8154,6 +8154,580 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 19 05:10:00 +0000 2016",
+      "id": 733162771576201200,
+      "id_str": "733162771576201217",
+      "text": "У вас баблё, а ведь это Майкл Бубле. https://t.co/zuk5L2ljOe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zuk5L2ljOe",
+            "expanded_url": "https://twitter.com/iamstarkov/status/733094278998687745",
+            "display_url": "twitter.com/iamstarkov/sta…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 733094278998687700,
+      "quoted_status_id_str": "733094278998687745",
+      "quoted_status": {
+        "created_at": "Thu May 19 00:37:51 +0000 2016",
+        "id": 733094278998687700,
+        "id_str": "733094278998687745",
+        "text": "@cssunderhood @SilentImp это не Бабель, а баблё",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "SilentImp",
+              "name": "Тихий Бес",
+              "id": 71016924,
+              "id_str": "71016924",
+              "indices": [
+                14,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 733025599032266800,
+        "in_reply_to_status_id_str": "733025599032266753",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 98084311,
+          "id_str": "98084311"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 19 07:23:43 +0000 2016",
+      "id": 733196421160161300,
+      "id_str": "733196421160161280",
+      "text": "@justredpaul Да брось. Я тоже долго не понимал его, пока не попробовал. Действительно приятнее код писать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "justredpaul",
+            "name": "Павел",
+            "id": 210503688,
+            "id_str": "210503688",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 733195568944681000,
+      "in_reply_to_status_id_str": "733195568944680964",
+      "in_reply_to_user_id": 210503688,
+      "in_reply_to_user_id_str": "210503688",
+      "in_reply_to_screen_name": "justredpaul",
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 19 21:26:35 +0000 2016",
+      "id": 733408536026222600,
+      "id_str": "733408536026222593",
+      "text": "RT @DenisZavgorodny: Интересное поведение блоков. Может кто подскажет?https://t.co/MKjp6stkrP  Почему child центрируется по высоте? @cssund…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DenisZavgorodny",
+            "name": "Denis Zavgorodny",
+            "id": 593018744,
+            "id_str": "593018744",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              132,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MKjp6stkrP",
+            "expanded_url": "https://jsfiddle.net/denisz/67hn5gka/",
+            "display_url": "jsfiddle.net/denisz/67hn5gk…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 19 20:30:58 +0000 2016",
+        "id": 733394538182643700,
+        "id_str": "733394538182643716",
+        "text": "Интересное поведение блоков. Может кто подскажет?https://t.co/MKjp6stkrP  Почему child центрируется по высоте? @cssunderhood",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                111,
+                124
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/MKjp6stkrP",
+              "expanded_url": "https://jsfiddle.net/denisz/67hn5gka/",
+              "display_url": "jsfiddle.net/denisz/67hn5gk…",
+              "indices": [
+                49,
+                72
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 593018744,
+          "id_str": "593018744"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 20 14:00:22 +0000 2016",
+      "id": 733658630311039000,
+      "id_str": "733658630311038977",
+      "text": "Я предпочитаю инлайнить svg в css с кастомизацией. Синтаксис работает в препроцессорах https://t.co/vQLmtgJAyE https://t.co/1pyC19NIVc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vQLmtgJAyE",
+            "expanded_url": "https://github.com/TrySound/postcss-inline-svg",
+            "display_url": "github.com/TrySound/postc…",
+            "indices": [
+              87,
+              110
+            ]
+          },
+          {
+            "url": "https://t.co/1pyC19NIVc",
+            "expanded_url": "https://twitter.com/koloskof/status/733642966498172928",
+            "display_url": "twitter.com/koloskof/statu…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 733642966498172900,
+      "quoted_status_id_str": "733642966498172928",
+      "quoted_status": {
+        "created_at": "Fri May 20 12:58:08 +0000 2016",
+        "id": 733642966498172900,
+        "id_str": "733642966498172928",
+        "text": "@cssunderhood Как грамотно SVG спрайт сделать?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 129881766,
+          "id_str": "129881766"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 21 08:40:22 +0000 2016",
+      "id": 733940484960321500,
+      "id_str": "733940484960321536",
+      "text": "gzip и никаких проблем. https://t.co/uJH4sucabw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uJH4sucabw",
+            "expanded_url": "https://twitter.com/operatino/status/733936126843625472",
+            "display_url": "twitter.com/operatino/stat…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 733936126843625500,
+      "quoted_status_id_str": "733936126843625472",
+      "quoted_status": {
+        "created_at": "Sat May 21 08:23:03 +0000 2016",
+        "id": 733936126843625500,
+        "id_str": "733936126843625472",
+        "text": "@cssunderhood @koloskof и потом гигантский CSS пользователю выкачивать с каждым обновлением",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "koloskof",
+              "name": "Mikhail",
+              "id": 129881766,
+              "id_str": "129881766",
+              "indices": [
+                14,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 733658630311039000,
+        "in_reply_to_status_id_str": "733658630311038977",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "sr"
+    },
+    {
+      "created_at": "Sat May 21 08:44:39 +0000 2016",
+      "id": 733941564062453800,
+      "id_str": "733941564062453760",
+      "text": "Я использовал его долгое время, но отказался из-за флеша при первой загрузке. Особенно не круто с логотипами. https://t.co/cYVVETKH97",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cYVVETKH97",
+            "expanded_url": "https://twitter.com/operatino/status/733937343481155584",
+            "display_url": "twitter.com/operatino/stat…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3376999971,
+        "id_str": "3376999971"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 733937343481155600,
+      "quoted_status_id_str": "733937343481155584",
+      "quoted_status": {
+        "created_at": "Sat May 21 08:27:53 +0000 2016",
+        "id": 733937343481155600,
+        "id_str": "733937343481155584",
+        "text": "@cssunderhood @koloskof имхо вот самый лучший подход https://t.co/pVBtLCF6kC инлайн в HTML с кешированием в LS",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cssunderhood",
+              "name": "Верстальщик",
+              "id": 3376999971,
+              "id_str": "3376999971",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "koloskof",
+              "name": "Mikhail",
+              "id": 129881766,
+              "id_str": "129881766",
+              "indices": [
+                14,
+                23
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/pVBtLCF6kC",
+              "expanded_url": "https://m.habrahabr.ru/post/272505/",
+              "display_url": "m.habrahabr.ru/post/272505/",
+              "indices": [
+                53,
+                76
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 733658630311039000,
+        "in_reply_to_status_id_str": "733658630311038977",
+        "in_reply_to_user_id": 3376999971,
+        "in_reply_to_user_id_str": "3376999971",
+        "in_reply_to_screen_name": "cssunderhood",
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
