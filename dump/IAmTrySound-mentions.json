@@ -15722,6 +15722,189 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 21 09:02:07 +0000 2016",
+      "id": 733945958942289900,
+      "id_str": "733945958942289921",
+      "text": "@operatino @cssunderhood @koloskof @habrahabr я как раз использую https://t.co/SGzKUfTbKA принцип тот же",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              11,
+              24
+            ]
+          },
+          {
+            "screen_name": "koloskof",
+            "name": "Mikhail",
+            "id": 129881766,
+            "id_str": "129881766",
+            "indices": [
+              25,
+              34
+            ]
+          },
+          {
+            "screen_name": "habrahabr",
+            "name": "Хабрахабр",
+            "id": 18191307,
+            "id_str": "18191307",
+            "indices": [
+              35,
+              45
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SGzKUfTbKA",
+            "expanded_url": "https://github.com/TrySound/svg-sprite-injector/blob/master/README.md",
+            "display_url": "github.com/TrySound/svg-s…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 733937343481155600,
+      "in_reply_to_status_id_str": "733937343481155584",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 14831411,
+        "id_str": "14831411"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 21 09:51:10 +0000 2016",
+      "id": 733958301558378500,
+      "id_str": "733958301558378496",
+      "text": "@cssunderhood @koloskof флеш при первой загрузке 1 раз на клиент лучше чем белый экран при загрузке на каждый апдейт стилей",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "koloskof",
+            "name": "Mikhail",
+            "id": 129881766,
+            "id_str": "129881766",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 733941564062453800,
+      "in_reply_to_status_id_str": "733941564062453760",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 89017350,
+        "id_str": "89017350"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 22 20:43:59 +0000 2016",
+      "id": 734484979112108000,
+      "id_str": "734484979112108033",
+      "text": "@cssunderhood спасибо и тебе)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 734481659643498500,
+      "in_reply_to_status_id_str": "734481659643498496",
+      "in_reply_to_user_id": 3376999971,
+      "in_reply_to_user_id_str": "3376999971",
+      "in_reply_to_screen_name": "cssunderhood",
+      "user": {
+        "id": 86864641,
+        "id_str": "86864641"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
