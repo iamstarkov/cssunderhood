@@ -1,5 +1,6 @@
 export default [
   // post: false
+  { username: 'Gorenburg',        start: '30 May 2016', first: '737243740188880897', post: false },
   { username: 'Di_Ed_Seagull',    start: '23 May 2016', first: '734628839947685889' },
   { username: 'IAmTrySound',      start: '16 May 2016', first: '731953530236469252' },
   { username: 'DenisZavgorodny',  start: '09 May 2016', first: '729578234057232384' },
