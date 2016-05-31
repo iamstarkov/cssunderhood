@@ -37,38 +37,39 @@
     }
   },
   "protected": false,
-  "followers_count": 2738,
+  "followers_count": 2746,
   "friends_count": 125,
   "listed_count": 137,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
-  "favourites_count": 1459,
+  "favourites_count": 1458,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15020,
+  "statuses_count": 15049,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 30 11:32:17 +0000 2016",
-    "id": 737245241925853200,
-    "id_str": "737245241925853184",
-    "text": "Привет-привет! https://t.co/WlLLwgwCHY",
+    "created_at": "Tue May 31 13:03:27 +0000 2016",
+    "id": 737630573896695800,
+    "id_str": "737630573896695808",
+    "text": "Сегодня вечером хотел бы поговорить на тему CSS, БЭМ и @getbootstrap. Пообщаемся сегодня в 8 вечера по МСК",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/WlLLwgwCHY",
-          "expanded_url": "https://twitter.com/Romanshirokov/status/737244480110264320",
-          "display_url": "twitter.com/Romanshirokov/…",
+          "screen_name": "getbootstrap",
+          "name": "Bootstrap",
+          "id": 372475592,
+          "id_str": "372475592",
           "indices": [
-            15,
-            38
+            55,
+            68
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +81,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 737244480110264300,
-    "quoted_status_id_str": "737244480110264320",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
