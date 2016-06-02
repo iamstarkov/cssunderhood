@@ -39,37 +39,36 @@
   "protected": false,
   "followers_count": 2746,
   "friends_count": 125,
-  "listed_count": 137,
+  "listed_count": 138,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
   "favourites_count": 1458,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15049,
+  "statuses_count": 15092,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 31 13:03:27 +0000 2016",
-    "id": 737630573896695800,
-    "id_str": "737630573896695808",
-    "text": "Сегодня вечером хотел бы поговорить на тему CSS, БЭМ и @getbootstrap. Пообщаемся сегодня в 8 вечера по МСК",
+    "created_at": "Thu Jun 02 04:40:37 +0000 2016",
+    "id": 738228805454663700,
+    "id_str": "738228805454663684",
+    "text": "Вот это молодцы! https://t.co/UDtBtbYTod",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "getbootstrap",
-          "name": "Bootstrap",
-          "id": 372475592,
-          "id_str": "372475592",
+          "url": "https://t.co/UDtBtbYTod",
+          "expanded_url": "https://twitter.com/winiliwin/status/738146238613184512",
+          "display_url": "twitter.com/winiliwin/stat…",
           "indices": [
-            55,
-            68
+            17,
+            40
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -81,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 738146238613184500,
+    "quoted_status_id_str": "738146238613184512",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
