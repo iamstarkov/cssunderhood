@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2746,
+  "followers_count": 2740,
   "friends_count": 125,
   "listed_count": 138,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
@@ -46,26 +46,46 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15092,
+  "statuses_count": 15130,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jun 02 04:40:37 +0000 2016",
-    "id": 738228805454663700,
-    "id_str": "738228805454663684",
-    "text": "Вот это молодцы! https://t.co/UDtBtbYTod",
+    "created_at": "Sat Jun 04 08:34:51 +0000 2016",
+    "id": 739012526948659200,
+    "id_str": "739012526948659201",
+    "text": "Вы @codrops читаете? https://t.co/OgS00OkDYz https://t.co/Ve85Jn0bvt",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "codrops",
+          "name": "Codrops",
+          "id": 70096167,
+          "id_str": "70096167",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/UDtBtbYTod",
-          "expanded_url": "https://twitter.com/winiliwin/status/738146238613184512",
-          "display_url": "twitter.com/winiliwin/stat…",
+          "url": "https://t.co/OgS00OkDYz",
+          "expanded_url": "http://tympanus.net/codrops/",
+          "display_url": "tympanus.net/codrops/",
           "indices": [
-            17,
-            40
+            21,
+            44
+          ]
+        },
+        {
+          "url": "https://t.co/Ve85Jn0bvt",
+          "expanded_url": "https://twitter.com/chorna_kiwka/status/738837360507518976",
+          "display_url": "twitter.com/chorna_kiwka/s…",
+          "indices": [
+            45,
+            68
           ]
         }
       ]
@@ -80,11 +100,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 738146238613184500,
-    "quoted_status_id_str": "738146238613184512",
+    "quoted_status_id": 738837360507519000,
+    "quoted_status_id_str": "738837360507518976",
     "is_quote_status": true,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
