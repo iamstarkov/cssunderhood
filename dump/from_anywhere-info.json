@@ -37,27 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 2823,
+  "followers_count": 2838,
   "friends_count": 126,
-  "listed_count": 140,
+  "listed_count": 141,
   "created_at": "Wed Jul 15 08:48:23 +0000 2015",
   "favourites_count": 1437,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15647,
+  "statuses_count": 15793,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jun 30 15:08:29 +0000 2016",
-    "id": 748533671632707600,
-    "id_str": "748533671632707588",
-    "text": "Где-то попутно возникла потребность в «дообработке» значений стилей — например, перевода процентных величин в абсолютные",
+    "created_at": "Sun Jul 03 16:59:14 +0000 2016",
+    "id": 749648708480929800,
+    "id_str": "749648708480929793",
+    "text": "На этой неделе с вами был @from_anywhere, верстальщик, «Одноклассники».",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "from_anywhere",
+          "name": "Иван Метелёв",
+          "id": 365818115,
+          "id_str": "365818115",
+          "indices": [
+            26,
+            40
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -72,7 +83,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
