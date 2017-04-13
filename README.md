@@ -1,5 +1,7 @@
 # cssunderhood.ru
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/cssunderhood.svg)](https://greenkeeper.io/)
+
 Коллективный твиттер-аккаунт для верстальщиков, веб-дизайнеров и сочувствующих с новым автором каждую неделю
 
 ## Старт проекта
